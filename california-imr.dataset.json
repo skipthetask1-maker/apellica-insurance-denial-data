@@ -1,0 +1,2624 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Apellica Appeal Outcomes Library (California IMR aggregates)",
+  "description": "Overturn rates by treatment and diagnosis from every California Independent Medical Review decision published by the Department of Managed Health Care, with keyword tags on reviewer findings.",
+  "url": "https://apellica.com/appeal-outcomes",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isAccessibleForFree": true,
+  "isBasedOn": "https://data.chhs.ca.gov/dataset/independent-medical-review-imr-determinations-trend",
+  "creator": {
+    "@type": "Organization",
+    "name": "Apellica",
+    "url": "https://apellica.com"
+  },
+  "temporalCoverage": "2001/2026",
+  "spatialCoverage": "California",
+  "dateModified": "2026-09-11T18:04:09.201Z",
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://apellica.com/appeal-outcomes/california-imr/data"
+    }
+  ],
+  "caveats": [
+    "California only: these are decisions by independent reviewers under California's IMR program (plans regulated by the Department of Managed Health Care). Other states and self-funded employer plans use different reviewers and rules.",
+    "Selection: only denials that a member took all the way to IMR appear. Most denials are never appealed, and the ones that reach an external reviewer are not a random sample.",
+    "Overturned means the reviewer disagreed with the plan; it does not mean the treatment worked or that a similar request will be approved.",
+    "Argument tags are keyword matches on the reviewer's findings. They describe what the findings mention, not why the case was decided.",
+    "Categories are DMHC's own labels (treatment sub-category and diagnosis category); 'Other' is a catch-all and is excluded from rankings."
+  ],
+  "summary": {
+    "decisions": 42710,
+    "overturned": 22431,
+    "year_min": 2001,
+    "year_max": 2026,
+    "downloaded_at": "2026-09-11T18:04:09.201Z"
+  },
+  "treatments": [
+    {
+      "tx_sub_slug": "weight-control",
+      "tx_sub": "Weight Control",
+      "tx_cat": "Pharmacy",
+      "n": 1581,
+      "overturned": 1365,
+      "year_min": 2001,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "rtc",
+      "tx_sub": "RTC",
+      "tx_cat": "Mental Health",
+      "n": 1390,
+      "overturned": 1119,
+      "year_min": 2019,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "anti-virals",
+      "tx_sub": "Anti-virals",
+      "tx_cat": "Pharmacy",
+      "n": 1351,
+      "overturned": 1100,
+      "year_min": 2003,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "mri",
+      "tx_sub": "MRI",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 1068,
+      "overturned": 457,
+      "year_min": 2001,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "rtc-admit",
+      "tx_sub": "RTC/ Admit",
+      "tx_cat": "Mental Health",
+      "n": 1061,
+      "overturned": 440,
+      "year_min": 2002,
+      "year_max": 2020
+    },
+    {
+      "tx_sub_slug": "lab-work",
+      "tx_sub": "Lab Work",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 1015,
+      "overturned": 321,
+      "year_min": 2005,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "speech-therapy",
+      "tx_sub": "Speech Therapy",
+      "tx_cat": "Autism Related Tx",
+      "n": 972,
+      "overturned": 718,
+      "year_min": 2002,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "hormones",
+      "tx_sub": "Hormones",
+      "tx_cat": "Pharmacy",
+      "n": 971,
+      "overturned": 418,
+      "year_min": 2001,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "viscosupp-injection",
+      "tx_sub": "Viscosupp Injection",
+      "tx_cat": "Pain Management",
+      "n": 844,
+      "overturned": 792,
+      "year_min": 2018,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "mammography",
+      "tx_sub": "Mammography",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 784,
+      "overturned": 731,
+      "year_min": 2006,
+      "year_max": 2021
+    },
+    {
+      "tx_sub_slug": "genetic-genomic-test",
+      "tx_sub": "Genetic/Genomic Test",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 582,
+      "overturned": 301,
+      "year_min": 2018,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "biologics",
+      "tx_sub": "Biologics",
+      "tx_cat": "Pharmacy",
+      "n": 527,
+      "overturned": 412,
+      "year_min": 2006,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "skin-treatment",
+      "tx_sub": "Skin Treatment",
+      "tx_cat": "Pharmacy",
+      "n": 519,
+      "overturned": 358,
+      "year_min": 2002,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "botox-injection",
+      "tx_sub": "Botox Injection",
+      "tx_cat": "Pharmacy",
+      "n": 517,
+      "overturned": 300,
+      "year_min": 2001,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "appld-behav-analysis",
+      "tx_sub": "Appld Behav Analysis",
+      "tx_cat": "Autism Related Tx",
+      "n": 481,
+      "overturned": 334,
+      "year_min": 2006,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "emergency-room",
+      "tx_sub": "Emergency Room",
+      "tx_cat": "Emergency/Urg Care",
+      "n": 471,
+      "overturned": 219,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "pain-medication",
+      "tx_sub": "Pain Medication",
+      "tx_cat": "Pain Management",
+      "n": 459,
+      "overturned": 148,
+      "year_min": 2017,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "ct-scan",
+      "tx_sub": "CT Scan",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 433,
+      "overturned": 131,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "pet-scan",
+      "tx_sub": "Pet Scan",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 429,
+      "overturned": 255,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "physical-therapy",
+      "tx_sub": "Physical Therapy",
+      "tx_cat": "Autism Related Tx",
+      "n": 416,
+      "overturned": 144,
+      "year_min": 2001,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "arthritis-rx",
+      "tx_sub": "Arthritis Rx",
+      "tx_cat": "Pharmacy",
+      "n": 400,
+      "overturned": 224,
+      "year_min": 2001,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "partial-hospital",
+      "tx_sub": "Partial Hospital",
+      "tx_cat": "Autism Related Tx",
+      "n": 386,
+      "overturned": 242,
+      "year_min": 2002,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "ivig-therapy",
+      "tx_sub": "IVIG Therapy",
+      "tx_cat": "Pharmacy",
+      "n": 385,
+      "overturned": 189,
+      "year_min": 2002,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "non-fda-approved-use",
+      "tx_sub": "Non-FDA Approved Use",
+      "tx_cat": "Pharmacy",
+      "n": 383,
+      "overturned": 167,
+      "year_min": 2002,
+      "year_max": 2011
+    },
+    {
+      "tx_sub_slug": "acute-psych-admit",
+      "tx_sub": "Acute Psych/ Admit",
+      "tx_cat": "Mental Health",
+      "n": 362,
+      "overturned": 203,
+      "year_min": 2002,
+      "year_max": 2020
+    },
+    {
+      "tx_sub_slug": "scp-consult-refer",
+      "tx_sub": "SCP Consult Refer",
+      "tx_cat": "Diag/ MD Eval",
+      "n": 348,
+      "overturned": 206,
+      "year_min": 2001,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "tms",
+      "tx_sub": "TMS",
+      "tx_cat": "Elect/Therm/Radfreq",
+      "n": 321,
+      "overturned": 182,
+      "year_min": 2010,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "radiofreq-ablat",
+      "tx_sub": "Radiofreq Ablat",
+      "tx_cat": "Elect/Therm/Radfreq",
+      "n": 317,
+      "overturned": 136,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "proton-beam",
+      "tx_sub": "Proton Beam",
+      "tx_cat": "Cancer Care",
+      "n": 315,
+      "overturned": 107,
+      "year_min": 2005,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "intensive-outpt-prog",
+      "tx_sub": "Intensive Outpt Prog",
+      "tx_cat": "Mental Health",
+      "n": 309,
+      "overturned": 221,
+      "year_min": 2017,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "inpt-admission",
+      "tx_sub": "Inpt Admission",
+      "tx_cat": "Rehab/Svcs SNF Inpt",
+      "n": 301,
+      "overturned": 77,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "rtc-discharge",
+      "tx_sub": "RTC/Discharge",
+      "tx_cat": "Mental Health",
+      "n": 289,
+      "overturned": 117,
+      "year_min": 2006,
+      "year_max": 2020
+    },
+    {
+      "tx_sub_slug": "diabetic-medication",
+      "tx_sub": "Diabetic Medication",
+      "tx_cat": "Pharmacy",
+      "n": 288,
+      "overturned": 215,
+      "year_min": 2017,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "occupational-therapy",
+      "tx_sub": "Occupational Therapy",
+      "tx_cat": "Autism Related Tx",
+      "n": 276,
+      "overturned": 177,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "anti-inflammatories",
+      "tx_sub": "Anti-inflammatories",
+      "tx_cat": "Pharmacy",
+      "n": 266,
+      "overturned": 140,
+      "year_min": 2003,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "chemotherapy",
+      "tx_sub": "Chemotherapy",
+      "tx_cat": "Cancer Care",
+      "n": 263,
+      "overturned": 109,
+      "year_min": 2002,
+      "year_max": 2021
+    },
+    {
+      "tx_sub_slug": "nerve-block",
+      "tx_sub": "Nerve Block",
+      "tx_cat": "Pain Management",
+      "n": 247,
+      "overturned": 146,
+      "year_min": 2003,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "fusion",
+      "tx_sub": "Fusion",
+      "tx_cat": "Neurosurgery Proc",
+      "n": 246,
+      "overturned": 69,
+      "year_min": 2003,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "artificial-disc-repl",
+      "tx_sub": "Artificial Disc Repl",
+      "tx_cat": "Orthopedic Proc",
+      "n": 244,
+      "overturned": 24,
+      "year_min": 2005,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "digestion-gi-rx",
+      "tx_sub": "Digestion/GI Rx",
+      "tx_cat": "Pharmacy",
+      "n": 229,
+      "overturned": 182,
+      "year_min": 2019,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "admission",
+      "tx_sub": "Admission",
+      "tx_cat": "Acute Med Svc Inpt",
+      "n": 211,
+      "overturned": 109,
+      "year_min": 2002,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "gastric-bypass",
+      "tx_sub": "Gastric Bypass",
+      "tx_cat": "Gen Surg proc",
+      "n": 210,
+      "overturned": 124,
+      "year_min": 2001,
+      "year_max": 2005
+    },
+    {
+      "tx_sub_slug": "acupuncture",
+      "tx_sub": "Acupuncture",
+      "tx_cat": "Alternative Tx",
+      "n": 205,
+      "overturned": 81,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "antibiotics",
+      "tx_sub": "Antibiotics",
+      "tx_cat": "Pharmacy",
+      "n": 202,
+      "overturned": 84,
+      "year_min": 2001,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "formulary-v-non-form",
+      "tx_sub": "Formulary v Non Form",
+      "tx_cat": "Pharmacy",
+      "n": 197,
+      "overturned": 78,
+      "year_min": 2003,
+      "year_max": 2011
+    },
+    {
+      "tx_sub_slug": "oon-referral",
+      "tx_sub": "OON Referral",
+      "tx_cat": "Diag/ MD Eval",
+      "n": 183,
+      "overturned": 50,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "cardiac-rx",
+      "tx_sub": "Cardiac Rx",
+      "tx_cat": "Pharmacy",
+      "n": 180,
+      "overturned": 70,
+      "year_min": 2002,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "analgesics",
+      "tx_sub": "Analgesics",
+      "tx_cat": "Pharmacy",
+      "n": 179,
+      "overturned": 36,
+      "year_min": 2002,
+      "year_max": 2017
+    },
+    {
+      "tx_sub_slug": "radiation-therapy",
+      "tx_sub": "Radiation Therapy",
+      "tx_cat": "Cancer Care",
+      "n": 178,
+      "overturned": 101,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "panniculectomy",
+      "tx_sub": "Panniculectomy",
+      "tx_cat": "Reconstr/Plast Proc",
+      "n": 178,
+      "overturned": 59,
+      "year_min": 2001,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "bariatric-other",
+      "tx_sub": "Bariatric Other",
+      "tx_cat": "Gen Surg Proc",
+      "n": 174,
+      "overturned": 89,
+      "year_min": 2002,
+      "year_max": 2019
+    },
+    {
+      "tx_sub_slug": "migraine-rx",
+      "tx_sub": "Migraine Rx",
+      "tx_cat": "Pharmacy",
+      "n": 172,
+      "overturned": 143,
+      "year_min": 2018,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "epidural-injection",
+      "tx_sub": "Epidural Injection",
+      "tx_cat": "Pain Management",
+      "n": 169,
+      "overturned": 76,
+      "year_min": 2002,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "psychotherapy",
+      "tx_sub": "Psychotherapy",
+      "tx_cat": "Autism Related Tx",
+      "n": 168,
+      "overturned": 88,
+      "year_min": 2008,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "surgery",
+      "tx_sub": "Surgery",
+      "tx_cat": "Cancer Care",
+      "n": 168,
+      "overturned": 88,
+      "year_min": 2002,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "breast-reduction",
+      "tx_sub": "Breast reduction",
+      "tx_cat": "Reconstr/Plast Proc",
+      "n": 165,
+      "overturned": 93,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "electric-wheelchair",
+      "tx_sub": "Electric Wheelchair",
+      "tx_cat": "DME",
+      "n": 160,
+      "overturned": 37,
+      "year_min": 2001,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "sinus-surgery",
+      "tx_sub": "Sinus Surgery",
+      "tx_cat": "Ear-Nose-Thro Proc",
+      "n": 155,
+      "overturned": 99,
+      "year_min": 2009,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "radiation-oncology",
+      "tx_sub": "Radiation Oncology",
+      "tx_cat": "Cancer Care",
+      "n": 149,
+      "overturned": 58,
+      "year_min": 2003,
+      "year_max": 2015
+    },
+    {
+      "tx_sub_slug": "general-anesthesia",
+      "tx_sub": "General Anesthesia",
+      "tx_cat": "Special Proc",
+      "n": 148,
+      "overturned": 38,
+      "year_min": 2006,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "investigational-tx",
+      "tx_sub": "Investigational Tx",
+      "tx_cat": "Cancer Care",
+      "n": 145,
+      "overturned": 64,
+      "year_min": 2001,
+      "year_max": 2019
+    },
+    {
+      "tx_sub_slug": "cancer-rx",
+      "tx_sub": "Cancer Rx",
+      "tx_cat": "Cancer Care",
+      "n": 145,
+      "overturned": 67,
+      "year_min": 2021,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "wheelchair",
+      "tx_sub": "Wheelchair",
+      "tx_cat": "DME",
+      "n": 141,
+      "overturned": 38,
+      "year_min": 2002,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "orthotics",
+      "tx_sub": "Orthotics",
+      "tx_cat": "DME",
+      "n": 133,
+      "overturned": 92,
+      "year_min": 2003,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "individ-counsel",
+      "tx_sub": "Individ Counsel",
+      "tx_cat": "Mental Health",
+      "n": 130,
+      "overturned": 87,
+      "year_min": 2003,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "ultrasound",
+      "tx_sub": "Ultrasound",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 127,
+      "overturned": 52,
+      "year_min": 2003,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "bariatric-lap-band",
+      "tx_sub": "Bariatric Lap Band",
+      "tx_cat": "Gen Surg Proc",
+      "n": 126,
+      "overturned": 56,
+      "year_min": 2005,
+      "year_max": 2018
+    },
+    {
+      "tx_sub_slug": "neuromuscular-rx",
+      "tx_sub": "Neuromuscular RX",
+      "tx_cat": "Pharmacy",
+      "n": 111,
+      "overturned": 90,
+      "year_min": 2019,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "cpm-machine",
+      "tx_sub": "CPM Machine",
+      "tx_cat": "DME",
+      "n": 108,
+      "overturned": 43,
+      "year_min": 2003,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "hip-replacement",
+      "tx_sub": "Hip Replacement",
+      "tx_cat": "Orthopedic Proc",
+      "n": 107,
+      "overturned": 35,
+      "year_min": 2001,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "drug-rehab-program",
+      "tx_sub": "Drug Rehab Program",
+      "tx_cat": "Mental Health",
+      "n": 106,
+      "overturned": 29,
+      "year_min": 2003,
+      "year_max": 2019
+    },
+    {
+      "tx_sub_slug": "tx-for-migraine",
+      "tx_sub": "Tx for Migraine",
+      "tx_cat": "Pharmacy",
+      "n": 104,
+      "overturned": 46,
+      "year_min": 2002,
+      "year_max": 2019
+    },
+    {
+      "tx_sub_slug": "anti-depressants",
+      "tx_sub": "Anti-Depressants",
+      "tx_cat": "Pharmacy",
+      "n": 103,
+      "overturned": 53,
+      "year_min": 2007,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "colonoscopy-sigmoid",
+      "tx_sub": "Colonoscopy/Sigmoid",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 102,
+      "overturned": 40,
+      "year_min": 2005,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "anti-fungal",
+      "tx_sub": "Anti-Fungal",
+      "tx_cat": "Pharmacy",
+      "n": 102,
+      "overturned": 43,
+      "year_min": 2002,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "electric-scooter",
+      "tx_sub": "Electric Scooter",
+      "tx_cat": "DME",
+      "n": 100,
+      "overturned": 9,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "glucose-monitor",
+      "tx_sub": "Glucose Monitor",
+      "tx_cat": "DME",
+      "n": 100,
+      "overturned": 76,
+      "year_min": 2020,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "arthroscopy",
+      "tx_sub": "Arthroscopy",
+      "tx_cat": "Orthopedic Proc",
+      "n": 97,
+      "overturned": 42,
+      "year_min": 2002,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "prosthesis",
+      "tx_sub": "Prosthesis",
+      "tx_cat": "DME",
+      "n": 94,
+      "overturned": 48,
+      "year_min": 2005,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "knee-replacement",
+      "tx_sub": "Knee Replacement",
+      "tx_cat": "Orthopedic Proc",
+      "n": 93,
+      "overturned": 25,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "bariatric-duod-swtch",
+      "tx_sub": "Bariatric Duod Swtch",
+      "tx_cat": "Gen Surg Proc",
+      "n": 91,
+      "overturned": 67,
+      "year_min": 2005,
+      "year_max": 2018
+    },
+    {
+      "tx_sub_slug": "skill-nsg-vsts",
+      "tx_sub": "Skill Nsg Vsts",
+      "tx_cat": "Home Health Care",
+      "n": 90,
+      "overturned": 44,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "special-bed",
+      "tx_sub": "Special Bed",
+      "tx_cat": "DME",
+      "n": 88,
+      "overturned": 40,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "liposuction",
+      "tx_sub": "Liposuction",
+      "tx_cat": "Reconstr/Plast Proc",
+      "n": 87,
+      "overturned": 34,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "steroid-injection",
+      "tx_sub": "Steroid Injection",
+      "tx_cat": "Pain Management",
+      "n": 86,
+      "overturned": 57,
+      "year_min": 2001,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "insulin-pump",
+      "tx_sub": "Insulin Pump",
+      "tx_cat": "DME",
+      "n": 84,
+      "overturned": 60,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "hysterectomy",
+      "tx_sub": "Hysterectomy",
+      "tx_cat": "Ob-Gyn Proc",
+      "n": 83,
+      "overturned": 30,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "etoh-rehab-program",
+      "tx_sub": "ETOH Rehab Program",
+      "tx_cat": "Mental Health",
+      "n": 83,
+      "overturned": 23,
+      "year_min": 2003,
+      "year_max": 2019
+    },
+    {
+      "tx_sub_slug": "breast-augmentation",
+      "tx_sub": "Breast Augmentation",
+      "tx_cat": "Reconstr/Plast Proc",
+      "n": 83,
+      "overturned": 37,
+      "year_min": 2003,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "inpt-discharge",
+      "tx_sub": "Inpt Discharge",
+      "tx_cat": "Rehab/Svcs SNF Inpt",
+      "n": 83,
+      "overturned": 13,
+      "year_min": 2005,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "bariatric-surgery",
+      "tx_sub": "Bariatric Surgery",
+      "tx_cat": "Gen Surg Proc",
+      "n": 82,
+      "overturned": 45,
+      "year_min": 2001,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "urgent-care",
+      "tx_sub": "Urgent Care",
+      "tx_cat": "Emergency/Urg Care",
+      "n": 82,
+      "overturned": 32,
+      "year_min": 2008,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "braces",
+      "tx_sub": "Braces",
+      "tx_cat": "DME",
+      "n": 81,
+      "overturned": 29,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "biofeedback",
+      "tx_sub": "Biofeedback",
+      "tx_cat": "Alternative Tx",
+      "n": 80,
+      "overturned": 28,
+      "year_min": 2002,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "behavioral-therapy",
+      "tx_sub": "Behavioral Therapy",
+      "tx_cat": "Mental Health",
+      "n": 77,
+      "overturned": 39,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "sedatives-hypnotics",
+      "tx_sub": "Sedatives/ Hypnotics",
+      "tx_cat": "Pharmacy",
+      "n": 77,
+      "overturned": 26,
+      "year_min": 2004,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "bone-density-scan",
+      "tx_sub": "Bone Density Scan",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 76,
+      "overturned": 28,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "tx-for-impotence",
+      "tx_sub": "Tx for Impotence",
+      "tx_cat": "Pharmacy",
+      "n": 75,
+      "overturned": 45,
+      "year_min": 2002,
+      "year_max": 2018
+    },
+    {
+      "tx_sub_slug": "hyperbaric-o2-chamb",
+      "tx_sub": "Hyperbaric O2 Chamb",
+      "tx_cat": "Special Proc",
+      "n": 73,
+      "overturned": 25,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "sleep-study",
+      "tx_sub": "Sleep Study",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 71,
+      "overturned": 29,
+      "year_min": 2005,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "ambulance-transport",
+      "tx_sub": "Ambulance/Transport",
+      "tx_cat": "Emergency/Urg Care",
+      "n": 67,
+      "overturned": 25,
+      "year_min": 2005,
+      "year_max": 2017
+    },
+    {
+      "tx_sub_slug": "c-pap-machine",
+      "tx_sub": "C-Pap Machine",
+      "tx_cat": "DME",
+      "n": 66,
+      "overturned": 37,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "analgesic-rx",
+      "tx_sub": "Analgesic Rx",
+      "tx_cat": "Pain Management",
+      "n": 65,
+      "overturned": 12,
+      "year_min": 2005,
+      "year_max": 2017
+    },
+    {
+      "tx_sub_slug": "gerd-procedure",
+      "tx_sub": "GERD Procedure",
+      "tx_cat": "Gen Surg Proc",
+      "n": 64,
+      "overturned": 25,
+      "year_min": 2019,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "bariatric-roux-en-y",
+      "tx_sub": "Bariatric Roux-en-y",
+      "tx_cat": "Gen Surg Proc",
+      "n": 63,
+      "overturned": 46,
+      "year_min": 2005,
+      "year_max": 2017
+    },
+    {
+      "tx_sub_slug": "add-adhd-rx",
+      "tx_sub": "ADD/ADHD Rx",
+      "tx_cat": "Pharmacy",
+      "n": 63,
+      "overturned": 41,
+      "year_min": 2019,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "cont-glucose-monitor",
+      "tx_sub": "Cont Glucose Monitor",
+      "tx_cat": "DME",
+      "n": 62,
+      "overturned": 55,
+      "year_min": 2008,
+      "year_max": 2020
+    },
+    {
+      "tx_sub_slug": "breast-surgery",
+      "tx_sub": "Breast Surgery",
+      "tx_cat": "Gen Surg Proc",
+      "n": 62,
+      "overturned": 25,
+      "year_min": 2002,
+      "year_max": 2018
+    },
+    {
+      "tx_sub_slug": "oncotype-dx-assay",
+      "tx_sub": "Oncotype DX Assay",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 61,
+      "overturned": 29,
+      "year_min": 2007,
+      "year_max": 2019
+    },
+    {
+      "tx_sub_slug": "allergy-testing",
+      "tx_sub": "Allergy Testing",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 60,
+      "overturned": 6,
+      "year_min": 2004,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "excess-skin-removal",
+      "tx_sub": "Excess Skin Removal",
+      "tx_cat": "Reconstr/Plast Proc",
+      "n": 59,
+      "overturned": 17,
+      "year_min": 2005,
+      "year_max": 2019
+    },
+    {
+      "tx_sub_slug": "ongoing-oon-tx",
+      "tx_sub": "Ongoing OON Tx",
+      "tx_cat": "Diag/ MD Eval",
+      "n": 57,
+      "overturned": 21,
+      "year_min": 2002,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "diskectomy",
+      "tx_sub": "Diskectomy",
+      "tx_cat": "Neurosurgery Proc",
+      "n": 57,
+      "overturned": 10,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "compression-garments",
+      "tx_sub": "Compression Garments",
+      "tx_cat": "DME",
+      "n": 57,
+      "overturned": 24,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "glucagon-like-peptide-1-glp",
+      "tx_sub": "Glucagon-Like Peptide-1 (GLP)",
+      "tx_cat": "Pharmacy",
+      "n": 56,
+      "overturned": 41,
+      "year_min": 2025,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "elect-bone-stim",
+      "tx_sub": "Elect Bone Stim",
+      "tx_cat": "DME",
+      "n": 56,
+      "overturned": 19,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "stem-cell-transplant",
+      "tx_sub": "Stem Cell Transplant",
+      "tx_cat": "Special Proc",
+      "n": 56,
+      "overturned": 23,
+      "year_min": 2002,
+      "year_max": 2023
+    },
+    {
+      "tx_sub_slug": "osteoporosis-rx",
+      "tx_sub": "Osteoporosis Rx",
+      "tx_cat": "Pharmacy",
+      "n": 55,
+      "overturned": 37,
+      "year_min": 2019,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "wearable-cardio-defib",
+      "tx_sub": "Wearable Cardio Defib",
+      "tx_cat": "DME",
+      "n": 53,
+      "overturned": 34,
+      "year_min": 2019,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "tx-for-allergies",
+      "tx_sub": "Tx for Allergies",
+      "tx_cat": "Pharmacy",
+      "n": 52,
+      "overturned": 28,
+      "year_min": 2002,
+      "year_max": 2018
+    },
+    {
+      "tx_sub_slug": "biopsy",
+      "tx_sub": "Biopsy",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 51,
+      "overturned": 19,
+      "year_min": 2003,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "asthma-rx",
+      "tx_sub": "Asthma Rx",
+      "tx_cat": "Pharmacy",
+      "n": 50,
+      "overturned": 35,
+      "year_min": 2019,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "facial-feminization-surgery",
+      "tx_sub": "Facial Feminization Surgery",
+      "tx_cat": "Reconstr/Plast Proc",
+      "n": 48,
+      "overturned": 42,
+      "year_min": 2019,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "inpt-early-discharge",
+      "tx_sub": "Inpt Early Discharge",
+      "tx_cat": "Rehab/Svcs SNF Inpt",
+      "n": 46,
+      "overturned": 9,
+      "year_min": 2007,
+      "year_max": 2018
+    },
+    {
+      "tx_sub_slug": "fract-bone-repair",
+      "tx_sub": "Fract/Bone Repair",
+      "tx_cat": "Orthopedic Proc",
+      "n": 45,
+      "overturned": 21,
+      "year_min": 2004,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "implant-removal",
+      "tx_sub": "Implant Removal",
+      "tx_cat": "Gen Surg Proc",
+      "n": 45,
+      "overturned": 11,
+      "year_min": 2006,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "blepharoplasty",
+      "tx_sub": "Blepharoplasty",
+      "tx_cat": "Reconstr/Plast Proc",
+      "n": 45,
+      "overturned": 14,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "vision-therapy",
+      "tx_sub": "Vision Therapy",
+      "tx_cat": "Autism Related Tx",
+      "n": 44,
+      "overturned": 9,
+      "year_min": 2002,
+      "year_max": 2023
+    },
+    {
+      "tx_sub_slug": "heart-monitor",
+      "tx_sub": "Heart Monitor",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 44,
+      "overturned": 11,
+      "year_min": 2011,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "oxygen",
+      "tx_sub": "Oxygen",
+      "tx_cat": "DME",
+      "n": 44,
+      "overturned": 8,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "cognitive-therapy",
+      "tx_sub": "Cognitive Therapy",
+      "tx_cat": "Autism Related Tx",
+      "n": 44,
+      "overturned": 23,
+      "year_min": 2003,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "revision-procedures",
+      "tx_sub": "Revision Procedures",
+      "tx_cat": "Gen Surg Proc",
+      "n": 41,
+      "overturned": 12,
+      "year_min": 2005,
+      "year_max": 2023
+    },
+    {
+      "tx_sub_slug": "endoscopy",
+      "tx_sub": "Endoscopy",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 41,
+      "overturned": 23,
+      "year_min": 2019,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "extracorp-shock-wave",
+      "tx_sub": "Extracorp Shock Wave",
+      "tx_cat": "Elect/Therm/Radfreq",
+      "n": 41,
+      "overturned": 8,
+      "year_min": 2005,
+      "year_max": 2019
+    },
+    {
+      "tx_sub_slug": "anti-hypertensives",
+      "tx_sub": "Anti-hypertensives",
+      "tx_cat": "Pharmacy",
+      "n": 40,
+      "overturned": 11,
+      "year_min": 2005,
+      "year_max": 2023
+    },
+    {
+      "tx_sub_slug": "jaw-surgery",
+      "tx_sub": "Jaw Surgery",
+      "tx_cat": "Orthopedic Proc",
+      "n": 40,
+      "overturned": 31,
+      "year_min": 2001,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "acute-psych",
+      "tx_sub": "Acute Psych",
+      "tx_cat": "Mental Health",
+      "n": 39,
+      "overturned": 30,
+      "year_min": 2020,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "shoe-inserts",
+      "tx_sub": "Shoe Inserts",
+      "tx_cat": "DME",
+      "n": 38,
+      "overturned": 26,
+      "year_min": 2009,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "special-foods",
+      "tx_sub": "Special Foods",
+      "tx_cat": "Pharmacy",
+      "n": 38,
+      "overturned": 19,
+      "year_min": 2006,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "pain-management",
+      "tx_sub": "Pain Management",
+      "tx_cat": "Chiropractic Care",
+      "n": 38,
+      "overturned": 14,
+      "year_min": 2002,
+      "year_max": 2018
+    },
+    {
+      "tx_sub_slug": "interferon",
+      "tx_sub": "Interferon",
+      "tx_cat": "Pharmacy",
+      "n": 37,
+      "overturned": 13,
+      "year_min": 2002,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "antacids",
+      "tx_sub": "Antacids",
+      "tx_cat": "Pharmacy",
+      "n": 37,
+      "overturned": 21,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "skin-resurfacing",
+      "tx_sub": "Skin Resurfacing",
+      "tx_cat": "Reconstr/Plast Proc",
+      "n": 36,
+      "overturned": 15,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "dental-anesthesia",
+      "tx_sub": "Dental Anesthesia",
+      "tx_cat": "Dent/Orthodont Proc",
+      "n": 36,
+      "overturned": 21,
+      "year_min": 2003,
+      "year_max": 2022
+    },
+    {
+      "tx_sub_slug": "septoplasty",
+      "tx_sub": "Septoplasty",
+      "tx_cat": "Ear-Nose-Thro Proc",
+      "n": 36,
+      "overturned": 22,
+      "year_min": 2001,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "hernia-repair",
+      "tx_sub": "Hernia Repair",
+      "tx_cat": "Gen Surg Proc",
+      "n": 35,
+      "overturned": 15,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "mastectomy",
+      "tx_sub": "Mastectomy",
+      "tx_cat": "Reconstr/Plast Proc",
+      "n": 34,
+      "overturned": 25,
+      "year_min": 2019,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "vein-ablation",
+      "tx_sub": "Vein Ablation",
+      "tx_cat": "Cardio-Vasc Proc",
+      "n": 34,
+      "overturned": 17,
+      "year_min": 2019,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "organ-transplant",
+      "tx_sub": "Organ Transplant",
+      "tx_cat": "Special Proc",
+      "n": 34,
+      "overturned": 17,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "acute-psych-dischg",
+      "tx_sub": "Acute Psych/Dischg",
+      "tx_cat": "Mental Health",
+      "n": 34,
+      "overturned": 25,
+      "year_min": 2003,
+      "year_max": 2020
+    },
+    {
+      "tx_sub_slug": "pneumatic-vest",
+      "tx_sub": "Pneumatic Vest",
+      "tx_cat": "DME",
+      "n": 33,
+      "overturned": 16,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "anti-psychotic",
+      "tx_sub": "Anti-Psychotic",
+      "tx_cat": "Pharmacy",
+      "n": 33,
+      "overturned": 13,
+      "year_min": 2005,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "oon-acad-ctr-ref",
+      "tx_sub": "OON/ Acad Ctr Ref",
+      "tx_cat": "Cancer Care",
+      "n": 33,
+      "overturned": 14,
+      "year_min": 2003,
+      "year_max": 2016
+    },
+    {
+      "tx_sub_slug": "emergency",
+      "tx_sub": "Emergency",
+      "tx_cat": "Transportation",
+      "n": 32,
+      "overturned": 21,
+      "year_min": 2017,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "allergy-rx",
+      "tx_sub": "Allergy Rx",
+      "tx_cat": "Pharmacy",
+      "n": 31,
+      "overturned": 18,
+      "year_min": 2019,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "non-emerg-med-nemt",
+      "tx_sub": "Non Emerg Med (NEMT)",
+      "tx_cat": "Transportation",
+      "n": 31,
+      "overturned": 13,
+      "year_min": 2019,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "not-applicable",
+      "tx_sub": "Not Applicable",
+      "tx_cat": "Not Applicable",
+      "n": 30,
+      "overturned": 14,
+      "year_min": 2009,
+      "year_max": 2017
+    },
+    {
+      "tx_sub_slug": "idet",
+      "tx_sub": "IDET",
+      "tx_cat": "Elect/Therm/Radfreq",
+      "n": 30,
+      "overturned": 2,
+      "year_min": 2002,
+      "year_max": 2016
+    },
+    {
+      "tx_sub_slug": "laminectomy",
+      "tx_sub": "Laminectomy",
+      "tx_cat": "Neurosurgery Proc",
+      "n": 30,
+      "overturned": 11,
+      "year_min": 2003,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "injection-admin-drugs",
+      "tx_sub": "Injection Admin Drugs",
+      "tx_cat": "Drug Ad Oth Oral",
+      "n": 29,
+      "overturned": 25,
+      "year_min": 2026,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "epileptic-medication",
+      "tx_sub": "Epileptic Medication",
+      "tx_cat": "Pharmacy",
+      "n": 29,
+      "overturned": 19,
+      "year_min": 2017,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "req-2nd-opin-oon",
+      "tx_sub": "Req 2nd Opin/OON",
+      "tx_cat": "Diag/ MD Eval",
+      "n": 28,
+      "overturned": 13,
+      "year_min": 2004,
+      "year_max": 2021
+    },
+    {
+      "tx_sub_slug": "mammoplasty",
+      "tx_sub": "Mammoplasty",
+      "tx_cat": "Reconstr/Plast Proc",
+      "n": 28,
+      "overturned": 15,
+      "year_min": 2002,
+      "year_max": 2018
+    },
+    {
+      "tx_sub_slug": "cochlear-implant",
+      "tx_sub": "Cochlear Implant",
+      "tx_cat": "Ear-Nose-Thro Proc",
+      "n": 28,
+      "overturned": 9,
+      "year_min": 2004,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "special-chair",
+      "tx_sub": "Special Chair",
+      "tx_cat": "DME",
+      "n": 27,
+      "overturned": 17,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "vein-stripping",
+      "tx_sub": "Vein Stripping",
+      "tx_cat": "Cardio-Vasc Proc",
+      "n": 26,
+      "overturned": 6,
+      "year_min": 2002,
+      "year_max": 2022
+    },
+    {
+      "tx_sub_slug": "walker",
+      "tx_sub": "Walker",
+      "tx_cat": "DME",
+      "n": 26,
+      "overturned": 12,
+      "year_min": 2003,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "early-discharge",
+      "tx_sub": "Early Discharge",
+      "tx_cat": "Acute Med Svc Inpt",
+      "n": 26,
+      "overturned": 8,
+      "year_min": 2005,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "abi-vest",
+      "tx_sub": "ABI Vest",
+      "tx_cat": "DME",
+      "n": 26,
+      "overturned": 17,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "scoping-procedure",
+      "tx_sub": "Scoping Procedure",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 25,
+      "overturned": 9,
+      "year_min": 2002,
+      "year_max": 2018
+    },
+    {
+      "tx_sub_slug": "hearing-aid",
+      "tx_sub": "Hearing Aid",
+      "tx_cat": "DME",
+      "n": 25,
+      "overturned": 9,
+      "year_min": 2004,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "invest-tx-protocol",
+      "tx_sub": "Invest Tx Protocol",
+      "tx_cat": "Pharmacy",
+      "n": 25,
+      "overturned": 14,
+      "year_min": 2003,
+      "year_max": 2011
+    },
+    {
+      "tx_sub_slug": "hair-removal",
+      "tx_sub": "Hair Removal",
+      "tx_cat": "Reconstr/Plast Proc",
+      "n": 25,
+      "overturned": 19,
+      "year_min": 2019,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "cns-extracranial-autonomic",
+      "tx_sub": "CNS Extracranial/Autonomic",
+      "tx_cat": "Surgery",
+      "n": 24,
+      "overturned": 15,
+      "year_min": 2026,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "vitamins",
+      "tx_sub": "Vitamins",
+      "tx_cat": "Pharmacy",
+      "n": 24,
+      "overturned": 11,
+      "year_min": 2009,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "anxiety-rx",
+      "tx_sub": "Anxiety Rx",
+      "tx_cat": "Pharmacy",
+      "n": 24,
+      "overturned": 3,
+      "year_min": 2019,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "stent",
+      "tx_sub": "Stent",
+      "tx_cat": "Cardio-Vasc Proc",
+      "n": 23,
+      "overturned": 16,
+      "year_min": 2007,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "circumcision",
+      "tx_sub": "Circumcision",
+      "tx_cat": "Gen Surg Proc",
+      "n": 23,
+      "overturned": 8,
+      "year_min": 2005,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "card-valve-repl",
+      "tx_sub": "Card Valve Repl",
+      "tx_cat": "Cardio-Vasc Proc",
+      "n": 23,
+      "overturned": 17,
+      "year_min": 2003,
+      "year_max": 2023
+    },
+    {
+      "tx_sub_slug": "tonsillectomy",
+      "tx_sub": "Tonsillectomy",
+      "tx_cat": "Ear-Nose-Thro Proc",
+      "n": 23,
+      "overturned": 5,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "ligament-tendon-repair",
+      "tx_sub": "Ligament/Tendon Repair",
+      "tx_cat": "Orthopedic Proc",
+      "n": 23,
+      "overturned": 7,
+      "year_min": 2019,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "fibroid-removal",
+      "tx_sub": "Fibroid Removal",
+      "tx_cat": "Ob-Gyn Proc",
+      "n": 23,
+      "overturned": 12,
+      "year_min": 2002,
+      "year_max": 2022
+    },
+    {
+      "tx_sub_slug": "tens-unit",
+      "tx_sub": "TENS Unit",
+      "tx_cat": "DME",
+      "n": 22,
+      "overturned": 5,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "spinal-adjustment",
+      "tx_sub": "Spinal Adjustment",
+      "tx_cat": "Chiropractic Care",
+      "n": 22,
+      "overturned": 7,
+      "year_min": 2003,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "speech-generate-device",
+      "tx_sub": "Speech Generate Device",
+      "tx_cat": "DME",
+      "n": 22,
+      "overturned": 21,
+      "year_min": 2022,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "psychological-evaluation",
+      "tx_sub": "Psychological Evaluation",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 21,
+      "overturned": 7,
+      "year_min": 2019,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "pain-mgmt-prog",
+      "tx_sub": "Pain Mgmt Prog",
+      "tx_cat": "Pain Management",
+      "n": 21,
+      "overturned": 8,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "charite",
+      "tx_sub": "Charite",
+      "tx_cat": "Orthopedic Proc",
+      "n": 21,
+      "overturned": 0,
+      "year_min": 2005,
+      "year_max": 2005
+    },
+    {
+      "tx_sub_slug": "social-skills-thpy",
+      "tx_sub": "Social Skills Thpy",
+      "tx_cat": "Autism Related Tx",
+      "n": 21,
+      "overturned": 9,
+      "year_min": 2009,
+      "year_max": 2018
+    },
+    {
+      "tx_sub_slug": "laparoscopy",
+      "tx_sub": "Laparoscopy",
+      "tx_cat": "Ob-Gyn Proc",
+      "n": 21,
+      "overturned": 12,
+      "year_min": 2004,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "cataract-surgery",
+      "tx_sub": "Cataract Surgery",
+      "tx_cat": "Ophthalmology Proc",
+      "n": 20,
+      "overturned": 9,
+      "year_min": 2003,
+      "year_max": 2022
+    },
+    {
+      "tx_sub_slug": "birth-control",
+      "tx_sub": "Birth Control",
+      "tx_cat": "Pharmacy",
+      "n": 20,
+      "overturned": 9,
+      "year_min": 2003,
+      "year_max": 2022
+    },
+    {
+      "tx_sub_slug": "clin-trial-i",
+      "tx_sub": "Clin Trial (I)",
+      "tx_cat": "Cancer Care",
+      "n": 19,
+      "overturned": 5,
+      "year_min": 2001,
+      "year_max": 2016
+    },
+    {
+      "tx_sub_slug": "inject-infus",
+      "tx_sub": "Inject/ Infus",
+      "tx_cat": "Home Health Care",
+      "n": 19,
+      "overturned": 8,
+      "year_min": 2010,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "joint-manipulation",
+      "tx_sub": "Joint Manipulation",
+      "tx_cat": "Chiropractic Care",
+      "n": 19,
+      "overturned": 8,
+      "year_min": 2003,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "pyschotherapy",
+      "tx_sub": "Pyschotherapy",
+      "tx_cat": "Mental Health",
+      "n": 19,
+      "overturned": 5,
+      "year_min": 2002,
+      "year_max": 2006
+    },
+    {
+      "tx_sub_slug": "aids-wasting-tx",
+      "tx_sub": "AIDS Wasting Tx",
+      "tx_cat": "Pharmacy",
+      "n": 18,
+      "overturned": 11,
+      "year_min": 2002,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "cranial-helmet",
+      "tx_sub": "Cranial Helmet",
+      "tx_cat": "DME",
+      "n": 18,
+      "overturned": 12,
+      "year_min": 2019,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "pacemaker-defib",
+      "tx_sub": "Pacemaker/Defib",
+      "tx_cat": "Cardio-Vasc Proc",
+      "n": 18,
+      "overturned": 10,
+      "year_min": 2019,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "clin-trial-ii-iv",
+      "tx_sub": "Clin Trial (II - IV)",
+      "tx_cat": "Cancer Care",
+      "n": 18,
+      "overturned": 9,
+      "year_min": 2003,
+      "year_max": 2017
+    },
+    {
+      "tx_sub_slug": "autonomic-testing",
+      "tx_sub": "Autonomic Testing",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 18,
+      "overturned": 14,
+      "year_min": 2019,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "orthodontia-braces",
+      "tx_sub": "Orthodontia/ Braces",
+      "tx_cat": "Dent/Orthodont Proc",
+      "n": 17,
+      "overturned": 6,
+      "year_min": 2004,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "adult-immunization",
+      "tx_sub": "Adult Immunization",
+      "tx_cat": "Prev Health Screen",
+      "n": 17,
+      "overturned": 3,
+      "year_min": 2004,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "abdominoplasty",
+      "tx_sub": "Abdominoplasty",
+      "tx_cat": "Reconstr/Plast Proc",
+      "n": 17,
+      "overturned": 5,
+      "year_min": 2019,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "referral-out-of-mg",
+      "tx_sub": "Referral out of MG",
+      "tx_cat": "Diag/ MD Eval",
+      "n": 17,
+      "overturned": 5,
+      "year_min": 2003,
+      "year_max": 2013
+    },
+    {
+      "tx_sub_slug": "uter-art-emboliz",
+      "tx_sub": "Uter Art Emboliz",
+      "tx_cat": "Ob-Gyn Proc",
+      "n": 16,
+      "overturned": 3,
+      "year_min": 2001,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "inpt-trnsf-to-llc",
+      "tx_sub": "Inpt Trnsf to LLC",
+      "tx_cat": "Rehab/Svcs SNF Inpt",
+      "n": 16,
+      "overturned": 4,
+      "year_min": 2007,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "trau-brain-inj-prog",
+      "tx_sub": "Trau Brain Inj Prog",
+      "tx_cat": "Rehab/ Svc - Outpt",
+      "n": 16,
+      "overturned": 7,
+      "year_min": 2004,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "x-ray",
+      "tx_sub": "X-Ray",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 16,
+      "overturned": 10,
+      "year_min": 2003,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "med-surg",
+      "tx_sub": "Med/ Surg",
+      "tx_cat": "Acute Med Svc Inpt",
+      "n": 16,
+      "overturned": 7,
+      "year_min": 2007,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "incontinence-supplies",
+      "tx_sub": "Incontinence Supplies",
+      "tx_cat": "DME",
+      "n": 15,
+      "overturned": 10,
+      "year_min": 2020,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "sensory-integration",
+      "tx_sub": "Sensory Integration",
+      "tx_cat": "Autism Related Tx",
+      "n": 15,
+      "overturned": 8,
+      "year_min": 2008,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "infertility-tx",
+      "tx_sub": "Infertility Tx",
+      "tx_cat": "Ob-Gyn Proc",
+      "n": 15,
+      "overturned": 8,
+      "year_min": 2019,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "fertility-preservation",
+      "tx_sub": "Fertility Preservation",
+      "tx_cat": "Ob-Gyn Proc",
+      "n": 15,
+      "overturned": 12,
+      "year_min": 2019,
+      "year_max": 2023
+    },
+    {
+      "tx_sub_slug": "deep-brain-stimulator",
+      "tx_sub": "Deep Brain Stimulator",
+      "tx_cat": "Neurosurgery Proc",
+      "n": 15,
+      "overturned": 14,
+      "year_min": 2019,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "drug-alcohol-behav-hlth-serv",
+      "tx_sub": "Drug Alcohol Behav Hlth Serv",
+      "tx_cat": "Alcohol Drug Tmt",
+      "n": 14,
+      "overturned": 13,
+      "year_min": 2026,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "rx-management",
+      "tx_sub": "Rx Management",
+      "tx_cat": "Mental Health",
+      "n": 14,
+      "overturned": 3,
+      "year_min": 2007,
+      "year_max": 2018
+    },
+    {
+      "tx_sub_slug": "diabetic-supplies",
+      "tx_sub": "Diabetic Supplies",
+      "tx_cat": "DME",
+      "n": 14,
+      "overturned": 8,
+      "year_min": 2019,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "erectile-dysfunct-rx",
+      "tx_sub": "Erectile Dysfunct Rx",
+      "tx_cat": "Pharmacy",
+      "n": 13,
+      "overturned": 7,
+      "year_min": 2019,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "eecp-dvc",
+      "tx_sub": "EECP Dvc",
+      "tx_cat": "Cardio-Vasc Proc",
+      "n": 13,
+      "overturned": 4,
+      "year_min": 2005,
+      "year_max": 2016
+    },
+    {
+      "tx_sub_slug": "cholesterol-screen",
+      "tx_sub": "Cholesterol Screen",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 13,
+      "overturned": 0,
+      "year_min": 2011,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "anti-histamines",
+      "tx_sub": "Anti-histamines",
+      "tx_cat": "Pharmacy",
+      "n": 13,
+      "overturned": 7,
+      "year_min": 2003,
+      "year_max": 2018
+    },
+    {
+      "tx_sub_slug": "spect-scan",
+      "tx_sub": "SPECT Scan",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 13,
+      "overturned": 7,
+      "year_min": 2019,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "cryoablation",
+      "tx_sub": "Cryoablation",
+      "tx_cat": "Special Proc",
+      "n": 13,
+      "overturned": 5,
+      "year_min": 2005,
+      "year_max": 2018
+    },
+    {
+      "tx_sub_slug": "colonoscopy",
+      "tx_sub": "Colonoscopy",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 13,
+      "overturned": 5,
+      "year_min": 2002,
+      "year_max": 2005
+    },
+    {
+      "tx_sub_slug": "ekg",
+      "tx_sub": "EKG",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 12,
+      "overturned": 4,
+      "year_min": 2002,
+      "year_max": 2018
+    },
+    {
+      "tx_sub_slug": "rhinoplasty",
+      "tx_sub": "Rhinoplasty",
+      "tx_cat": "Reconstr/Plast Proc",
+      "n": 12,
+      "overturned": 9,
+      "year_min": 2019,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "cardiac-mapping",
+      "tx_sub": "Cardiac Mapping",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 12,
+      "overturned": 5,
+      "year_min": 2005,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "family-counseling",
+      "tx_sub": "Family Counseling",
+      "tx_cat": "Mental Health",
+      "n": 12,
+      "overturned": 6,
+      "year_min": 2009,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "rtc-dishcharge",
+      "tx_sub": "RTC/Dishcharge",
+      "tx_cat": "Mental Health",
+      "n": 12,
+      "overturned": 5,
+      "year_min": 2005,
+      "year_max": 2006
+    },
+    {
+      "tx_sub_slug": "misc-drugs",
+      "tx_sub": "Misc Drugs",
+      "tx_cat": "Drug Ad Oth Oral",
+      "n": 12,
+      "overturned": 12,
+      "year_min": 2026,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "ptns",
+      "tx_sub": "PTNS",
+      "tx_cat": "Elect/Therm/Radfreq",
+      "n": 11,
+      "overturned": 7,
+      "year_min": 2020,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "autism-screening",
+      "tx_sub": "Autism Screening",
+      "tx_cat": "Autism Related Tx",
+      "n": 11,
+      "overturned": 7,
+      "year_min": 2008,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "laparotomy",
+      "tx_sub": "Laparotomy",
+      "tx_cat": "Gen Surg Proc",
+      "n": 11,
+      "overturned": 4,
+      "year_min": 2002,
+      "year_max": 2016
+    },
+    {
+      "tx_sub_slug": "dental-implants",
+      "tx_sub": "Dental Implants",
+      "tx_cat": "Dent/Orthodont Proc",
+      "n": 10,
+      "overturned": 6,
+      "year_min": 2004,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "thigh-buttock-lift",
+      "tx_sub": "Thigh/Buttock Lift",
+      "tx_cat": "Reconstr/Plast Proc",
+      "n": 10,
+      "overturned": 0,
+      "year_min": 2005,
+      "year_max": 2015
+    },
+    {
+      "tx_sub_slug": "fertility-rx",
+      "tx_sub": "Fertility Rx",
+      "tx_cat": "Pharmacy",
+      "n": 10,
+      "overturned": 3,
+      "year_min": 2003,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "corneal-procedure",
+      "tx_sub": "Corneal Procedure",
+      "tx_cat": "Vision Services/Ophthalmology",
+      "n": 10,
+      "overturned": 9,
+      "year_min": 2019,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "extraction",
+      "tx_sub": "Extraction",
+      "tx_cat": "Dent/Orthodont Proc",
+      "n": 10,
+      "overturned": 7,
+      "year_min": 2005,
+      "year_max": 2021
+    },
+    {
+      "tx_sub_slug": "craniotomy",
+      "tx_sub": "Craniotomy",
+      "tx_cat": "Neurosurgery Proc",
+      "n": 9,
+      "overturned": 5,
+      "year_min": 2003,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "anti-acne-treatment",
+      "tx_sub": "Anti-Acne Treatment",
+      "tx_cat": "Pharmacy",
+      "n": 9,
+      "overturned": 5,
+      "year_min": 2002,
+      "year_max": 2018
+    },
+    {
+      "tx_sub_slug": "stroke-rec-prog",
+      "tx_sub": "Stroke Rec Prog",
+      "tx_cat": "Rehab/ Svc - Outpt",
+      "n": 9,
+      "overturned": 1,
+      "year_min": 2003,
+      "year_max": 2023
+    },
+    {
+      "tx_sub_slug": "eye-test",
+      "tx_sub": "Eye Test",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 9,
+      "overturned": 6,
+      "year_min": 2012,
+      "year_max": 2019
+    },
+    {
+      "tx_sub_slug": "prostatectomy",
+      "tx_sub": "Prostatectomy",
+      "tx_cat": "Urology Proc",
+      "n": 9,
+      "overturned": 3,
+      "year_min": 2003,
+      "year_max": 2018
+    },
+    {
+      "tx_sub_slug": "brachiaplasty",
+      "tx_sub": "Brachiaplasty",
+      "tx_cat": "Reconstr/Plast Proc",
+      "n": 8,
+      "overturned": 2,
+      "year_min": 2005,
+      "year_max": 2018
+    },
+    {
+      "tx_sub_slug": "chemo-cancer-rx",
+      "tx_sub": "Chemo/ Cancer Rx",
+      "tx_cat": "Pharmacy",
+      "n": 8,
+      "overturned": 2,
+      "year_min": 2002,
+      "year_max": 2005
+    },
+    {
+      "tx_sub_slug": "childhood-immun",
+      "tx_sub": "Childhood Immun",
+      "tx_cat": "Prev Health Screen",
+      "n": 8,
+      "overturned": 3,
+      "year_min": 2007,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "proton-beam-therapy",
+      "tx_sub": "Proton Beam Therapy",
+      "tx_cat": "Elect/Therm/Radfreq",
+      "n": 8,
+      "overturned": 0,
+      "year_min": 2001,
+      "year_max": 2004
+    },
+    {
+      "tx_sub_slug": "caregiver-services",
+      "tx_sub": "Caregiver Services",
+      "tx_cat": "Home Health Care",
+      "n": 8,
+      "overturned": 2,
+      "year_min": 2019,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "opioid-dependence-rx",
+      "tx_sub": "Opioid Dependence Rx",
+      "tx_cat": "Pharmacy",
+      "n": 8,
+      "overturned": 4,
+      "year_min": 2019,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "ect",
+      "tx_sub": "ECT",
+      "tx_cat": "Elect/Therm/Radfreq",
+      "n": 8,
+      "overturned": 4,
+      "year_min": 2006,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "electrocardiogram-ekg",
+      "tx_sub": "Electrocardiogram/EKG",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 8,
+      "overturned": 4,
+      "year_min": 2019,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "shoulder-replacement",
+      "tx_sub": "Shoulder Replacement",
+      "tx_cat": "Orthopedic Proc",
+      "n": 8,
+      "overturned": 4,
+      "year_min": 2012,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "cryotherapy",
+      "tx_sub": "Cryotherapy",
+      "tx_cat": "Special Proc",
+      "n": 8,
+      "overturned": 2,
+      "year_min": 2005,
+      "year_max": 2012
+    },
+    {
+      "tx_sub_slug": "mastopexy",
+      "tx_sub": "Mastopexy",
+      "tx_cat": "Reconstr/Plast Proc",
+      "n": 8,
+      "overturned": 1,
+      "year_min": 2018,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "cholecystectomy",
+      "tx_sub": "Cholecystectomy",
+      "tx_cat": "Gen Surg Proc",
+      "n": 8,
+      "overturned": 5,
+      "year_min": 2002,
+      "year_max": 2022
+    },
+    {
+      "tx_sub_slug": "laser-surgery",
+      "tx_sub": "Laser Surgery",
+      "tx_cat": "Special Proc",
+      "n": 7,
+      "overturned": 2,
+      "year_min": 2002,
+      "year_max": 2005
+    },
+    {
+      "tx_sub_slug": "hearing-test",
+      "tx_sub": "Hearing Test",
+      "tx_cat": "Diag Imag & Screen",
+      "n": 7,
+      "overturned": 6,
+      "year_min": 2005,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "vnus-closure",
+      "tx_sub": "VNUS Closure",
+      "tx_cat": "Cardio-Vasc Proc",
+      "n": 7,
+      "overturned": 5,
+      "year_min": 2003,
+      "year_max": 2013
+    },
+    {
+      "tx_sub_slug": "tmj-splint",
+      "tx_sub": "TMJ Splint",
+      "tx_cat": "Dent/Orthodont Proc",
+      "n": 7,
+      "overturned": 5,
+      "year_min": 2007,
+      "year_max": 2021
+    },
+    {
+      "tx_sub_slug": "pacemaker-insertion",
+      "tx_sub": "Pacemaker Insertion",
+      "tx_cat": "Cardio-Vasc Proc",
+      "n": 7,
+      "overturned": 4,
+      "year_min": 2010,
+      "year_max": 2018
+    },
+    {
+      "tx_sub_slug": "inpt-trnsf-home",
+      "tx_sub": "Inpt Trnsf Home",
+      "tx_cat": "Rehab/Svcs SNF Inpt",
+      "n": 7,
+      "overturned": 0,
+      "year_min": 2006,
+      "year_max": 2018
+    },
+    {
+      "tx_sub_slug": "adult-icu",
+      "tx_sub": "Adult ICU",
+      "tx_cat": "Acute Med Svc Inpt",
+      "n": 7,
+      "overturned": 5,
+      "year_min": 2018,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "in-net-acad-ctr",
+      "tx_sub": "In-Net Acad Ctr",
+      "tx_cat": "Diag/ MD Eval",
+      "n": 7,
+      "overturned": 5,
+      "year_min": 2003,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "conscious-sedation",
+      "tx_sub": "Conscious Sedation",
+      "tx_cat": "Special Proc",
+      "n": 7,
+      "overturned": 2,
+      "year_min": 2011,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "gastros-tube-place",
+      "tx_sub": "Gastros Tube Place",
+      "tx_cat": "Gen Surg Proc",
+      "n": 6,
+      "overturned": 2,
+      "year_min": 2013,
+      "year_max": 2023
+    },
+    {
+      "tx_sub_slug": "skin-surgical-repair-proc",
+      "tx_sub": "Skin Surgical Repair Proc",
+      "tx_cat": "Surgery",
+      "n": 6,
+      "overturned": 3,
+      "year_min": 2026,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "pediatric",
+      "tx_sub": "Pediatric",
+      "tx_cat": "Acute Med Svc Inpt",
+      "n": 6,
+      "overturned": 5,
+      "year_min": 2016,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "clinical-trial",
+      "tx_sub": "Clinical Trial",
+      "tx_cat": "Cancer Care",
+      "n": 6,
+      "overturned": 3,
+      "year_min": 2002,
+      "year_max": 2023
+    },
+    {
+      "tx_sub_slug": "imaging-lower-extremities",
+      "tx_sub": "Imaging Lower Extremities",
+      "tx_cat": "Radio Proc",
+      "n": 6,
+      "overturned": 5,
+      "year_min": 2026,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "cardiac-rehab",
+      "tx_sub": "Cardiac Rehab",
+      "tx_cat": "Rehab/ Svc - Outpt",
+      "n": 6,
+      "overturned": 4,
+      "year_min": 2016,
+      "year_max": 2022
+    },
+    {
+      "tx_sub_slug": "crowns",
+      "tx_sub": "Crowns",
+      "tx_cat": "Dent/Orthodont Proc",
+      "n": 6,
+      "overturned": 2,
+      "year_min": 2008,
+      "year_max": 2019
+    },
+    {
+      "tx_sub_slug": "trnsf-to-in-pln-fac",
+      "tx_sub": "Trnsf to In Pln Fac",
+      "tx_cat": "Acute Med Svc Inpt",
+      "n": 6,
+      "overturned": 2,
+      "year_min": 2018,
+      "year_max": 2021
+    },
+    {
+      "tx_sub_slug": "discharge-to-home",
+      "tx_sub": "Discharge to Home",
+      "tx_cat": "Acute Med Svc Inpt",
+      "n": 6,
+      "overturned": 3,
+      "year_min": 2005,
+      "year_max": 2022
+    },
+    {
+      "tx_sub_slug": "social-skills-therapy",
+      "tx_sub": "Social Skills Therapy",
+      "tx_cat": "Autism Related Tx",
+      "n": 6,
+      "overturned": 4,
+      "year_min": 2019,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "hi-int-focused-ultrasnd-hifu",
+      "tx_sub": "Hi-Int Focused Ultrasnd (HIFU)",
+      "tx_cat": "Cancer Care",
+      "n": 5,
+      "overturned": 1,
+      "year_min": 2025,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "tubes-in-ears",
+      "tx_sub": "Tubes in ears",
+      "tx_cat": "Ear-Nose-Thro Proc",
+      "n": 5,
+      "overturned": 3,
+      "year_min": 2014,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "tumor-removal",
+      "tx_sub": "Tumor Removal",
+      "tx_cat": "Gen Surg Proc",
+      "n": 5,
+      "overturned": 1,
+      "year_min": 2019,
+      "year_max": 2025
+    },
+    {
+      "tx_sub_slug": "oon-pain-mgmt-prog",
+      "tx_sub": "OON Pain Mgmt Prog",
+      "tx_cat": "Pain Management",
+      "n": 5,
+      "overturned": 2,
+      "year_min": 2004,
+      "year_max": 2016
+    },
+    {
+      "tx_sub_slug": "cosmetic-treatment",
+      "tx_sub": "Cosmetic Treatment",
+      "tx_cat": "Pharmacy",
+      "n": 5,
+      "overturned": 3,
+      "year_min": 2009,
+      "year_max": 2018
+    },
+    {
+      "tx_sub_slug": "evaluation",
+      "tx_sub": "Evaluation",
+      "tx_cat": "Chiropractic Care",
+      "n": 5,
+      "overturned": 2,
+      "year_min": 2010,
+      "year_max": 2024
+    },
+    {
+      "tx_sub_slug": "brand-v-generic",
+      "tx_sub": "Brand v Generic",
+      "tx_cat": "Pharmacy",
+      "n": 5,
+      "overturned": 0,
+      "year_min": 2003,
+      "year_max": 2011
+    },
+    {
+      "tx_sub_slug": "imaging-spine-pelvis",
+      "tx_sub": "Imaging Spine Pelvis",
+      "tx_cat": "Radio Proc",
+      "n": 5,
+      "overturned": 1,
+      "year_min": 2026,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "trnsf-to-llc",
+      "tx_sub": "Trnsf to LLC",
+      "tx_cat": "Acute Med Svc Inpt",
+      "n": 5,
+      "overturned": 2,
+      "year_min": 2005,
+      "year_max": 2010
+    },
+    {
+      "tx_sub_slug": "msk-surgical-spine-proc",
+      "tx_sub": "MSK Surgical Spine Proc",
+      "tx_cat": "Surgery",
+      "n": 5,
+      "overturned": 4,
+      "year_min": 2026,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "pt-ot-ath-train-and-wound-care",
+      "tx_sub": "PT/OT Ath Train & Wound Care",
+      "tx_cat": "Medicine Serv Proc",
+      "n": 5,
+      "overturned": 4,
+      "year_min": 2026,
+      "year_max": 2026
+    },
+    {
+      "tx_sub_slug": "art-reprod-tech",
+      "tx_sub": "Art Reprod Tech",
+      "tx_cat": "Ob-Gyn Proc",
+      "n": 5,
+      "overturned": 3,
+      "year_min": 2003,
+      "year_max": 2018
+    }
+  ]
+}

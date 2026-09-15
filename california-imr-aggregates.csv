@@ -1,0 +1,735 @@
+treatment,treatment_slug,diagnosis_category,diagnosis_slug,decisions,overturned,overturn_rate,year_min,year_max,medical_necessity,experimental,urgent,decisions_last_5y,overturned_last_5y,apellica_page
+Other,other,Orth/Musculoskeletal,orth-musculoskeletal,1812,572,0.3157,2001,2025,950,849,13,338,111,https://apellica.com/appeal-outcomes/california-imr/other/orth-musculoskeletal
+Weight Control,weight-control,Endocrine/Metabolic,endocrine-metabolic,1371,1200,0.8753,2003,2026,1327,44,0,1355,1188,https://apellica.com/appeal-outcomes/california-imr/weight-control/endocrine-metabolic
+RTC,rtc,Mental Disorder,mental-disorder,1351,1083,0.8016,2019,2026,1349,2,0,1127,890,https://apellica.com/appeal-outcomes/california-imr/rtc/mental-disorder
+Anti-virals,anti-virals,Infectious Disease,infectious-disease,1310,1082,0.8260,2003,2025,1296,14,0,20,14,https://apellica.com/appeal-outcomes/california-imr/anti-virals/infectious-disease
+RTC/ Admit,rtc-admit,Mental Disorder,mental-disorder,1031,426,0.4132,2002,2020,1016,4,11,0,0,https://apellica.com/appeal-outcomes/california-imr/rtc-admit/mental-disorder
+Other,other,CNS/ Neuromusc Dis,cns-neuromusc-dis,947,524,0.5533,2001,2025,558,385,4,204,139,https://apellica.com/appeal-outcomes/california-imr/other/cns-neuromusc-dis
+Viscosupp Injection,viscosupp-injection,Orth/Musculoskeletal,orth-musculoskeletal,824,774,0.9393,2018,2025,801,23,0,520,509,https://apellica.com/appeal-outcomes/california-imr/viscosupp-injection/orth-musculoskeletal
+Other,other,Cardiac/Circ Problem,cardiac-circ-problem,734,317,0.4319,2001,2025,344,387,3,115,68,https://apellica.com/appeal-outcomes/california-imr/other/cardiac-circ-problem
+Other,other,Cancer,cancer,713,364,0.5105,2002,2025,296,414,3,105,63,https://apellica.com/appeal-outcomes/california-imr/other/cancer
+Other,other,Mental Disorder,mental-disorder,631,281,0.4453,2002,2025,530,97,4,54,30,https://apellica.com/appeal-outcomes/california-imr/other/mental-disorder
+Hormones,hormones,Endocrine/Metabolic,endocrine-metabolic,547,234,0.4278,2002,2025,512,35,0,112,56,https://apellica.com/appeal-outcomes/california-imr/hormones/endocrine-metabolic
+MRI,mri,Orth/Musculoskeletal,orth-musculoskeletal,527,209,0.3966,2001,2025,511,15,1,172,89,https://apellica.com/appeal-outcomes/california-imr/mri/orth-musculoskeletal
+Speech Therapy,speech-therapy,Pediatrics,pediatrics,482,366,0.7593,2002,2026,479,3,0,20,14,https://apellica.com/appeal-outcomes/california-imr/speech-therapy/pediatrics
+Mammography,mammography,Prevention/Good Hlth,prevention-good-hlth,473,444,0.9387,2014,2019,3,470,0,0,0,https://apellica.com/appeal-outcomes/california-imr/mammography/prevention-good-hlth
+Other,other,Digestive System/ GI,digestive-system-gi,473,183,0.3869,2002,2025,224,249,0,35,19,https://apellica.com/appeal-outcomes/california-imr/other/digestive-system-gi
+Appld Behav Analysis,appld-behav-analysis,Autism Spectrum,autism-spectrum,459,327,0.7124,2006,2025,435,24,0,74,34,https://apellica.com/appeal-outcomes/california-imr/appld-behav-analysis/autism-spectrum
+Skin Treatment,skin-treatment,Skin Disorders,skin-disorders,448,302,0.6741,2002,2025,430,18,0,197,160,https://apellica.com/appeal-outcomes/california-imr/skin-treatment/skin-disorders
+Partial Hospital,partial-hospital,Mental Disorder,mental-disorder,356,224,0.6292,2002,2025,354,0,2,101,87,https://apellica.com/appeal-outcomes/california-imr/partial-hospital/mental-disorder
+Speech Therapy,speech-therapy,Autism Spectrum,autism-spectrum,354,261,0.7373,2002,2025,352,2,0,40,23,https://apellica.com/appeal-outcomes/california-imr/speech-therapy/autism-spectrum
+Acute Psych/ Admit,acute-psych-admit,Mental Disorder,mental-disorder,346,192,0.5549,2002,2020,340,0,6,0,0,https://apellica.com/appeal-outcomes/california-imr/acute-psych-admit/mental-disorder
+Botox Injection,botox-injection,CNS/ Neuromusc Dis,cns-neuromusc-dis,335,209,0.6239,2001,2025,116,219,0,47,39,https://apellica.com/appeal-outcomes/california-imr/botox-injection/cns-neuromusc-dis
+Other,other,GU/ Kidney Disorder,gu-kidney-disorder,330,136,0.4121,2002,2025,167,160,3,64,39,https://apellica.com/appeal-outcomes/california-imr/other/gu-kidney-disorder
+Genetic/Genomic Test,genetic-genomic-test,Cancer,cancer,328,161,0.4909,2018,2026,24,304,0,190,105,https://apellica.com/appeal-outcomes/california-imr/genetic-genomic-test/cancer
+Other,other,Respiratory System,respiratory-system,316,149,0.4715,2002,2025,199,116,1,28,15,https://apellica.com/appeal-outcomes/california-imr/other/respiratory-system
+TMS,tms,Mental Disorder,mental-disorder,314,178,0.5669,2010,2025,168,145,1,50,40,https://apellica.com/appeal-outcomes/california-imr/tms/mental-disorder
+Other,other,Skin Disorders,skin-disorders,309,134,0.4337,2002,2025,236,72,1,43,15,https://apellica.com/appeal-outcomes/california-imr/other/skin-disorders
+Proton Beam,proton-beam,Cancer,cancer,307,105,0.3420,2005,2025,192,115,0,156,80,https://apellica.com/appeal-outcomes/california-imr/proton-beam/cancer
+Other,other,Endocrine/Metabolic,endocrine-metabolic,306,163,0.5327,2002,2025,214,91,1,40,20,https://apellica.com/appeal-outcomes/california-imr/other/endocrine-metabolic
+Pet Scan,pet-scan,Cancer,cancer,305,211,0.6918,2002,2025,139,166,0,64,45,https://apellica.com/appeal-outcomes/california-imr/pet-scan/cancer
+Intensive Outpt Prog,intensive-outpt-prog,Mental Disorder,mental-disorder,291,209,0.7182,2017,2025,285,0,6,93,84,https://apellica.com/appeal-outcomes/california-imr/intensive-outpt-prog/mental-disorder
+RTC/Discharge,rtc-discharge,Mental Disorder,mental-disorder,283,116,0.4099,2006,2020,280,0,3,0,0,https://apellica.com/appeal-outcomes/california-imr/rtc-discharge/mental-disorder
+Pain Medication,pain-medication,Orth/Musculoskeletal,orth-musculoskeletal,268,89,0.3321,2017,2025,265,3,0,82,30,https://apellica.com/appeal-outcomes/california-imr/pain-medication/orth-musculoskeletal
+Diabetic Medication,diabetic-medication,Endocrine/Metabolic,endocrine-metabolic,263,198,0.7529,2017,2025,245,18,0,217,170,https://apellica.com/appeal-outcomes/california-imr/diabetic-medication/endocrine-metabolic
+Lab Work,lab-work,Cancer,cancer,256,108,0.4219,2005,2024,9,247,0,7,2,https://apellica.com/appeal-outcomes/california-imr/lab-work/cancer
+Chemotherapy,chemotherapy,Cancer,cancer,252,103,0.4087,2002,2021,103,149,0,13,3,https://apellica.com/appeal-outcomes/california-imr/chemotherapy/cancer
+Fusion,fusion,Orth/Musculoskeletal,orth-musculoskeletal,243,68,0.2798,2003,2025,195,46,2,63,22,https://apellica.com/appeal-outcomes/california-imr/fusion/orth-musculoskeletal
+Mammography,mammography,OB-GYN/ Pregnancy,ob-gyn-pregnancy,242,222,0.9174,2006,2017,3,239,0,0,0,https://apellica.com/appeal-outcomes/california-imr/mammography/ob-gyn-pregnancy
+Artificial Disc Repl,artificial-disc-repl,Orth/Musculoskeletal,orth-musculoskeletal,239,23,0.0962,2005,2025,63,175,1,51,11,https://apellica.com/appeal-outcomes/california-imr/artificial-disc-repl/orth-musculoskeletal
+Physical Therapy,physical-therapy,Orth/Musculoskeletal,orth-musculoskeletal,236,65,0.2754,2001,2025,224,11,1,39,9,https://apellica.com/appeal-outcomes/california-imr/physical-therapy/orth-musculoskeletal
+Arthritis Rx,arthritis-rx,Orth/Musculoskeletal,orth-musculoskeletal,234,124,0.5299,2001,2025,203,31,0,9,5,https://apellica.com/appeal-outcomes/california-imr/arthritis-rx/orth-musculoskeletal
+Digestion/GI Rx,digestion-gi-rx,Digestive System/ GI,digestive-system-gi,210,169,0.8048,2019,2025,196,14,0,154,124,https://apellica.com/appeal-outcomes/california-imr/digestion-gi-rx/digestive-system-gi
+Gastric Bypass,gastric-bypass,Morbid Obesity,morbid-obesity,198,123,0.6212,2001,2005,155,43,0,0,0,https://apellica.com/appeal-outcomes/california-imr/gastric-bypass/morbid-obesity
+Other,other,Ears/Nose/Throat,ears-nose-throat,193,81,0.4197,2002,2025,110,81,2,40,23,https://apellica.com/appeal-outcomes/california-imr/other/ears-nose-throat
+Other,other,OB-GYN/ Pregnancy,ob-gyn-pregnancy,193,74,0.3834,2002,2019,117,73,3,0,0,https://apellica.com/appeal-outcomes/california-imr/other/ob-gyn-pregnancy
+Other,other,Vision,vision,187,100,0.5348,2002,2025,95,90,2,24,14,https://apellica.com/appeal-outcomes/california-imr/other/vision
+Hormones,hormones,Pediatrics,pediatrics,178,77,0.4326,2005,2026,175,3,0,103,41,https://apellica.com/appeal-outcomes/california-imr/hormones/pediatrics
+CT Scan,ct-scan,Cardiac/Circ Problem,cardiac-circ-problem,176,34,0.1932,2002,2025,46,128,2,31,6,https://apellica.com/appeal-outcomes/california-imr/ct-scan/cardiac-circ-problem
+Radiation Therapy,radiation-therapy,Cancer,cancer,169,96,0.5680,2002,2025,62,107,0,70,41,https://apellica.com/appeal-outcomes/california-imr/radiation-therapy/cancer
+Other,other,Immuno Disorders,immuno-disorders,164,79,0.4817,2002,2025,115,48,1,30,22,https://apellica.com/appeal-outcomes/california-imr/other/immuno-disorders
+Radiofreq Ablat,radiofreq-ablat,Orth/Musculoskeletal,orth-musculoskeletal,161,68,0.4224,2002,2025,40,121,0,70,36,https://apellica.com/appeal-outcomes/california-imr/radiofreq-ablat/orth-musculoskeletal
+Psychotherapy,psychotherapy,Mental Disorder,mental-disorder,159,83,0.5220,2008,2025,152,2,5,34,27,https://apellica.com/appeal-outcomes/california-imr/psychotherapy/mental-disorder
+Migraine Rx,migraine-rx,CNS/ Neuromusc Dis,cns-neuromusc-dis,159,130,0.8176,2018,2025,150,9,0,128,106,https://apellica.com/appeal-outcomes/california-imr/migraine-rx/cns-neuromusc-dis
+IVIG Therapy,ivig-therapy,Immuno Disorders,immuno-disorders,158,75,0.4747,2004,2025,126,32,0,69,43,https://apellica.com/appeal-outcomes/california-imr/ivig-therapy/immuno-disorders
+Other,other,Foot Disorder,foot-disorder,156,54,0.3462,2002,2025,82,74,0,23,13,https://apellica.com/appeal-outcomes/california-imr/other/foot-disorder
+Epidural Injection,epidural-injection,Orth/Musculoskeletal,orth-musculoskeletal,155,70,0.4516,2002,2026,135,20,0,50,29,https://apellica.com/appeal-outcomes/california-imr/epidural-injection/orth-musculoskeletal
+Sinus Surgery,sinus-surgery,Ears/Nose/Throat,ears-nose-throat,150,97,0.6467,2009,2026,99,49,2,100,85,https://apellica.com/appeal-outcomes/california-imr/sinus-surgery/ears-nose-throat
+Lab Work,lab-work,Digestive System/ GI,digestive-system-gi,149,36,0.2416,2006,2025,15,133,1,19,7,https://apellica.com/appeal-outcomes/california-imr/lab-work/digestive-system-gi
+Bariatric Other,bariatric-other,Morbid Obesity,morbid-obesity,149,82,0.5503,2005,2018,111,38,0,0,0,https://apellica.com/appeal-outcomes/california-imr/bariatric-other/morbid-obesity
+Radiation Oncology,radiation-oncology,Cancer,cancer,148,58,0.3919,2003,2015,49,98,1,0,0,https://apellica.com/appeal-outcomes/california-imr/radiation-oncology/cancer
+Occupational Therapy,occupational-therapy,Autism Spectrum,autism-spectrum,142,99,0.6972,2002,2025,128,14,0,31,14,https://apellica.com/appeal-outcomes/california-imr/occupational-therapy/autism-spectrum
+Arthritis Rx,arthritis-rx,Immuno Disorders,immuno-disorders,141,91,0.6454,2002,2026,128,13,0,57,43,https://apellica.com/appeal-outcomes/california-imr/arthritis-rx/immuno-disorders
+Cancer Rx,cancer-rx,Cancer,cancer,139,63,0.4532,2021,2025,82,57,0,139,63,https://apellica.com/appeal-outcomes/california-imr/cancer-rx/cancer
+Investigational Tx,investigational-tx,Cancer,cancer,137,60,0.4380,2001,2019,9,128,0,0,0,https://apellica.com/appeal-outcomes/california-imr/investigational-tx/cancer
+IVIG Therapy,ivig-therapy,CNS/ Neuromusc Dis,cns-neuromusc-dis,134,74,0.5522,2002,2025,90,44,0,50,31,https://apellica.com/appeal-outcomes/california-imr/ivig-therapy/cns-neuromusc-dis
+Biologics,biologics,Digestive System/ GI,digestive-system-gi,132,118,0.8939,2012,2025,120,12,0,107,96,https://apellica.com/appeal-outcomes/california-imr/biologics/digestive-system-gi
+Individ Counsel,individ-counsel,Mental Disorder,mental-disorder,129,87,0.6744,2003,2025,125,0,4,43,37,https://apellica.com/appeal-outcomes/california-imr/individ-counsel/mental-disorder
+Surgery,surgery,Cancer,cancer,126,56,0.4444,2002,2026,76,44,6,21,13,https://apellica.com/appeal-outcomes/california-imr/surgery/cancer
+MRI,mri,Cancer,cancer,120,66,0.5500,2002,2025,64,56,0,15,10,https://apellica.com/appeal-outcomes/california-imr/mri/cancer
+Nerve Block,nerve-block,Orth/Musculoskeletal,orth-musculoskeletal,118,63,0.5339,2003,2025,67,51,0,76,47,https://apellica.com/appeal-outcomes/california-imr/nerve-block/orth-musculoskeletal
+Other,other,Infectious Disease,infectious-disease,116,54,0.4655,2002,2025,96,20,0,6,3,https://apellica.com/appeal-outcomes/california-imr/other/infectious-disease
+Cardiac Rx,cardiac-rx,Cardiac/Circ Problem,cardiac-circ-problem,113,45,0.3982,2003,2025,107,6,0,32,13,https://apellica.com/appeal-outcomes/california-imr/cardiac-rx/cardiac-circ-problem
+Bariatric Lap Band,bariatric-lap-band,Morbid Obesity,morbid-obesity,112,51,0.4554,2005,2017,104,8,0,0,0,https://apellica.com/appeal-outcomes/california-imr/bariatric-lap-band/morbid-obesity
+Biologics,biologics,Skin Disorders,skin-disorders,107,97,0.9065,2006,2025,103,4,0,89,83,https://apellica.com/appeal-outcomes/california-imr/biologics/skin-disorders
+Lab Work,lab-work,Endocrine/Metabolic,endocrine-metabolic,107,39,0.3645,2006,2026,18,89,0,26,3,https://apellica.com/appeal-outcomes/california-imr/lab-work/endocrine-metabolic
+Acupuncture,acupuncture,Orth/Musculoskeletal,orth-musculoskeletal,104,44,0.4231,2002,2024,102,2,0,15,4,https://apellica.com/appeal-outcomes/california-imr/acupuncture/orth-musculoskeletal
+Other,other,Pediatrics,pediatrics,103,61,0.5922,2002,2024,86,17,0,10,7,https://apellica.com/appeal-outcomes/california-imr/other/pediatrics
+MRI,mri,OB-GYN/ Pregnancy,ob-gyn-pregnancy,103,42,0.4078,2002,2018,41,62,0,0,0,https://apellica.com/appeal-outcomes/california-imr/mri/ob-gyn-pregnancy
+Nerve Block,nerve-block,CNS/ Neuromusc Dis,cns-neuromusc-dis,103,71,0.6893,2010,2026,13,90,0,61,49,https://apellica.com/appeal-outcomes/california-imr/nerve-block/cns-neuromusc-dis
+Drug Rehab Program,drug-rehab-program,Mental Disorder,mental-disorder,102,27,0.2647,2003,2019,96,0,6,0,0,https://apellica.com/appeal-outcomes/california-imr/drug-rehab-program/mental-disorder
+Lab Work,lab-work,Cardiac/Circ Problem,cardiac-circ-problem,101,16,0.1584,2007,2025,6,95,0,18,4,https://apellica.com/appeal-outcomes/california-imr/lab-work/cardiac-circ-problem
+CPM Machine,cpm-machine,Orth/Musculoskeletal,orth-musculoskeletal,101,41,0.4059,2003,2026,92,9,0,8,1,https://apellica.com/appeal-outcomes/california-imr/cpm-machine/orth-musculoskeletal
+Hip Replacement,hip-replacement,Orth/Musculoskeletal,orth-musculoskeletal,100,30,0.3000,2001,2025,64,34,2,22,2,https://apellica.com/appeal-outcomes/california-imr/hip-replacement/orth-musculoskeletal
+Other,other,Autism Spectrum,autism-spectrum,99,40,0.4040,2002,2025,84,13,2,31,14,https://apellica.com/appeal-outcomes/california-imr/other/autism-spectrum
+Tx for Migraine,tx-for-migraine,CNS/ Neuromusc Dis,cns-neuromusc-dis,98,46,0.4694,2002,2019,79,19,0,0,0,https://apellica.com/appeal-outcomes/california-imr/tx-for-migraine/cns-neuromusc-dis
+Arthroscopy,arthroscopy,Orth/Musculoskeletal,orth-musculoskeletal,96,42,0.4375,2002,2026,73,23,0,49,12,https://apellica.com/appeal-outcomes/california-imr/arthroscopy/orth-musculoskeletal
+Anti-Depressants,anti-depressants,Mental Disorder,mental-disorder,94,47,0.5000,2007,2025,86,8,0,41,20,https://apellica.com/appeal-outcomes/california-imr/anti-depressants/mental-disorder
+Analgesics,analgesics,Orth/Musculoskeletal,orth-musculoskeletal,93,20,0.2151,2002,2017,93,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/analgesics/orth-musculoskeletal
+Neuromuscular RX,neuromuscular-rx,CNS/ Neuromusc Dis,cns-neuromusc-dis,93,76,0.8172,2019,2025,89,4,0,71,64,https://apellica.com/appeal-outcomes/california-imr/neuromuscular-rx/cns-neuromusc-dis
+Glucose Monitor,glucose-monitor,Endocrine/Metabolic,endocrine-metabolic,93,71,0.7634,2020,2025,84,9,0,91,69,https://apellica.com/appeal-outcomes/california-imr/glucose-monitor/endocrine-metabolic
+Knee Replacement,knee-replacement,Orth/Musculoskeletal,orth-musculoskeletal,92,24,0.2609,2002,2025,66,26,0,32,4,https://apellica.com/appeal-outcomes/california-imr/knee-replacement/orth-musculoskeletal
+MRI,mri,CNS/ Neuromusc Dis,cns-neuromusc-dis,92,48,0.5217,2003,2025,81,11,0,23,15,https://apellica.com/appeal-outcomes/california-imr/mri/cns-neuromusc-dis
+Biologics,biologics,Immuno Disorders,immuno-disorders,92,65,0.7065,2006,2025,84,8,0,68,50,https://apellica.com/appeal-outcomes/california-imr/biologics/immuno-disorders
+Antibiotics,antibiotics,Infectious Disease,infectious-disease,90,19,0.2111,2001,2025,60,30,0,12,8,https://apellica.com/appeal-outcomes/california-imr/antibiotics/infectious-disease
+Bariatric Duod Swtch,bariatric-duod-swtch,Morbid Obesity,morbid-obesity,89,67,0.7528,2005,2018,88,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/bariatric-duod-swtch/morbid-obesity
+Botox Injection,botox-injection,Orth/Musculoskeletal,orth-musculoskeletal,88,43,0.4886,2002,2025,39,49,0,18,9,https://apellica.com/appeal-outcomes/california-imr/botox-injection/orth-musculoskeletal
+Orthotics,orthotics,Foot Disorder,foot-disorder,85,61,0.7176,2004,2025,85,0,0,31,25,https://apellica.com/appeal-outcomes/california-imr/orthotics/foot-disorder
+Insulin Pump,insulin-pump,Endocrine/Metabolic,endocrine-metabolic,83,60,0.7229,2002,2025,57,26,0,8,8,https://apellica.com/appeal-outcomes/california-imr/insulin-pump/endocrine-metabolic
+ETOH Rehab Program,etoh-rehab-program,Mental Disorder,mental-disorder,83,23,0.2771,2003,2019,78,1,4,0,0,https://apellica.com/appeal-outcomes/california-imr/etoh-rehab-program/mental-disorder
+Steroid Injection,steroid-injection,Orth/Musculoskeletal,orth-musculoskeletal,81,54,0.6667,2001,2025,70,11,0,39,29,https://apellica.com/appeal-outcomes/california-imr/steroid-injection/orth-musculoskeletal
+Non-FDA Approved Use,non-fda-approved-use,CNS/ Neuromusc Dis,cns-neuromusc-dis,80,40,0.5000,2003,2011,65,15,0,0,0,https://apellica.com/appeal-outcomes/california-imr/non-fda-approved-use/cns-neuromusc-dis
+Braces,braces,Orth/Musculoskeletal,orth-musculoskeletal,77,28,0.3636,2002,2025,71,6,0,5,1,https://apellica.com/appeal-outcomes/california-imr/braces/orth-musculoskeletal
+Panniculectomy,panniculectomy,Skin Disorders,skin-disorders,76,23,0.3026,2003,2026,76,0,0,34,8,https://apellica.com/appeal-outcomes/california-imr/panniculectomy/skin-disorders
+Other,other,Blood Related Disord,blood-related-disord,75,38,0.5067,2002,2025,57,18,0,11,6,https://apellica.com/appeal-outcomes/california-imr/other/blood-related-disord
+Anti-inflammatories,anti-inflammatories,Orth/Musculoskeletal,orth-musculoskeletal,75,27,0.3600,2003,2025,70,5,0,4,1,https://apellica.com/appeal-outcomes/california-imr/anti-inflammatories/orth-musculoskeletal
+Weight Control,weight-control,Endo/Metabolic,endo-metabolic,75,71,0.9467,2026,2026,75,0,0,75,71,https://apellica.com/appeal-outcomes/california-imr/weight-control/endo-metabolic
+Emergency Room,emergency-room,Orth/Musculoskeletal,orth-musculoskeletal,74,27,0.3649,2008,2025,0,0,74,3,1,https://apellica.com/appeal-outcomes/california-imr/emergency-room/orth-musculoskeletal
+Other,other,Genetic Diseases,genetic-diseases,74,37,0.5000,2002,2026,51,23,0,25,15,https://apellica.com/appeal-outcomes/california-imr/other/genetic-diseases
+Emergency Room,emergency-room,Ears/Nose/Throat,ears-nose-throat,73,30,0.4110,2008,2017,0,0,73,0,0,https://apellica.com/appeal-outcomes/california-imr/emergency-room/ears-nose-throat
+Panniculectomy,panniculectomy,Morbid Obesity,morbid-obesity,69,23,0.3333,2001,2019,69,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/panniculectomy/morbid-obesity
+Lab Work,lab-work,Prevention/Good Hlth,prevention-good-hlth,68,19,0.2794,2010,2024,16,52,0,12,1,https://apellica.com/appeal-outcomes/california-imr/lab-work/prevention-good-hlth
+Tx for Impotence,tx-for-impotence,GU/ Kidney Disorder,gu-kidney-disorder,68,44,0.6471,2002,2018,67,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/tx-for-impotence/gu-kidney-disorder
+Non-FDA Approved Use,non-fda-approved-use,Orth/Musculoskeletal,orth-musculoskeletal,68,26,0.3824,2003,2011,63,5,0,0,0,https://apellica.com/appeal-outcomes/california-imr/non-fda-approved-use/orth-musculoskeletal
+Pain Medication,pain-medication,CNS/ Neuromusc Dis,cns-neuromusc-dis,67,29,0.4328,2017,2025,59,8,0,30,16,https://apellica.com/appeal-outcomes/california-imr/pain-medication/cns-neuromusc-dis
+Other,other,Morbid Obesity,morbid-obesity,67,26,0.3881,2001,2019,48,19,0,0,0,https://apellica.com/appeal-outcomes/california-imr/other/morbid-obesity
+Inpt Admission,inpt-admission,Orth/Musculoskeletal,orth-musculoskeletal,66,17,0.2576,2003,2025,66,0,0,19,3,https://apellica.com/appeal-outcomes/california-imr/inpt-admission/orth-musculoskeletal
+Prosthesis,prosthesis,Orth/Musculoskeletal,orth-musculoskeletal,66,31,0.4697,2005,2025,49,17,0,14,6,https://apellica.com/appeal-outcomes/california-imr/prosthesis/orth-musculoskeletal
+Other,other,Trauma/ Injuries,trauma-injuries,65,25,0.3846,2002,2025,43,21,1,15,7,https://apellica.com/appeal-outcomes/california-imr/other/trauma-injuries
+Electric Wheelchair,electric-wheelchair,CNS/ Neuromusc Dis,cns-neuromusc-dis,65,21,0.3231,2002,2025,64,1,0,10,2,https://apellica.com/appeal-outcomes/california-imr/electric-wheelchair/cns-neuromusc-dis
+SCP Consult Refer,scp-consult-refer,Orth/Musculoskeletal,orth-musculoskeletal,64,37,0.5781,2002,2025,64,0,0,11,7,https://apellica.com/appeal-outcomes/california-imr/scp-consult-refer/orth-musculoskeletal
+Occupational Therapy,occupational-therapy,Pediatrics,pediatrics,63,40,0.6349,2002,2023,56,7,0,3,1,https://apellica.com/appeal-outcomes/california-imr/occupational-therapy/pediatrics
+GERD Procedure,gerd-procedure,Digestive System/ GI,digestive-system-gi,63,24,0.3810,2019,2025,6,57,0,42,17,https://apellica.com/appeal-outcomes/california-imr/gerd-procedure/digestive-system-gi
+Lab Work,lab-work,OB-GYN/ Pregnancy,ob-gyn-pregnancy,62,24,0.3871,2006,2018,9,51,2,0,0,https://apellica.com/appeal-outcomes/california-imr/lab-work/ob-gyn-pregnancy
+Oncotype DX Assay,oncotype-dx-assay,Cancer,cancer,61,29,0.4754,2007,2019,7,54,0,0,0,https://apellica.com/appeal-outcomes/california-imr/oncotype-dx-assay/cancer
+Hormones,hormones,GU/ Kidney Disorder,gu-kidney-disorder,61,34,0.5574,2003,2025,55,6,0,32,21,https://apellica.com/appeal-outcomes/california-imr/hormones/gu-kidney-disorder
+Bone Density Scan,bone-density-scan,Orth/Musculoskeletal,orth-musculoskeletal,60,22,0.3667,2002,2025,41,19,0,3,3,https://apellica.com/appeal-outcomes/california-imr/bone-density-scan/orth-musculoskeletal
+General Anesthesia,general-anesthesia,Digestive System/ GI,digestive-system-gi,60,11,0.1833,2006,2024,60,0,0,13,7,https://apellica.com/appeal-outcomes/california-imr/general-anesthesia/digestive-system-gi
+Wheelchair,wheelchair,CNS/ Neuromusc Dis,cns-neuromusc-dis,60,23,0.3833,2002,2026,60,0,0,18,7,https://apellica.com/appeal-outcomes/california-imr/wheelchair/cns-neuromusc-dis
+Bariatric Roux-en-y,bariatric-roux-en-y,Morbid Obesity,morbid-obesity,60,45,0.7500,2005,2017,60,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/bariatric-roux-en-y/morbid-obesity
+Cont Glucose Monitor,cont-glucose-monitor,Endocrine/Metabolic,endocrine-metabolic,60,53,0.8833,2008,2020,45,15,0,0,0,https://apellica.com/appeal-outcomes/california-imr/cont-glucose-monitor/endocrine-metabolic
+Inpt Admission,inpt-admission,Cardiac/Circ Problem,cardiac-circ-problem,58,12,0.2069,2002,2025,57,1,0,16,4,https://apellica.com/appeal-outcomes/california-imr/inpt-admission/cardiac-circ-problem
+Skin Treatment,skin-treatment,Immuno Disorders,immuno-disorders,58,48,0.8276,2007,2025,36,22,0,45,38,https://apellica.com/appeal-outcomes/california-imr/skin-treatment/immuno-disorders
+Hormones,hormones,OB-GYN/ Pregnancy,ob-gyn-pregnancy,57,10,0.1754,2001,2018,34,23,0,0,0,https://apellica.com/appeal-outcomes/california-imr/hormones/ob-gyn-pregnancy
+Mammography,mammography,Cancer,cancer,57,53,0.9298,2008,2020,2,55,0,0,0,https://apellica.com/appeal-outcomes/california-imr/mammography/cancer
+Anti-Fungal,anti-fungal,Infectious Disease,infectious-disease,57,30,0.5263,2002,2024,55,2,0,8,6,https://apellica.com/appeal-outcomes/california-imr/anti-fungal/infectious-disease
+Other,other,Post Surgical Comp,post-surgical-comp,56,13,0.2321,2003,2025,51,5,0,3,1,https://apellica.com/appeal-outcomes/california-imr/other/post-surgical-comp
+Antibiotics,antibiotics,Digestive System/ GI,digestive-system-gi,56,41,0.7321,2003,2025,54,2,0,14,12,https://apellica.com/appeal-outcomes/california-imr/antibiotics/digestive-system-gi
+Diskectomy,diskectomy,Orth/Musculoskeletal,orth-musculoskeletal,56,10,0.1786,2002,2025,32,23,1,11,3,https://apellica.com/appeal-outcomes/california-imr/diskectomy/orth-musculoskeletal
+ADD/ADHD Rx,add-adhd-rx,Mental Disorder,mental-disorder,55,37,0.6727,2019,2025,54,1,0,44,28,https://apellica.com/appeal-outcomes/california-imr/add-adhd-rx/mental-disorder
+Osteoporosis Rx,osteoporosis-rx,Orth/Musculoskeletal,orth-musculoskeletal,55,37,0.6727,2019,2025,52,3,0,36,25,https://apellica.com/appeal-outcomes/california-imr/osteoporosis-rx/orth-musculoskeletal
+Pet Scan,pet-scan,CNS/ Neuromusc Dis,cns-neuromusc-dis,55,21,0.3818,2002,2025,11,44,0,8,4,https://apellica.com/appeal-outcomes/california-imr/pet-scan/cns-neuromusc-dis
+Emergency Room,emergency-room,Digestive System/ GI,digestive-system-gi,54,31,0.5741,2008,2025,3,0,51,6,6,https://apellica.com/appeal-outcomes/california-imr/emergency-room/digestive-system-gi
+Breast reduction,breast-reduction,Orth/Musculoskeletal,orth-musculoskeletal,54,25,0.4630,2002,2024,54,0,0,8,2,https://apellica.com/appeal-outcomes/california-imr/breast-reduction/orth-musculoskeletal
+Behavioral Therapy,behavioral-therapy,Mental Disorder,mental-disorder,54,29,0.5370,2003,2024,50,3,1,12,7,https://apellica.com/appeal-outcomes/california-imr/behavioral-therapy/mental-disorder
+Hysterectomy,hysterectomy,OB-GYN/ Pregnancy,ob-gyn-pregnancy,54,18,0.3333,2002,2018,52,1,1,0,0,https://apellica.com/appeal-outcomes/california-imr/hysterectomy/ob-gyn-pregnancy
+Other,other,Not Applicable,not-applicable,54,22,0.4074,2003,2017,39,15,0,0,0,https://apellica.com/appeal-outcomes/california-imr/other/not-applicable
+Non-FDA Approved Use,non-fda-approved-use,Mental Disorder,mental-disorder,54,21,0.3889,2003,2009,53,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/non-fda-approved-use/mental-disorder
+Wearable Cardio Defib,wearable-cardio-defib,Cardiac/Circ Problem,cardiac-circ-problem,53,34,0.6415,2019,2025,7,46,0,38,26,https://apellica.com/appeal-outcomes/california-imr/wearable-cardio-defib/cardiac-circ-problem
+Other,other,Chron Pain Synd,chron-pain-synd,52,13,0.2500,2002,2018,41,11,0,0,0,https://apellica.com/appeal-outcomes/california-imr/other/chron-pain-synd
+Speech Therapy,speech-therapy,CNS/ Neuromusc Dis,cns-neuromusc-dis,52,35,0.6731,2002,2020,47,5,0,0,0,https://apellica.com/appeal-outcomes/california-imr/speech-therapy/cns-neuromusc-dis
+General Anesthesia,general-anesthesia,Prevention/Good Hlth,prevention-good-hlth,51,12,0.2353,2010,2024,51,0,0,14,4,https://apellica.com/appeal-outcomes/california-imr/general-anesthesia/prevention-good-hlth
+Breast reduction,breast-reduction,OB-GYN/ Pregnancy,ob-gyn-pregnancy,51,30,0.5882,2002,2019,51,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/breast-reduction/ob-gyn-pregnancy
+Colonoscopy/Sigmoid,colonoscopy-sigmoid,Digestive System/ GI,digestive-system-gi,50,21,0.4200,2005,2024,44,4,2,11,7,https://apellica.com/appeal-outcomes/california-imr/colonoscopy-sigmoid/digestive-system-gi
+Other,other,Prevention/Good Hlth,prevention-good-hlth,49,20,0.4082,2001,2021,27,22,0,2,0,https://apellica.com/appeal-outcomes/california-imr/other/prevention-good-hlth
+Anti-inflammatories,anti-inflammatories,Immuno Disorders,immuno-disorders,49,23,0.4694,2003,2025,44,5,0,21,12,https://apellica.com/appeal-outcomes/california-imr/anti-inflammatories/immuno-disorders
+Cardiac Rx,cardiac-rx,Endocrine/Metabolic,endocrine-metabolic,49,18,0.3673,2009,2025,47,2,0,35,12,https://apellica.com/appeal-outcomes/california-imr/cardiac-rx/endocrine-metabolic
+C-Pap Machine,c-pap-machine,Respiratory System,respiratory-system,48,24,0.5000,2002,2018,46,2,0,0,0,https://apellica.com/appeal-outcomes/california-imr/c-pap-machine/respiratory-system
+Wheelchair,wheelchair,Orth/Musculoskeletal,orth-musculoskeletal,48,7,0.1458,2002,2025,48,0,0,6,1,https://apellica.com/appeal-outcomes/california-imr/wheelchair/orth-musculoskeletal
+Physical Therapy,physical-therapy,CNS/ Neuromusc Dis,cns-neuromusc-dis,47,20,0.4255,2002,2025,42,5,0,9,4,https://apellica.com/appeal-outcomes/california-imr/physical-therapy/cns-neuromusc-dis
+Inpt Admission,inpt-admission,CNS/ Neuromusc Dis,cns-neuromusc-dis,47,11,0.2340,2002,2025,46,1,0,8,2,https://apellica.com/appeal-outcomes/california-imr/inpt-admission/cns-neuromusc-dis
+Facial Feminization Surgery,facial-feminization-surgery,Mental Disorder,mental-disorder,47,42,0.8936,2019,2025,47,0,0,11,8,https://apellica.com/appeal-outcomes/california-imr/facial-feminization-surgery/mental-disorder
+Asthma Rx,asthma-rx,Respiratory System,respiratory-system,46,31,0.6739,2019,2025,45,1,0,33,23,https://apellica.com/appeal-outcomes/california-imr/asthma-rx/respiratory-system
+Bariatric Surgery,bariatric-surgery,Endocrine/Metabolic,endocrine-metabolic,46,28,0.6087,2003,2026,36,10,0,33,21,https://apellica.com/appeal-outcomes/california-imr/bariatric-surgery/endocrine-metabolic
+Electric Wheelchair,electric-wheelchair,Orth/Musculoskeletal,orth-musculoskeletal,44,6,0.1364,2005,2025,44,0,0,10,2,https://apellica.com/appeal-outcomes/california-imr/electric-wheelchair/orth-musculoskeletal
+Liposuction,liposuction,Endocrine/Metabolic,endocrine-metabolic,43,20,0.4651,2002,2025,41,2,0,28,12,https://apellica.com/appeal-outcomes/california-imr/liposuction/endocrine-metabolic
+Electric Scooter,electric-scooter,Orth/Musculoskeletal,orth-musculoskeletal,43,4,0.0930,2002,2025,43,0,0,7,0,https://apellica.com/appeal-outcomes/california-imr/electric-scooter/orth-musculoskeletal
+Heart Monitor,heart-monitor,Cardiac/Circ Problem,cardiac-circ-problem,43,11,0.2558,2011,2025,10,33,0,24,7,https://apellica.com/appeal-outcomes/california-imr/heart-monitor/cardiac-circ-problem
+Elect Bone Stim,elect-bone-stim,Orth/Musculoskeletal,orth-musculoskeletal,42,13,0.3095,2002,2025,18,24,0,8,1,https://apellica.com/appeal-outcomes/california-imr/elect-bone-stim/orth-musculoskeletal
+Sedatives/ Hypnotics,sedatives-hypnotics,CNS/ Neuromusc Dis,cns-neuromusc-dis,42,18,0.4286,2006,2025,42,0,0,21,10,https://apellica.com/appeal-outcomes/california-imr/sedatives-hypnotics/cns-neuromusc-dis
+MRI,mri,GU/ Kidney Disorder,gu-kidney-disorder,42,18,0.4286,2010,2025,27,15,0,30,13,https://apellica.com/appeal-outcomes/california-imr/mri/gu-kidney-disorder
+Emergency Room,emergency-room,Respiratory System,respiratory-system,42,16,0.3810,2008,2025,0,0,42,2,1,https://apellica.com/appeal-outcomes/california-imr/emergency-room/respiratory-system
+Compression Garments,compression-garments,Cardiac/Circ Problem,cardiac-circ-problem,42,18,0.4286,2002,2025,27,15,0,18,9,https://apellica.com/appeal-outcomes/california-imr/compression-garments/cardiac-circ-problem
+Radiofreq Ablat,radiofreq-ablat,Cardiac/Circ Problem,cardiac-circ-problem,41,20,0.4878,2003,2025,19,22,0,10,6,https://apellica.com/appeal-outcomes/california-imr/radiofreq-ablat/cardiac-circ-problem
+CT Scan,ct-scan,Orth/Musculoskeletal,orth-musculoskeletal,41,15,0.3659,2002,2025,38,3,0,13,6,https://apellica.com/appeal-outcomes/california-imr/ct-scan/orth-musculoskeletal
+CT Scan,ct-scan,Cancer,cancer,40,19,0.4750,2003,2025,34,6,0,14,6,https://apellica.com/appeal-outcomes/california-imr/ct-scan/cancer
+Fract/Bone Repair,fract-bone-repair,Orth/Musculoskeletal,orth-musculoskeletal,40,18,0.4500,2004,2025,19,18,3,3,1,https://apellica.com/appeal-outcomes/california-imr/fract-bone-repair/orth-musculoskeletal
+Surgery,surgery,Cardiac/Circ Problem,cardiac-circ-problem,40,31,0.7750,2019,2025,9,31,0,33,25,https://apellica.com/appeal-outcomes/california-imr/surgery/cardiac-circ-problem
+Blepharoplasty,blepharoplasty,Vision,vision,40,13,0.3250,2002,2025,40,0,0,8,2,https://apellica.com/appeal-outcomes/california-imr/blepharoplasty/vision
+Excess Skin Removal,excess-skin-removal,Morbid Obesity,morbid-obesity,40,11,0.2750,2005,2018,40,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/excess-skin-removal/morbid-obesity
+Inpt Admission,inpt-admission,Mental Disorder,mental-disorder,39,13,0.3333,2005,2022,39,0,0,2,0,https://apellica.com/appeal-outcomes/california-imr/inpt-admission/mental-disorder
+SCP Consult Refer,scp-consult-refer,Cardiac/Circ Problem,cardiac-circ-problem,38,25,0.6579,2002,2025,38,0,0,13,10,https://apellica.com/appeal-outcomes/california-imr/scp-consult-refer/cardiac-circ-problem
+MRI,mri,Prevention/Good Hlth,prevention-good-hlth,38,16,0.4211,2002,2025,22,16,0,6,5,https://apellica.com/appeal-outcomes/california-imr/mri/prevention-good-hlth
+Vision Therapy,vision-therapy,Vision,vision,38,7,0.1842,2002,2023,20,18,0,2,0,https://apellica.com/appeal-outcomes/california-imr/vision-therapy/vision
+Acute Psych,acute-psych,Mental Disorder,mental-disorder,38,29,0.7632,2020,2025,38,0,0,30,23,https://apellica.com/appeal-outcomes/california-imr/acute-psych/mental-disorder
+Biologics,biologics,CNS/ Neuromusc Dis,cns-neuromusc-dis,37,34,0.9189,2016,2025,31,6,0,29,27,https://apellica.com/appeal-outcomes/california-imr/biologics/cns-neuromusc-dis
+Colonoscopy/Sigmoid,colonoscopy-sigmoid,Prevention/Good Hlth,prevention-good-hlth,37,12,0.3243,2006,2025,32,5,0,3,1,https://apellica.com/appeal-outcomes/california-imr/colonoscopy-sigmoid/prevention-good-hlth
+Other,other,Dental Problems,dental-problems,36,18,0.5000,2002,2025,34,0,2,5,3,https://apellica.com/appeal-outcomes/california-imr/other/dental-problems
+Anti-inflammatories,anti-inflammatories,Digestive System/ GI,digestive-system-gi,36,25,0.6944,2006,2025,32,4,0,5,3,https://apellica.com/appeal-outcomes/california-imr/anti-inflammatories/digestive-system-gi
+Lab Work,lab-work,GU/ Kidney Disorder,gu-kidney-disorder,36,7,0.1944,2014,2026,2,34,0,29,6,https://apellica.com/appeal-outcomes/california-imr/lab-work/gu-kidney-disorder
+Extracorp Shock Wave,extracorp-shock-wave,Foot Disorder,foot-disorder,36,8,0.2222,2005,2016,7,29,0,0,0,https://apellica.com/appeal-outcomes/california-imr/extracorp-shock-wave/foot-disorder
+Pain Management,pain-management,Orth/Musculoskeletal,orth-musculoskeletal,35,13,0.3714,2002,2018,35,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/pain-management/orth-musculoskeletal
+Emergency Room,emergency-room,Skin Disorders,skin-disorders,35,9,0.2571,2008,2025,0,0,35,1,1,https://apellica.com/appeal-outcomes/california-imr/emergency-room/skin-disorders
+Antacids,antacids,Digestive System/ GI,digestive-system-gi,35,19,0.5429,2002,2025,33,2,0,5,5,https://apellica.com/appeal-outcomes/california-imr/antacids/digestive-system-gi
+Tx for Allergies,tx-for-allergies,Respiratory System,respiratory-system,34,21,0.6176,2002,2018,34,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/tx-for-allergies/respiratory-system
+Endoscopy,endoscopy,Digestive System/ GI,digestive-system-gi,34,19,0.5588,2019,2025,25,9,0,16,10,https://apellica.com/appeal-outcomes/california-imr/endoscopy/digestive-system-gi
+Weight Control,weight-control,Cardiac/Circ Problem,cardiac-circ-problem,34,26,0.7647,2016,2025,34,0,0,32,24,https://apellica.com/appeal-outcomes/california-imr/weight-control/cardiac-circ-problem
+Weight Control,weight-control,Morbid Obesity,morbid-obesity,34,20,0.5882,2001,2019,34,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/weight-control/morbid-obesity
+Lab Work,lab-work,Infectious Disease,infectious-disease,33,13,0.3939,2008,2025,6,27,0,15,8,https://apellica.com/appeal-outcomes/california-imr/lab-work/infectious-disease
+SCP Consult Refer,scp-consult-refer,CNS/ Neuromusc Dis,cns-neuromusc-dis,33,16,0.4848,2002,2024,33,0,0,5,5,https://apellica.com/appeal-outcomes/california-imr/scp-consult-refer/cns-neuromusc-dis
+CT Scan,ct-scan,Digestive System/ GI,digestive-system-gi,33,17,0.5152,2005,2025,30,1,2,11,8,https://apellica.com/appeal-outcomes/california-imr/ct-scan/digestive-system-gi
+Sleep Study,sleep-study,Respiratory System,respiratory-system,32,13,0.4063,2005,2019,29,2,1,0,0,https://apellica.com/appeal-outcomes/california-imr/sleep-study/respiratory-system
+Genetic/Genomic Test,genetic-genomic-test,Genetic Diseases,genetic-diseases,32,20,0.6250,2018,2025,12,20,0,15,10,https://apellica.com/appeal-outcomes/california-imr/genetic-genomic-test/genetic-diseases
+Acute Psych/Dischg,acute-psych-dischg,Mental Disorder,mental-disorder,32,23,0.7188,2003,2020,32,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/acute-psych-dischg/mental-disorder
+SCP Consult Refer,scp-consult-refer,Skin Disorders,skin-disorders,31,23,0.7419,2002,2025,31,0,0,4,3,https://apellica.com/appeal-outcomes/california-imr/scp-consult-refer/skin-disorders
+Genetic/Genomic Test,genetic-genomic-test,Pregnancy/Childbirth,pregnancy-childbirth,31,15,0.4839,2019,2025,6,25,0,12,4,https://apellica.com/appeal-outcomes/california-imr/genetic-genomic-test/pregnancy-childbirth
+Admission,admission,Cardiac/Circ Problem,cardiac-circ-problem,31,9,0.2903,2007,2025,28,2,1,10,5,https://apellica.com/appeal-outcomes/california-imr/admission/cardiac-circ-problem
+OON/ Acad Ctr Ref,oon-acad-ctr-ref,Cancer,cancer,31,13,0.4194,2003,2016,23,7,1,0,0,https://apellica.com/appeal-outcomes/california-imr/oon-acad-ctr-ref/cancer
+Vein Ablation,vein-ablation,Cardiac/Circ Problem,cardiac-circ-problem,31,14,0.4516,2019,2025,19,12,0,21,10,https://apellica.com/appeal-outcomes/california-imr/vein-ablation/cardiac-circ-problem
+Anti-hypertensives,anti-hypertensives,Cardiac/Circ Problem,cardiac-circ-problem,31,8,0.2581,2005,2023,31,0,0,4,3,https://apellica.com/appeal-outcomes/california-imr/anti-hypertensives/cardiac-circ-problem
+Hernia Repair,hernia-repair,Digestive System/ GI,digestive-system-gi,30,12,0.4000,2002,2025,24,5,1,4,2,https://apellica.com/appeal-outcomes/california-imr/hernia-repair/digestive-system-gi
+Emergency Room,emergency-room,CNS/ Neuromusc Dis,cns-neuromusc-dis,30,18,0.6000,2008,2023,0,0,30,2,2,https://apellica.com/appeal-outcomes/california-imr/emergency-room/cns-neuromusc-dis
+Laminectomy,laminectomy,Orth/Musculoskeletal,orth-musculoskeletal,30,11,0.3667,2003,2025,25,5,0,14,5,https://apellica.com/appeal-outcomes/california-imr/laminectomy/orth-musculoskeletal
+Breast Augmentation,breast-augmentation,Mental Disorder,mental-disorder,30,22,0.7333,2014,2025,30,0,0,13,11,https://apellica.com/appeal-outcomes/california-imr/breast-augmentation/mental-disorder
+Sleep Study,sleep-study,CNS/ Neuromusc Dis,cns-neuromusc-dis,30,15,0.5000,2009,2025,29,1,0,15,10,https://apellica.com/appeal-outcomes/california-imr/sleep-study/cns-neuromusc-dis
+Anti-inflammatories,anti-inflammatories,Skin Disorders,skin-disorders,30,18,0.6000,2015,2025,29,1,0,6,5,https://apellica.com/appeal-outcomes/california-imr/anti-inflammatories/skin-disorders
+OON Referral,oon-referral,Orth/Musculoskeletal,orth-musculoskeletal,29,4,0.1379,2002,2025,28,1,0,4,1,https://apellica.com/appeal-outcomes/california-imr/oon-referral/orth-musculoskeletal
+CT Scan,ct-scan,Endocrine/Metabolic,endocrine-metabolic,29,10,0.3448,2013,2025,10,19,0,21,4,https://apellica.com/appeal-outcomes/california-imr/ct-scan/endocrine-metabolic
+OON Referral,oon-referral,Cancer,cancer,29,12,0.4138,2002,2025,26,2,1,4,2,https://apellica.com/appeal-outcomes/california-imr/oon-referral/cancer
+RTC,rtc,Autism Spectrum,autism-spectrum,29,26,0.8966,2020,2025,29,0,0,26,23,https://apellica.com/appeal-outcomes/california-imr/rtc/autism-spectrum
+Non-FDA Approved Use,non-fda-approved-use,Digestive System/ GI,digestive-system-gi,29,12,0.4138,2003,2009,27,2,0,0,0,https://apellica.com/appeal-outcomes/california-imr/non-fda-approved-use/digestive-system-gi
+Lab Work,lab-work,Mental Disorder,mental-disorder,29,2,0.0690,2015,2025,4,25,0,3,1,https://apellica.com/appeal-outcomes/california-imr/lab-work/mental-disorder
+Ultrasound,ultrasound,Cancer,cancer,28,5,0.1786,2003,2025,14,14,0,16,4,https://apellica.com/appeal-outcomes/california-imr/ultrasound/cancer
+Anti-Psychotic,anti-psychotic,Mental Disorder,mental-disorder,28,11,0.3929,2005,2025,24,4,0,9,4,https://apellica.com/appeal-outcomes/california-imr/anti-psychotic/mental-disorder
+Cognitive Therapy,cognitive-therapy,Mental Disorder,mental-disorder,28,14,0.5000,2003,2025,24,4,0,3,1,https://apellica.com/appeal-outcomes/california-imr/cognitive-therapy/mental-disorder
+Oxygen,oxygen,Respiratory System,respiratory-system,28,5,0.1786,2002,2025,28,0,0,3,1,https://apellica.com/appeal-outcomes/california-imr/oxygen/respiratory-system
+Formulary v Non Form,formulary-v-non-form,CNS/ Neuromusc Dis,cns-neuromusc-dis,28,18,0.6429,2004,2011,26,2,0,0,0,https://apellica.com/appeal-outcomes/california-imr/formulary-v-non-form/cns-neuromusc-dis
+Septoplasty,septoplasty,Ears/Nose/Throat,ears-nose-throat,28,18,0.6429,2001,2024,25,3,0,5,4,https://apellica.com/appeal-outcomes/california-imr/septoplasty/ears-nose-throat
+Orthotics,orthotics,Orth/Musculoskeletal,orth-musculoskeletal,28,16,0.5714,2003,2023,27,1,0,8,7,https://apellica.com/appeal-outcomes/california-imr/orthotics/orth-musculoskeletal
+IDET,idet,Orth/Musculoskeletal,orth-musculoskeletal,28,2,0.0714,2002,2016,3,25,0,0,0,https://apellica.com/appeal-outcomes/california-imr/idet/orth-musculoskeletal
+Special Bed,special-bed,Autism Spectrum,autism-spectrum,28,23,0.8214,2019,2025,28,0,0,26,21,https://apellica.com/appeal-outcomes/california-imr/special-bed/autism-spectrum
+Analgesic Rx,analgesic-rx,Orth/Musculoskeletal,orth-musculoskeletal,28,2,0.0714,2005,2017,25,2,1,0,0,https://apellica.com/appeal-outcomes/california-imr/analgesic-rx/orth-musculoskeletal
+Inpt Admission,inpt-admission,Trauma/ Injuries,trauma-injuries,28,11,0.3929,2003,2025,27,1,0,12,8,https://apellica.com/appeal-outcomes/california-imr/inpt-admission/trauma-injuries
+Non-FDA Approved Use,non-fda-approved-use,Respiratory System,respiratory-system,28,10,0.3571,2003,2011,23,5,0,0,0,https://apellica.com/appeal-outcomes/california-imr/non-fda-approved-use/respiratory-system
+Cochlear Implant,cochlear-implant,Ears/Nose/Throat,ears-nose-throat,28,9,0.3214,2004,2025,27,1,0,11,5,https://apellica.com/appeal-outcomes/california-imr/cochlear-implant/ears-nose-throat
+Skill Nsg Vsts,skill-nsg-vsts,CNS/ Neuromusc Dis,cns-neuromusc-dis,28,17,0.6071,2002,2025,28,0,0,5,2,https://apellica.com/appeal-outcomes/california-imr/skill-nsg-vsts/cns-neuromusc-dis
+Partial Hospital,partial-hospital,Autism Spectrum,autism-spectrum,28,17,0.6071,2002,2025,28,0,0,9,7,https://apellica.com/appeal-outcomes/california-imr/partial-hospital/autism-spectrum
+Formulary v Non Form,formulary-v-non-form,Orth/Musculoskeletal,orth-musculoskeletal,27,11,0.4074,2003,2010,27,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/formulary-v-non-form/orth-musculoskeletal
+Jaw Surgery,jaw-surgery,Orth/Musculoskeletal,orth-musculoskeletal,27,20,0.7407,2001,2025,27,0,0,4,3,https://apellica.com/appeal-outcomes/california-imr/jaw-surgery/orth-musculoskeletal
+Lab Work,lab-work,Orth/Musculoskeletal,orth-musculoskeletal,27,16,0.5926,2010,2025,0,27,0,9,8,https://apellica.com/appeal-outcomes/california-imr/lab-work/orth-musculoskeletal
+Acupuncture,acupuncture,CNS/ Neuromusc Dis,cns-neuromusc-dis,27,14,0.5185,2003,2024,27,0,0,3,1,https://apellica.com/appeal-outcomes/california-imr/acupuncture/cns-neuromusc-dis
+SCP Consult Refer,scp-consult-refer,Morbid Obesity,morbid-obesity,27,18,0.6667,2001,2017,27,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/scp-consult-refer/morbid-obesity
+Dental Anesthesia,dental-anesthesia,Dental Problems,dental-problems,27,14,0.5185,2005,2022,27,0,0,3,2,https://apellica.com/appeal-outcomes/california-imr/dental-anesthesia/dental-problems
+Formulary v Non Form,formulary-v-non-form,Digestive System/ GI,digestive-system-gi,27,5,0.1852,2004,2011,27,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/formulary-v-non-form/digestive-system-gi
+Ultrasound,ultrasound,Cardiac/Circ Problem,cardiac-circ-problem,26,12,0.4615,2010,2025,19,7,0,8,7,https://apellica.com/appeal-outcomes/california-imr/ultrasound/cardiac-circ-problem
+Speech Therapy,speech-therapy,Genetic Diseases,genetic-diseases,26,19,0.7308,2002,2024,25,1,0,6,5,https://apellica.com/appeal-outcomes/california-imr/speech-therapy/genetic-diseases
+Interferon,interferon,Infectious Disease,infectious-disease,26,7,0.2692,2002,2024,24,2,0,1,1,https://apellica.com/appeal-outcomes/california-imr/interferon/infectious-disease
+CT Scan,ct-scan,Respiratory System,respiratory-system,26,10,0.3846,2002,2024,20,6,0,7,3,https://apellica.com/appeal-outcomes/california-imr/ct-scan/respiratory-system
+Formulary v Non Form,formulary-v-non-form,Cardiac/Circ Problem,cardiac-circ-problem,26,6,0.2308,2004,2011,26,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/formulary-v-non-form/cardiac-circ-problem
+MRI,mri,Cardiac/Circ Problem,cardiac-circ-problem,26,10,0.3846,2003,2025,23,3,0,10,5,https://apellica.com/appeal-outcomes/california-imr/mri/cardiac-circ-problem
+Radiofreq Ablat,radiofreq-ablat,Cancer,cancer,25,12,0.4800,2002,2025,4,21,0,5,4,https://apellica.com/appeal-outcomes/california-imr/radiofreq-ablat/cancer
+Analgesics,analgesics,CNS/ Neuromusc Dis,cns-neuromusc-dis,25,8,0.3200,2005,2017,24,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/analgesics/cns-neuromusc-dis
+CT Scan,ct-scan,CNS/ Neuromusc Dis,cns-neuromusc-dis,25,7,0.2800,2003,2022,20,5,0,2,0,https://apellica.com/appeal-outcomes/california-imr/ct-scan/cns-neuromusc-dis
+Skin Resurfacing,skin-resurfacing,Skin Disorders,skin-disorders,25,11,0.4400,2002,2022,20,5,0,3,3,https://apellica.com/appeal-outcomes/california-imr/skin-resurfacing/skin-disorders
+Sedatives/ Hypnotics,sedatives-hypnotics,Mental Disorder,mental-disorder,25,7,0.2800,2004,2025,22,3,0,11,3,https://apellica.com/appeal-outcomes/california-imr/sedatives-hypnotics/mental-disorder
+Vein Stripping,vein-stripping,Cardiac/Circ Problem,cardiac-circ-problem,25,6,0.2400,2002,2022,18,7,0,1,0,https://apellica.com/appeal-outcomes/california-imr/vein-stripping/cardiac-circ-problem
+Hearing Aid,hearing-aid,Ears/Nose/Throat,ears-nose-throat,25,9,0.3600,2004,2025,22,3,0,3,1,https://apellica.com/appeal-outcomes/california-imr/hearing-aid/ears-nose-throat
+Genetic/Genomic Test,genetic-genomic-test,Cardiac/Circ Problem,cardiac-circ-problem,24,14,0.5833,2018,2024,2,22,0,15,9,https://apellica.com/appeal-outcomes/california-imr/genetic-genomic-test/cardiac-circ-problem
+Ultrasound,ultrasound,OB-GYN/ Pregnancy,ob-gyn-pregnancy,24,8,0.3333,2003,2019,15,9,0,0,0,https://apellica.com/appeal-outcomes/california-imr/ultrasound/ob-gyn-pregnancy
+Hysterectomy,hysterectomy,GU/ Kidney Disorder,gu-kidney-disorder,24,9,0.3750,2019,2025,24,0,0,19,7,https://apellica.com/appeal-outcomes/california-imr/hysterectomy/gu-kidney-disorder
+Formulary v Non Form,formulary-v-non-form,Mental Disorder,mental-disorder,24,15,0.6250,2003,2011,24,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/formulary-v-non-form/mental-disorder
+Epileptic Medication,epileptic-medication,CNS/ Neuromusc Dis,cns-neuromusc-dis,24,17,0.7083,2017,2025,23,1,0,13,10,https://apellica.com/appeal-outcomes/california-imr/epileptic-medication/cns-neuromusc-dis
+Bariatric Surgery,bariatric-surgery,Morbid Obesity,morbid-obesity,24,9,0.3750,2001,2005,13,11,0,0,0,https://apellica.com/appeal-outcomes/california-imr/bariatric-surgery/morbid-obesity
+Emergency Room,emergency-room,GU/ Kidney Disorder,gu-kidney-disorder,24,14,0.5833,2008,2022,1,0,23,2,1,https://apellica.com/appeal-outcomes/california-imr/emergency-room/gu-kidney-disorder
+Glucagon-Like Peptide-1 (GLP),glucagon-like-peptide-1-glp,CNS/ Neuromusc Dis,cns-neuromusc-dis,24,20,0.8333,2025,2025,24,0,0,24,20,https://apellica.com/appeal-outcomes/california-imr/glucagon-like-peptide-1-glp/cns-neuromusc-dis
+Breast Surgery,breast-surgery,OB-GYN/ Pregnancy,ob-gyn-pregnancy,24,10,0.4167,2002,2017,22,1,1,0,0,https://apellica.com/appeal-outcomes/california-imr/breast-surgery/ob-gyn-pregnancy
+MRI,mri,Trauma/ Injuries,trauma-injuries,24,7,0.2917,2005,2024,21,3,0,3,2,https://apellica.com/appeal-outcomes/california-imr/mri/trauma-injuries
+Radiofreq Ablat,radiofreq-ablat,CNS/ Neuromusc Dis,cns-neuromusc-dis,23,12,0.5217,2002,2025,1,22,0,11,10,https://apellica.com/appeal-outcomes/california-imr/radiofreq-ablat/cns-neuromusc-dis
+Speech Therapy,speech-therapy,Mental Disorder,mental-disorder,23,17,0.7391,2002,2025,23,0,0,1,1,https://apellica.com/appeal-outcomes/california-imr/speech-therapy/mental-disorder
+Inpt Discharge,inpt-discharge,Orth/Musculoskeletal,orth-musculoskeletal,23,1,0.0435,2005,2025,23,0,0,9,0,https://apellica.com/appeal-outcomes/california-imr/inpt-discharge/orth-musculoskeletal
+Ligament/Tendon Repair,ligament-tendon-repair,Orth/Musculoskeletal,orth-musculoskeletal,23,7,0.3043,2019,2025,14,9,0,16,4,https://apellica.com/appeal-outcomes/california-imr/ligament-tendon-repair/orth-musculoskeletal
+Biologics,biologics,Cancer,cancer,23,7,0.3043,2018,2025,16,7,0,13,4,https://apellica.com/appeal-outcomes/california-imr/biologics/cancer
+Allergy Testing,allergy-testing,Pediatrics,pediatrics,23,0,0.0000,2019,2024,1,22,0,16,0,https://apellica.com/appeal-outcomes/california-imr/allergy-testing/pediatrics
+Stent,stent,Cardiac/Circ Problem,cardiac-circ-problem,23,16,0.6957,2007,2025,12,11,0,10,6,https://apellica.com/appeal-outcomes/california-imr/stent/cardiac-circ-problem
+Card Valve Repl,card-valve-repl,Cardiac/Circ Problem,cardiac-circ-problem,23,17,0.7391,2003,2023,13,10,0,11,8,https://apellica.com/appeal-outcomes/california-imr/card-valve-repl/cardiac-circ-problem
+Physical Therapy,physical-therapy,Pediatrics,pediatrics,22,17,0.7727,2007,2024,22,0,0,2,2,https://apellica.com/appeal-outcomes/california-imr/physical-therapy/pediatrics
+Lab Work,lab-work,CNS/ Neuromusc Dis,cns-neuromusc-dis,22,7,0.3182,2008,2023,6,16,0,2,0,https://apellica.com/appeal-outcomes/california-imr/lab-work/cns-neuromusc-dis
+Admission,admission,CNS/ Neuromusc Dis,cns-neuromusc-dis,22,11,0.5000,2002,2025,22,0,0,8,5,https://apellica.com/appeal-outcomes/california-imr/admission/cns-neuromusc-dis
+Admission,admission,Orth/Musculoskeletal,orth-musculoskeletal,22,10,0.4545,2007,2024,22,0,0,11,6,https://apellica.com/appeal-outcomes/california-imr/admission/orth-musculoskeletal
+Inpt Discharge,inpt-discharge,Cardiac/Circ Problem,cardiac-circ-problem,22,4,0.1818,2006,2024,22,0,0,13,2,https://apellica.com/appeal-outcomes/california-imr/inpt-discharge/cardiac-circ-problem
+Mastectomy,mastectomy,Mental Disorder,mental-disorder,22,21,0.9545,2019,2024,22,0,0,7,7,https://apellica.com/appeal-outcomes/california-imr/mastectomy/mental-disorder
+Analgesics,analgesics,Chron Pain Synd,chron-pain-synd,22,3,0.1364,2009,2017,21,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/analgesics/chron-pain-synd
+Emergency Room,emergency-room,Trauma/ Injuries,trauma-injuries,22,12,0.5455,2008,2022,3,0,19,1,1,https://apellica.com/appeal-outcomes/california-imr/emergency-room/trauma-injuries
+Admission,admission,Trauma/ Injuries,trauma-injuries,22,15,0.6818,2011,2025,20,0,2,11,9,https://apellica.com/appeal-outcomes/california-imr/admission/trauma-injuries
+Social Skills Thpy,social-skills-thpy,Autism Spectrum,autism-spectrum,21,9,0.4286,2009,2018,20,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/social-skills-thpy/autism-spectrum
+Shoe Inserts,shoe-inserts,Foot Disorder,foot-disorder,21,17,0.8095,2010,2025,21,0,0,5,5,https://apellica.com/appeal-outcomes/california-imr/shoe-inserts/foot-disorder
+Hair Removal,hair-removal,Mental Disorder,mental-disorder,21,18,0.8571,2019,2025,21,0,0,7,6,https://apellica.com/appeal-outcomes/california-imr/hair-removal/mental-disorder
+Non-FDA Approved Use,non-fda-approved-use,Cancer,cancer,21,7,0.3333,2004,2010,13,8,0,0,0,https://apellica.com/appeal-outcomes/california-imr/non-fda-approved-use/cancer
+Charite,charite,Orth/Musculoskeletal,orth-musculoskeletal,21,0,0.0000,2005,2005,0,21,0,0,0,https://apellica.com/appeal-outcomes/california-imr/charite/orth-musculoskeletal
+Genetic/Genomic Test,genetic-genomic-test,Mental Disorder,mental-disorder,21,2,0.0952,2018,2025,4,17,0,12,0,https://apellica.com/appeal-outcomes/california-imr/genetic-genomic-test/mental-disorder
+Lab Work,lab-work,Blood Related Disord,blood-related-disord,21,6,0.2857,2006,2024,4,17,0,3,0,https://apellica.com/appeal-outcomes/california-imr/lab-work/blood-related-disord
+Anxiety Rx,anxiety-rx,Mental Disorder,mental-disorder,20,2,0.1000,2019,2025,19,1,0,10,0,https://apellica.com/appeal-outcomes/california-imr/anxiety-rx/mental-disorder
+Emergency Room,emergency-room,OB-GYN/ Pregnancy,ob-gyn-pregnancy,20,8,0.4000,2002,2017,0,0,20,0,0,https://apellica.com/appeal-outcomes/california-imr/emergency-room/ob-gyn-pregnancy
+Biofeedback,biofeedback,Mental Disorder,mental-disorder,20,2,0.1000,2003,2024,6,14,0,1,0,https://apellica.com/appeal-outcomes/california-imr/biofeedback/mental-disorder
+Biologics,biologics,Orth/Musculoskeletal,orth-musculoskeletal,20,10,0.5000,2018,2025,15,5,0,8,5,https://apellica.com/appeal-outcomes/california-imr/biologics/orth-musculoskeletal
+Scoping Procedure,scoping-procedure,Digestive System/ GI,digestive-system-gi,20,7,0.3500,2002,2018,8,12,0,0,0,https://apellica.com/appeal-outcomes/california-imr/scoping-procedure/digestive-system-gi
+Anti-Fungal,anti-fungal,Foot Disorder,foot-disorder,20,6,0.3000,2003,2024,20,0,0,3,2,https://apellica.com/appeal-outcomes/california-imr/anti-fungal/foot-disorder
+Admission,admission,Mental Disorder,mental-disorder,20,12,0.6000,2005,2024,19,0,1,2,2,https://apellica.com/appeal-outcomes/california-imr/admission/mental-disorder
+MRI,mri,Digestive System/ GI,digestive-system-gi,20,10,0.5000,2011,2024,17,3,0,8,5,https://apellica.com/appeal-outcomes/california-imr/mri/digestive-system-gi
+Biologics,biologics,Endocrine/Metabolic,endocrine-metabolic,20,12,0.6000,2020,2025,17,3,0,18,11,https://apellica.com/appeal-outcomes/california-imr/biologics/endocrine-metabolic
+Spinal Adjustment,spinal-adjustment,Orth/Musculoskeletal,orth-musculoskeletal,20,7,0.3500,2003,2024,16,3,1,9,4,https://apellica.com/appeal-outcomes/california-imr/spinal-adjustment/orth-musculoskeletal
+Pain Medication,pain-medication,Chron Pain Synd,chron-pain-synd,20,3,0.1500,2017,2018,17,3,0,0,0,https://apellica.com/appeal-outcomes/california-imr/pain-medication/chron-pain-synd
+Urgent Care,urgent-care,Orth/Musculoskeletal,orth-musculoskeletal,20,11,0.5500,2014,2025,0,0,20,4,3,https://apellica.com/appeal-outcomes/california-imr/urgent-care/orth-musculoskeletal
+Biopsy,biopsy,Cancer,cancer,20,9,0.4500,2003,2021,6,13,1,1,1,https://apellica.com/appeal-outcomes/california-imr/biopsy/cancer
+Biofeedback,biofeedback,Digestive System/ GI,digestive-system-gi,19,14,0.7368,2004,2022,11,8,0,3,2,https://apellica.com/appeal-outcomes/california-imr/biofeedback/digestive-system-gi
+Non-FDA Approved Use,non-fda-approved-use,Immuno Disorders,immuno-disorders,19,6,0.3158,2003,2011,18,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/non-fda-approved-use/immuno-disorders
+Genetic/Genomic Test,genetic-genomic-test,GU/ Kidney Disorder,gu-kidney-disorder,19,5,0.2632,2018,2025,2,17,0,13,3,https://apellica.com/appeal-outcomes/california-imr/genetic-genomic-test/gu-kidney-disorder
+Breast reduction,breast-reduction,Endocrine/Metabolic,endocrine-metabolic,19,8,0.4211,2003,2025,19,0,0,6,4,https://apellica.com/appeal-outcomes/california-imr/breast-reduction/endocrine-metabolic
+Genetic/Genomic Test,genetic-genomic-test,Prevention/Good Hlth,prevention-good-hlth,19,8,0.4211,2018,2025,5,14,0,8,4,https://apellica.com/appeal-outcomes/california-imr/genetic-genomic-test/prevention-good-hlth
+RTC/ Admit,rtc-admit,Autism Spectrum,autism-spectrum,19,10,0.5263,2011,2019,19,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/rtc-admit/autism-spectrum
+Hormones,hormones,Orth/Musculoskeletal,orth-musculoskeletal,19,7,0.3684,2002,2023,18,1,0,1,1,https://apellica.com/appeal-outcomes/california-imr/hormones/orth-musculoskeletal
+Special Bed,special-bed,CNS/ Neuromusc Dis,cns-neuromusc-dis,19,5,0.2632,2002,2024,19,0,0,7,3,https://apellica.com/appeal-outcomes/california-imr/special-bed/cns-neuromusc-dis
+Botox Injection,botox-injection,Skin Disorders,skin-disorders,19,16,0.8421,2003,2024,15,4,0,6,5,https://apellica.com/appeal-outcomes/california-imr/botox-injection/skin-disorders
+Occupational Therapy,occupational-therapy,Mental Disorder,mental-disorder,19,14,0.7368,2004,2023,14,5,0,4,3,https://apellica.com/appeal-outcomes/california-imr/occupational-therapy/mental-disorder
+Physical Therapy,physical-therapy,Genetic Diseases,genetic-diseases,19,12,0.6316,2003,2025,19,0,0,6,3,https://apellica.com/appeal-outcomes/california-imr/physical-therapy/genetic-diseases
+Cataract Surgery,cataract-surgery,Vision,vision,19,9,0.4737,2003,2022,14,4,1,2,2,https://apellica.com/appeal-outcomes/california-imr/cataract-surgery/vision
+Behavioral Therapy,behavioral-therapy,Autism Spectrum,autism-spectrum,19,8,0.4211,2002,2025,16,3,0,2,1,https://apellica.com/appeal-outcomes/california-imr/behavioral-therapy/autism-spectrum
+Analgesic Rx,analgesic-rx,Chron Pain Synd,chron-pain-synd,19,8,0.4211,2005,2017,18,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/analgesic-rx/chron-pain-synd
+Lab Work,lab-work,Pediatrics,pediatrics,19,2,0.1053,2014,2024,10,9,0,9,0,https://apellica.com/appeal-outcomes/california-imr/lab-work/pediatrics
+Stem Cell Transplant,stem-cell-transplant,Cancer,cancer,18,8,0.4444,2002,2014,3,15,0,0,0,https://apellica.com/appeal-outcomes/california-imr/stem-cell-transplant/cancer
+Physical Therapy,physical-therapy,Trauma/ Injuries,trauma-injuries,18,3,0.1667,2003,2025,18,0,0,6,1,https://apellica.com/appeal-outcomes/california-imr/physical-therapy/trauma-injuries
+Admission,admission,Digestive System/ GI,digestive-system-gi,18,9,0.5000,2008,2025,17,0,1,8,4,https://apellica.com/appeal-outcomes/california-imr/admission/digestive-system-gi
+AIDS Wasting Tx,aids-wasting-tx,Infectious Disease,infectious-disease,18,11,0.6111,2002,2025,17,1,0,2,0,https://apellica.com/appeal-outcomes/california-imr/aids-wasting-tx/infectious-disease
+Occupational Therapy,occupational-therapy,CNS/ Neuromusc Dis,cns-neuromusc-dis,18,9,0.5000,2002,2017,15,3,0,0,0,https://apellica.com/appeal-outcomes/california-imr/occupational-therapy/cns-neuromusc-dis
+Botox Injection,botox-injection,GU/ Kidney Disorder,gu-kidney-disorder,18,8,0.4444,2006,2025,7,11,0,7,4,https://apellica.com/appeal-outcomes/california-imr/botox-injection/gu-kidney-disorder
+Clin Trial (I),clin-trial-i,Cancer,cancer,18,5,0.2778,2001,2016,3,15,0,0,0,https://apellica.com/appeal-outcomes/california-imr/clin-trial-i/cancer
+Pyschotherapy,pyschotherapy,Mental Disorder,mental-disorder,18,4,0.2222,2002,2006,18,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/pyschotherapy/mental-disorder
+SCP Consult Refer,scp-consult-refer,GU/ Kidney Disorder,gu-kidney-disorder,18,12,0.6667,2001,2025,18,0,0,8,5,https://apellica.com/appeal-outcomes/california-imr/scp-consult-refer/gu-kidney-disorder
+Weight Control,weight-control,CNS/ Neuromusc Dis,cns-neuromusc-dis,18,14,0.7778,2016,2025,18,0,0,17,14,https://apellica.com/appeal-outcomes/california-imr/weight-control/cns-neuromusc-dis
+CNS Extracranial/Autonomic,cns-extracranial-autonomic,Musculoskeletal,musculoskeletal,18,12,0.6667,2026,2026,7,11,0,18,12,https://apellica.com/appeal-outcomes/california-imr/cns-extracranial-autonomic/musculoskeletal
+Anti-inflammatories,anti-inflammatories,Vision,vision,18,14,0.7778,2014,2025,17,1,0,11,8,https://apellica.com/appeal-outcomes/california-imr/anti-inflammatories/vision
+Joint Manipulation,joint-manipulation,Orth/Musculoskeletal,orth-musculoskeletal,18,8,0.4444,2003,2024,16,2,0,6,3,https://apellica.com/appeal-outcomes/california-imr/joint-manipulation/orth-musculoskeletal
+Pneumatic Vest,pneumatic-vest,Respiratory System,respiratory-system,17,9,0.5294,2003,2025,12,5,0,6,4,https://apellica.com/appeal-outcomes/california-imr/pneumatic-vest/respiratory-system
+Clin Trial (II - IV),clin-trial-ii-iv,Cancer,cancer,17,9,0.5294,2003,2017,5,12,0,0,0,https://apellica.com/appeal-outcomes/california-imr/clin-trial-ii-iv/cancer
+Physical Therapy,physical-therapy,Cardiac/Circ Problem,cardiac-circ-problem,17,8,0.4706,2002,2024,17,0,0,3,1,https://apellica.com/appeal-outcomes/california-imr/physical-therapy/cardiac-circ-problem
+Non-FDA Approved Use,non-fda-approved-use,Endocrine/Metabolic,endocrine-metabolic,17,13,0.7647,2003,2010,16,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/non-fda-approved-use/endocrine-metabolic
+C-Pap Machine,c-pap-machine,CNS/ Neuromusc Dis,cns-neuromusc-dis,17,12,0.7059,2019,2025,17,0,0,8,5,https://apellica.com/appeal-outcomes/california-imr/c-pap-machine/cns-neuromusc-dis
+Genetic/Genomic Test,genetic-genomic-test,OB-GYN/ Pregnancy,ob-gyn-pregnancy,17,16,0.9412,2018,2019,0,17,0,0,0,https://apellica.com/appeal-outcomes/california-imr/genetic-genomic-test/ob-gyn-pregnancy
+Pacemaker/Defib,pacemaker-defib,Cardiac/Circ Problem,cardiac-circ-problem,17,10,0.5882,2019,2025,9,8,0,10,5,https://apellica.com/appeal-outcomes/california-imr/pacemaker-defib/cardiac-circ-problem
+Electric Wheelchair,electric-wheelchair,Cardiac/Circ Problem,cardiac-circ-problem,17,2,0.1176,2001,2022,17,0,0,3,0,https://apellica.com/appeal-outcomes/california-imr/electric-wheelchair/cardiac-circ-problem
+SCP Consult Refer,scp-consult-refer,Digestive System/ GI,digestive-system-gi,17,12,0.7059,2002,2023,17,0,0,5,4,https://apellica.com/appeal-outcomes/california-imr/scp-consult-refer/digestive-system-gi
+Hormones,hormones,CNS/ Neuromusc Dis,cns-neuromusc-dis,17,10,0.5882,2016,2023,15,2,0,5,3,https://apellica.com/appeal-outcomes/california-imr/hormones/cns-neuromusc-dis
+Pain Medication,pain-medication,Immuno Disorders,immuno-disorders,17,4,0.2353,2018,2022,17,0,0,2,0,https://apellica.com/appeal-outcomes/california-imr/pain-medication/immuno-disorders
+Lab Work,lab-work,Immuno Disorders,immuno-disorders,16,4,0.2500,2015,2025,3,13,0,4,1,https://apellica.com/appeal-outcomes/california-imr/lab-work/immuno-disorders
+SCP Consult Refer,scp-consult-refer,Endocrine/Metabolic,endocrine-metabolic,16,7,0.4375,2002,2025,16,0,0,4,2,https://apellica.com/appeal-outcomes/california-imr/scp-consult-refer/endocrine-metabolic
+Mammoplasty,mammoplasty,OB-GYN/ Pregnancy,ob-gyn-pregnancy,16,10,0.6250,2002,2018,16,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/mammoplasty/ob-gyn-pregnancy
+Orthodontia/ Braces,orthodontia-braces,Dental Problems,dental-problems,16,5,0.3125,2015,2024,16,0,0,5,1,https://apellica.com/appeal-outcomes/california-imr/orthodontia-braces/dental-problems
+Tonsillectomy,tonsillectomy,Ears/Nose/Throat,ears-nose-throat,16,5,0.3125,2009,2023,16,0,0,3,2,https://apellica.com/appeal-outcomes/california-imr/tonsillectomy/ears-nose-throat
+Intensive Outpt Prog,intensive-outpt-prog,Autism Spectrum,autism-spectrum,16,10,0.6250,2017,2025,16,0,0,8,5,https://apellica.com/appeal-outcomes/california-imr/intensive-outpt-prog/autism-spectrum
+Lab Work,lab-work,Pregnancy/Childbirth,pregnancy-childbirth,16,0,0.0000,2019,2026,1,15,0,11,0,https://apellica.com/appeal-outcomes/california-imr/lab-work/pregnancy-childbirth
+Breast reduction,breast-reduction,GU/ Kidney Disorder,gu-kidney-disorder,16,13,0.8125,2016,2025,16,0,0,14,12,https://apellica.com/appeal-outcomes/california-imr/breast-reduction/gu-kidney-disorder
+Hyperbaric O2 Chamb,hyperbaric-o2-chamb,Ears/Nose/Throat,ears-nose-throat,16,5,0.3125,2010,2023,4,12,0,4,2,https://apellica.com/appeal-outcomes/california-imr/hyperbaric-o2-chamb/ears-nose-throat
+Lab Work,lab-work,Genetic Diseases,genetic-diseases,15,7,0.4667,2008,2021,5,10,0,1,0,https://apellica.com/appeal-outcomes/california-imr/lab-work/genetic-diseases
+Breast Augmentation,breast-augmentation,OB-GYN/ Pregnancy,ob-gyn-pregnancy,15,3,0.2000,2003,2018,15,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/breast-augmentation/ob-gyn-pregnancy
+IVIG Therapy,ivig-therapy,OB-GYN/ Pregnancy,ob-gyn-pregnancy,15,1,0.0667,2002,2017,5,10,0,0,0,https://apellica.com/appeal-outcomes/california-imr/ivig-therapy/ob-gyn-pregnancy
+Electric Scooter,electric-scooter,CNS/ Neuromusc Dis,cns-neuromusc-dis,15,3,0.2000,2002,2025,15,0,0,1,0,https://apellica.com/appeal-outcomes/california-imr/electric-scooter/cns-neuromusc-dis
+Stem Cell Transplant,stem-cell-transplant,CNS/ Neuromusc Dis,cns-neuromusc-dis,15,5,0.3333,2007,2023,3,12,0,3,2,https://apellica.com/appeal-outcomes/california-imr/stem-cell-transplant/cns-neuromusc-dis
+Weight Control,weight-control,GU/ Kidney Disorder,gu-kidney-disorder,15,12,0.8000,2022,2024,12,3,0,15,12,https://apellica.com/appeal-outcomes/california-imr/weight-control/gu-kidney-disorder
+Arthritis Rx,arthritis-rx,Skin Disorders,skin-disorders,15,6,0.4000,2008,2025,11,4,0,5,4,https://apellica.com/appeal-outcomes/california-imr/arthritis-rx/skin-disorders
+Biologics,biologics,GU/ Kidney Disorder,gu-kidney-disorder,15,12,0.8000,2019,2025,10,5,0,13,11,https://apellica.com/appeal-outcomes/california-imr/biologics/gu-kidney-disorder
+Hormones,hormones,Genetic Diseases,genetic-diseases,15,9,0.6000,2008,2025,15,0,0,7,3,https://apellica.com/appeal-outcomes/california-imr/hormones/genetic-diseases
+Hormones,hormones,Mental Disorder,mental-disorder,15,9,0.6000,2008,2024,12,3,0,3,1,https://apellica.com/appeal-outcomes/california-imr/hormones/mental-disorder
+Emergency Room,emergency-room,Cardiac/Circ Problem,cardiac-circ-problem,15,12,0.8000,2008,2022,3,0,12,1,1,https://apellica.com/appeal-outcomes/california-imr/emergency-room/cardiac-circ-problem
+Hyperbaric O2 Chamb,hyperbaric-o2-chamb,Skin Disorders,skin-disorders,14,6,0.4286,2006,2025,10,4,0,10,3,https://apellica.com/appeal-outcomes/california-imr/hyperbaric-o2-chamb/skin-disorders
+Formulary v Non Form,formulary-v-non-form,Endocrine/Metabolic,endocrine-metabolic,14,4,0.2857,2004,2011,14,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/formulary-v-non-form/endocrine-metabolic
+Biologics,biologics,Genetic Diseases,genetic-diseases,14,13,0.9286,2019,2025,10,4,0,10,9,https://apellica.com/appeal-outcomes/california-imr/biologics/genetic-diseases
+Radiofreq Ablat,radiofreq-ablat,OB-GYN/ Pregnancy,ob-gyn-pregnancy,14,1,0.0714,2006,2018,2,12,0,0,0,https://apellica.com/appeal-outcomes/california-imr/radiofreq-ablat/ob-gyn-pregnancy
+Uter Art Emboliz,uter-art-emboliz,OB-GYN/ Pregnancy,ob-gyn-pregnancy,14,2,0.1429,2001,2013,6,8,0,0,0,https://apellica.com/appeal-outcomes/california-imr/uter-art-emboliz/ob-gyn-pregnancy
+Diabetic Supplies,diabetic-supplies,Endocrine/Metabolic,endocrine-metabolic,14,8,0.5714,2019,2024,14,0,0,8,5,https://apellica.com/appeal-outcomes/california-imr/diabetic-supplies/endocrine-metabolic
+SCP Consult Refer,scp-consult-refer,Cancer,cancer,14,11,0.7857,2004,2024,14,0,0,3,2,https://apellica.com/appeal-outcomes/california-imr/scp-consult-refer/cancer
+Drug Alcohol Behav Hlth Serv,drug-alcohol-behav-hlth-serv,Mental Behav Neur,mental-behav-neur,14,13,0.9286,2026,2026,14,0,0,14,13,https://apellica.com/appeal-outcomes/california-imr/drug-alcohol-behav-hlth-serv/mental-behav-neur
+OON Referral,oon-referral,Mental Disorder,mental-disorder,14,8,0.5714,2002,2022,13,1,0,1,1,https://apellica.com/appeal-outcomes/california-imr/oon-referral/mental-disorder
+Ultrasound,ultrasound,GU/ Kidney Disorder,gu-kidney-disorder,14,10,0.7143,2004,2025,11,3,0,9,7,https://apellica.com/appeal-outcomes/california-imr/ultrasound/gu-kidney-disorder
+Inpt Early Discharge,inpt-early-discharge,Orth/Musculoskeletal,orth-musculoskeletal,14,3,0.2143,2007,2018,14,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/inpt-early-discharge/orth-musculoskeletal
+Special Bed,special-bed,Orth/Musculoskeletal,orth-musculoskeletal,14,2,0.1429,2004,2025,14,0,0,5,1,https://apellica.com/appeal-outcomes/california-imr/special-bed/orth-musculoskeletal
+Psychological Evaluation,psychological-evaluation,Mental Disorder,mental-disorder,14,5,0.3571,2019,2024,14,0,0,9,2,https://apellica.com/appeal-outcomes/california-imr/psychological-evaluation/mental-disorder
+Biologics,biologics,Respiratory System,respiratory-system,14,12,0.8571,2020,2025,14,0,0,11,11,https://apellica.com/appeal-outcomes/california-imr/biologics/respiratory-system
+OON Referral,oon-referral,Digestive System/ GI,digestive-system-gi,14,2,0.1429,2002,2020,14,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/oon-referral/digestive-system-gi
+Cranial Helmet,cranial-helmet,Pediatrics,pediatrics,14,10,0.7143,2020,2025,14,0,0,12,9,https://apellica.com/appeal-outcomes/california-imr/cranial-helmet/pediatrics
+Fibroid Removal,fibroid-removal,OB-GYN/ Pregnancy,ob-gyn-pregnancy,14,6,0.4286,2002,2017,9,4,1,0,0,https://apellica.com/appeal-outcomes/california-imr/fibroid-removal/ob-gyn-pregnancy
+Analgesics,analgesics,Immuno Disorders,immuno-disorders,14,2,0.1429,2007,2017,14,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/analgesics/immuno-disorders
+Skill Nsg Vsts,skill-nsg-vsts,Genetic Diseases,genetic-diseases,14,6,0.4286,2003,2025,14,0,0,6,3,https://apellica.com/appeal-outcomes/california-imr/skill-nsg-vsts/genetic-diseases
+Genetic/Genomic Test,genetic-genomic-test,Endocrine/Metabolic,endocrine-metabolic,13,7,0.5385,2018,2025,6,7,0,6,3,https://apellica.com/appeal-outcomes/california-imr/genetic-genomic-test/endocrine-metabolic
+Allergy Rx,allergy-rx,Respiratory System,respiratory-system,13,8,0.6154,2019,2025,12,1,0,10,5,https://apellica.com/appeal-outcomes/california-imr/allergy-rx/respiratory-system
+Pain Medication,pain-medication,Digestive System/ GI,digestive-system-gi,13,6,0.4615,2017,2025,13,0,0,7,3,https://apellica.com/appeal-outcomes/california-imr/pain-medication/digestive-system-gi
+Formulary v Non Form,formulary-v-non-form,Respiratory System,respiratory-system,13,6,0.4615,2004,2011,13,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/formulary-v-non-form/respiratory-system
+Emergency Room,emergency-room,Not Applicable,not-applicable,13,7,0.5385,2009,2017,0,0,13,0,0,https://apellica.com/appeal-outcomes/california-imr/emergency-room/not-applicable
+Speech Therapy,speech-therapy,Ears/Nose/Throat,ears-nose-throat,13,6,0.4615,2002,2022,13,0,0,1,0,https://apellica.com/appeal-outcomes/california-imr/speech-therapy/ears-nose-throat
+Sensory Integration,sensory-integration,Autism Spectrum,autism-spectrum,13,7,0.5385,2008,2024,8,5,0,2,1,https://apellica.com/appeal-outcomes/california-imr/sensory-integration/autism-spectrum
+EECP Dvc,eecp-dvc,Cardiac/Circ Problem,cardiac-circ-problem,13,4,0.3077,2005,2016,4,9,0,0,0,https://apellica.com/appeal-outcomes/california-imr/eecp-dvc/cardiac-circ-problem
+Acute Psych/ Admit,acute-psych-admit,Autism Spectrum,autism-spectrum,13,8,0.6154,2009,2017,13,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/acute-psych-admit/autism-spectrum
+Diabetic Medication,diabetic-medication,Endo/Metabolic,endo-metabolic,13,10,0.7692,2026,2026,13,0,0,13,10,https://apellica.com/appeal-outcomes/california-imr/diabetic-medication/endo-metabolic
+Admission,admission,Respiratory System,respiratory-system,13,10,0.7692,2009,2025,10,0,3,6,6,https://apellica.com/appeal-outcomes/california-imr/admission/respiratory-system
+Anti-inflammatories,anti-inflammatories,GU/ Kidney Disorder,gu-kidney-disorder,13,11,0.8462,2012,2025,12,1,0,6,5,https://apellica.com/appeal-outcomes/california-imr/anti-inflammatories/gu-kidney-disorder
+Walker,walker,CNS/ Neuromusc Dis,cns-neuromusc-dis,13,8,0.6154,2003,2020,8,5,0,0,0,https://apellica.com/appeal-outcomes/california-imr/walker/cns-neuromusc-dis
+Rx Management,rx-management,Mental Disorder,mental-disorder,13,3,0.2308,2007,2018,12,0,1,0,0,https://apellica.com/appeal-outcomes/california-imr/rx-management/mental-disorder
+Radiofreq Ablat,radiofreq-ablat,Endocrine/Metabolic,endocrine-metabolic,13,12,0.9231,2021,2025,6,7,0,13,12,https://apellica.com/appeal-outcomes/california-imr/radiofreq-ablat/endocrine-metabolic
+CT Scan,ct-scan,Prevention/Good Hlth,prevention-good-hlth,13,4,0.3077,2002,2025,11,2,0,3,0,https://apellica.com/appeal-outcomes/california-imr/ct-scan/prevention-good-hlth
+Special Foods,special-foods,Digestive System/ GI,digestive-system-gi,13,6,0.4615,2006,2020,12,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/special-foods/digestive-system-gi
+Pain Medication,pain-medication,GU/ Kidney Disorder,gu-kidney-disorder,12,5,0.4167,2018,2024,11,1,0,8,3,https://apellica.com/appeal-outcomes/california-imr/pain-medication/gu-kidney-disorder
+Laparoscopy,laparoscopy,OB-GYN/ Pregnancy,ob-gyn-pregnancy,12,5,0.4167,2004,2014,11,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/laparoscopy/ob-gyn-pregnancy
+RTC/Dishcharge,rtc-dishcharge,Mental Disorder,mental-disorder,12,5,0.4167,2005,2006,12,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/rtc-dishcharge/mental-disorder
+Special Chair,special-chair,CNS/ Neuromusc Dis,cns-neuromusc-dis,12,9,0.7500,2002,2025,12,0,0,2,2,https://apellica.com/appeal-outcomes/california-imr/special-chair/cns-neuromusc-dis
+TENS Unit,tens-unit,Orth/Musculoskeletal,orth-musculoskeletal,12,2,0.1667,2002,2024,8,4,0,3,1,https://apellica.com/appeal-outcomes/california-imr/tens-unit/orth-musculoskeletal
+Vitamins,vitamins,Blood Related Disord,blood-related-disord,12,7,0.5833,2018,2025,12,0,0,10,6,https://apellica.com/appeal-outcomes/california-imr/vitamins/blood-related-disord
+Infertility Tx,infertility-tx,GU/ Kidney Disorder,gu-kidney-disorder,12,6,0.5000,2019,2025,12,0,0,8,4,https://apellica.com/appeal-outcomes/california-imr/infertility-tx/gu-kidney-disorder
+Family Counseling,family-counseling,Mental Disorder,mental-disorder,12,6,0.5000,2009,2024,12,0,0,5,2,https://apellica.com/appeal-outcomes/california-imr/family-counseling/mental-disorder
+Appld Behav Analysis,appld-behav-analysis,Mental Disorder,mental-disorder,12,4,0.3333,2014,2024,12,0,0,4,2,https://apellica.com/appeal-outcomes/california-imr/appld-behav-analysis/mental-disorder
+Admission,admission,GU/ Kidney Disorder,gu-kidney-disorder,12,8,0.6667,2005,2025,12,0,0,7,6,https://apellica.com/appeal-outcomes/california-imr/admission/gu-kidney-disorder
+Biofeedback,biofeedback,GU/ Kidney Disorder,gu-kidney-disorder,12,4,0.3333,2002,2022,1,11,0,2,2,https://apellica.com/appeal-outcomes/california-imr/biofeedback/gu-kidney-disorder
+Hormones,hormones,Immuno Disorders,immuno-disorders,12,3,0.2500,2014,2025,9,3,0,4,2,https://apellica.com/appeal-outcomes/california-imr/hormones/immuno-disorders
+Anti-virals,anti-virals,Respiratory System,respiratory-system,12,7,0.5833,2007,2025,11,1,0,2,1,https://apellica.com/appeal-outcomes/california-imr/anti-virals/respiratory-system
+Urgent Care,urgent-care,Respiratory System,respiratory-system,12,5,0.4167,2008,2025,0,0,12,1,1,https://apellica.com/appeal-outcomes/california-imr/urgent-care/respiratory-system
+Admission,admission,Cancer,cancer,12,6,0.5000,2011,2025,12,0,0,6,4,https://apellica.com/appeal-outcomes/california-imr/admission/cancer
+Non-FDA Approved Use,non-fda-approved-use,Skin Disorders,skin-disorders,12,8,0.6667,2002,2010,12,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/non-fda-approved-use/skin-disorders
+Genetic/Genomic Test,genetic-genomic-test,CNS/ Neuromusc Dis,cns-neuromusc-dis,12,10,0.8333,2019,2024,2,10,0,6,4,https://apellica.com/appeal-outcomes/california-imr/genetic-genomic-test/cns-neuromusc-dis
+SCP Consult Refer,scp-consult-refer,Mental Disorder,mental-disorder,12,4,0.3333,2002,2025,12,0,0,4,2,https://apellica.com/appeal-outcomes/california-imr/scp-consult-refer/mental-disorder
+Birth Control,birth-control,OB-GYN/ Pregnancy,ob-gyn-pregnancy,11,2,0.1818,2003,2018,9,2,0,0,0,https://apellica.com/appeal-outcomes/california-imr/birth-control/ob-gyn-pregnancy
+Neuromuscular RX,neuromuscular-rx,Genetic Diseases,genetic-diseases,11,10,0.9091,2019,2025,9,2,0,8,7,https://apellica.com/appeal-outcomes/california-imr/neuromuscular-rx/genetic-diseases
+Acupuncture,acupuncture,Ears/Nose/Throat,ears-nose-throat,11,7,0.6364,2002,2022,11,0,0,1,1,https://apellica.com/appeal-outcomes/california-imr/acupuncture/ears-nose-throat
+Non-FDA Approved Use,non-fda-approved-use,Infectious Disease,infectious-disease,11,5,0.4545,2003,2009,10,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/non-fda-approved-use/infectious-disease
+Radiofreq Ablat,radiofreq-ablat,GU/ Kidney Disorder,gu-kidney-disorder,11,3,0.2727,2009,2025,4,7,0,7,3,https://apellica.com/appeal-outcomes/california-imr/radiofreq-ablat/gu-kidney-disorder
+Ultrasound,ultrasound,Prevention/Good Hlth,prevention-good-hlth,11,7,0.6364,2004,2025,8,3,0,3,3,https://apellica.com/appeal-outcomes/california-imr/ultrasound/prevention-good-hlth
+Genetic/Genomic Test,genetic-genomic-test,Pediatrics,pediatrics,11,9,0.8182,2018,2025,4,7,0,6,4,https://apellica.com/appeal-outcomes/california-imr/genetic-genomic-test/pediatrics
+Biofeedback,biofeedback,Orth/Musculoskeletal,orth-musculoskeletal,11,5,0.4545,2006,2018,4,7,0,0,0,https://apellica.com/appeal-outcomes/california-imr/biofeedback/orth-musculoskeletal
+Inpt Early Discharge,inpt-early-discharge,Cardiac/Circ Problem,cardiac-circ-problem,11,3,0.2727,2007,2018,11,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/inpt-early-discharge/cardiac-circ-problem
+Abdominoplasty,abdominoplasty,Skin Disorders,skin-disorders,11,2,0.1818,2019,2024,11,0,0,6,2,https://apellica.com/appeal-outcomes/california-imr/abdominoplasty/skin-disorders
+IVIG Therapy,ivig-therapy,Infectious Disease,infectious-disease,11,2,0.1818,2002,2024,6,5,0,4,1,https://apellica.com/appeal-outcomes/california-imr/ivig-therapy/infectious-disease
+Implant Removal,implant-removal,GU/ Kidney Disorder,gu-kidney-disorder,11,3,0.2727,2019,2025,10,1,0,9,3,https://apellica.com/appeal-outcomes/california-imr/implant-removal/gu-kidney-disorder
+Genetic/Genomic Test,genetic-genomic-test,Blood Related Disord,blood-related-disord,11,9,0.8182,2019,2025,3,8,0,7,5,https://apellica.com/appeal-outcomes/california-imr/genetic-genomic-test/blood-related-disord
+PET Scan,pet-scan,Cardiac/Circ Problem,cardiac-circ-problem,11,7,0.6364,2006,2024,5,6,0,4,2,https://apellica.com/appeal-outcomes/california-imr/pet-scan/cardiac-circ-problem
+Emergency Room,emergency-room,Vision,vision,11,5,0.4545,2008,2019,0,0,11,0,0,https://apellica.com/appeal-outcomes/california-imr/emergency-room/vision
+Inpt Admission,inpt-admission,Cancer,cancer,11,1,0.0909,2007,2024,11,0,0,2,0,https://apellica.com/appeal-outcomes/california-imr/inpt-admission/cancer
+Breast Surgery,breast-surgery,Endocrine/Metabolic,endocrine-metabolic,11,2,0.1818,2006,2017,11,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/breast-surgery/endocrine-metabolic
+Revision Procedures,revision-procedures,Morbid Obesity,morbid-obesity,11,1,0.0909,2005,2018,10,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/revision-procedures/morbid-obesity
+OON Referral,oon-referral,CNS/ Neuromusc Dis,cns-neuromusc-dis,11,0,0.0000,2002,2021,10,1,0,1,0,https://apellica.com/appeal-outcomes/california-imr/oon-referral/cns-neuromusc-dis
+Allergy Testing,allergy-testing,Digestive System/ GI,digestive-system-gi,11,0,0.0000,2004,2019,1,10,0,0,0,https://apellica.com/appeal-outcomes/california-imr/allergy-testing/digestive-system-gi
+ABI Vest,abi-vest,Respiratory System,respiratory-system,11,6,0.5455,2002,2023,8,3,0,1,1,https://apellica.com/appeal-outcomes/california-imr/abi-vest/respiratory-system
+Emergency Room,emergency-room,Infectious Disease,infectious-disease,11,7,0.6364,2008,2018,0,0,11,0,0,https://apellica.com/appeal-outcomes/california-imr/emergency-room/infectious-disease
+Emergency Room,emergency-room,Mental Disorder,mental-disorder,11,4,0.3636,2008,2018,0,0,11,0,0,https://apellica.com/appeal-outcomes/california-imr/emergency-room/mental-disorder
+SCP Consult Refer,scp-consult-refer,OB-GYN/ Pregnancy,ob-gyn-pregnancy,11,9,0.8182,2002,2018,11,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/scp-consult-refer/ob-gyn-pregnancy
+Hormones,hormones,Endo/Metabolic,endo-metabolic,10,6,0.6000,2026,2026,10,0,0,10,6,https://apellica.com/appeal-outcomes/california-imr/hormones/endo-metabolic
+Cognitive Therapy,cognitive-therapy,Autism Spectrum,autism-spectrum,10,6,0.6000,2009,2024,7,3,0,3,2,https://apellica.com/appeal-outcomes/california-imr/cognitive-therapy/autism-spectrum
+Breast Augmentation,breast-augmentation,Cancer,cancer,10,5,0.5000,2004,2024,8,2,0,2,2,https://apellica.com/appeal-outcomes/california-imr/breast-augmentation/cancer
+IVIG Therapy,ivig-therapy,Orth/Musculoskeletal,orth-musculoskeletal,10,5,0.5000,2005,2023,10,0,0,5,2,https://apellica.com/appeal-outcomes/california-imr/ivig-therapy/orth-musculoskeletal
+Panniculectomy,panniculectomy,Orth/Musculoskeletal,orth-musculoskeletal,10,3,0.3000,2006,2023,10,0,0,1,0,https://apellica.com/appeal-outcomes/california-imr/panniculectomy/orth-musculoskeletal
+Organ Transplant,organ-transplant,GU/ Kidney Disorder,gu-kidney-disorder,10,5,0.5000,2002,2023,8,2,0,2,1,https://apellica.com/appeal-outcomes/california-imr/organ-transplant/gu-kidney-disorder
+Fertility Preservation,fertility-preservation,Cancer,cancer,10,9,0.9000,2019,2022,10,0,0,1,0,https://apellica.com/appeal-outcomes/california-imr/fertility-preservation/cancer
+Jaw Surgery,jaw-surgery,Dental Problems,dental-problems,10,10,1.0000,2002,2025,10,0,0,2,2,https://apellica.com/appeal-outcomes/california-imr/jaw-surgery/dental-problems
+Lab Work,lab-work,Not Applicable,not-applicable,10,5,0.5000,2014,2017,0,10,0,0,0,https://apellica.com/appeal-outcomes/california-imr/lab-work/not-applicable
+OON Referral,oon-referral,Cardiac/Circ Problem,cardiac-circ-problem,10,3,0.3000,2005,2024,10,0,0,3,1,https://apellica.com/appeal-outcomes/california-imr/oon-referral/cardiac-circ-problem
+Corneal Procedure,corneal-procedure,Vision,vision,10,9,0.9000,2019,2025,4,6,0,2,1,https://apellica.com/appeal-outcomes/california-imr/corneal-procedure/vision
+Anti-virals,anti-virals,Digestive System/ GI,digestive-system-gi,10,6,0.6000,2005,2025,10,0,0,1,1,https://apellica.com/appeal-outcomes/california-imr/anti-virals/digestive-system-gi
+Electric Scooter,electric-scooter,Immuno Disorders,immuno-disorders,10,0,0.0000,2002,2025,10,0,0,1,0,https://apellica.com/appeal-outcomes/california-imr/electric-scooter/immuno-disorders
+EKG,ekg,Cardiac/Circ Problem,cardiac-circ-problem,10,3,0.3000,2002,2018,4,6,0,0,0,https://apellica.com/appeal-outcomes/california-imr/ekg/cardiac-circ-problem
+Misc Drugs,misc-drugs,Musculoskeletal,musculoskeletal,10,10,1.0000,2026,2026,10,0,0,10,10,https://apellica.com/appeal-outcomes/california-imr/misc-drugs/musculoskeletal
+Occupational Therapy,occupational-therapy,Orth/Musculoskeletal,orth-musculoskeletal,10,3,0.3000,2003,2024,9,1,0,3,0,https://apellica.com/appeal-outcomes/california-imr/occupational-therapy/orth-musculoskeletal
+MRI,mri,Ears/Nose/Throat,ears-nose-throat,10,4,0.4000,2002,2023,10,0,0,4,2,https://apellica.com/appeal-outcomes/california-imr/mri/ears-nose-throat
+Non-FDA Approved Use,non-fda-approved-use,Blood Related Disord,blood-related-disord,10,5,0.5000,2004,2009,9,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/non-fda-approved-use/blood-related-disord
+Non Emerg Med (NEMT),non-emerg-med-nemt,Trauma/ Injuries,trauma-injuries,10,0,0.0000,2019,2024,10,0,0,6,0,https://apellica.com/appeal-outcomes/california-imr/non-emerg-med-nemt/trauma-injuries
+Occupational Therapy,occupational-therapy,Genetic Diseases,genetic-diseases,10,8,0.8000,2010,2018,10,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/occupational-therapy/genetic-diseases
+Breast reduction,breast-reduction,Mental Disorder,mental-disorder,10,10,1.0000,2017,2022,10,0,0,2,2,https://apellica.com/appeal-outcomes/california-imr/breast-reduction/mental-disorder
+Genetic/Genomic Test,genetic-genomic-test,Autism Spectrum,autism-spectrum,10,7,0.7000,2018,2022,5,5,0,6,5,https://apellica.com/appeal-outcomes/california-imr/genetic-genomic-test/autism-spectrum
+Trau Brain Inj Prog,trau-brain-inj-prog,Trauma/ Injuries,trauma-injuries,10,5,0.5000,2005,2024,8,2,0,5,4,https://apellica.com/appeal-outcomes/california-imr/trau-brain-inj-prog/trauma-injuries
+Lab Work,lab-work,Respiratory System,respiratory-system,10,6,0.6000,2010,2020,0,10,0,0,0,https://apellica.com/appeal-outcomes/california-imr/lab-work/respiratory-system
+OON Referral,oon-referral,Pediatrics,pediatrics,10,2,0.2000,2002,2023,9,1,0,1,0,https://apellica.com/appeal-outcomes/california-imr/oon-referral/pediatrics
+Liposuction,liposuction,Skin Disorders,skin-disorders,10,2,0.2000,2003,2025,10,0,0,4,0,https://apellica.com/appeal-outcomes/california-imr/liposuction/skin-disorders
+Special Foods,special-foods,Pediatrics,pediatrics,9,4,0.4444,2010,2023,9,0,0,2,0,https://apellica.com/appeal-outcomes/california-imr/special-foods/pediatrics
+Biologics,biologics,Vision,vision,9,5,0.5556,2020,2025,8,1,0,7,4,https://apellica.com/appeal-outcomes/california-imr/biologics/vision
+Erectile Dysfunct Rx,erectile-dysfunct-rx,GU/ Kidney Disorder,gu-kidney-disorder,9,5,0.5556,2019,2024,9,0,0,5,4,https://apellica.com/appeal-outcomes/california-imr/erectile-dysfunct-rx/gu-kidney-disorder
+MRI,mri,Immuno Disorders,immuno-disorders,9,2,0.2222,2009,2022,8,1,0,4,0,https://apellica.com/appeal-outcomes/california-imr/mri/immuno-disorders
+Migraine Rx,migraine-rx,Nervous System,nervous-system,9,9,1.0000,2026,2026,9,0,0,9,9,https://apellica.com/appeal-outcomes/california-imr/migraine-rx/nervous-system
+SCP Consult Refer,scp-consult-refer,Vision,vision,9,4,0.4444,2002,2024,8,1,0,3,2,https://apellica.com/appeal-outcomes/california-imr/scp-consult-refer/vision
+Stroke Rec Prog,stroke-rec-prog,Cardiac/Circ Problem,cardiac-circ-problem,9,1,0.1111,2003,2023,9,0,0,1,0,https://apellica.com/appeal-outcomes/california-imr/stroke-rec-prog/cardiac-circ-problem
+IVIG Therapy,ivig-therapy,Cardiac/Circ Problem,cardiac-circ-problem,9,5,0.5556,2013,2025,8,1,0,5,4,https://apellica.com/appeal-outcomes/california-imr/ivig-therapy/cardiac-circ-problem
+Glucagon-Like Peptide-1 (GLP),glucagon-like-peptide-1-glp,Endo/Metabolic,endo-metabolic,9,7,0.7778,2026,2026,9,0,0,9,7,https://apellica.com/appeal-outcomes/california-imr/glucagon-like-peptide-1-glp/endo-metabolic
+Speech Therapy,speech-therapy,Cardiac/Circ Problem,cardiac-circ-problem,9,7,0.7778,2009,2019,3,6,0,0,0,https://apellica.com/appeal-outcomes/california-imr/speech-therapy/cardiac-circ-problem
+Ongoing OON Tx,ongoing-oon-tx,Pediatrics,pediatrics,9,0,0.0000,2008,2022,2,7,0,4,0,https://apellica.com/appeal-outcomes/california-imr/ongoing-oon-tx/pediatrics
+Formulary v Non Form,formulary-v-non-form,GU/ Kidney Disorder,gu-kidney-disorder,9,1,0.1111,2003,2010,9,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/formulary-v-non-form/gu-kidney-disorder
+Admission,admission,Infectious Disease,infectious-disease,9,4,0.4444,2014,2024,9,0,0,6,4,https://apellica.com/appeal-outcomes/california-imr/admission/infectious-disease
+Shoe Inserts,shoe-inserts,Orth/Musculoskeletal,orth-musculoskeletal,9,6,0.6667,2015,2020,9,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/shoe-inserts/orth-musculoskeletal
+Botox Injection,botox-injection,Digestive System/ GI,digestive-system-gi,9,1,0.1111,2015,2025,3,6,0,3,1,https://apellica.com/appeal-outcomes/california-imr/botox-injection/digestive-system-gi
+Anti-inflammatories,anti-inflammatories,CNS/ Neuromusc Dis,cns-neuromusc-dis,9,5,0.5556,2017,2023,9,0,0,3,1,https://apellica.com/appeal-outcomes/california-imr/anti-inflammatories/cns-neuromusc-dis
+Glucagon-Like Peptide-1 (GLP),glucagon-like-peptide-1-glp,Endocrine/Metabolic,endocrine-metabolic,9,6,0.6667,2025,2026,6,3,0,9,6,https://apellica.com/appeal-outcomes/california-imr/glucagon-like-peptide-1-glp/endocrine-metabolic
+Speech Generate Device,speech-generate-device,Autism Spectrum,autism-spectrum,9,8,0.8889,2023,2025,9,0,0,9,8,https://apellica.com/appeal-outcomes/california-imr/speech-generate-device/autism-spectrum
+Anti-histamines,anti-histamines,Respiratory System,respiratory-system,9,4,0.4444,2003,2018,9,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/anti-histamines/respiratory-system
+Cardiac Mapping,cardiac-mapping,Cardiac/Circ Problem,cardiac-circ-problem,9,4,0.4444,2005,2024,5,4,0,5,2,https://apellica.com/appeal-outcomes/california-imr/cardiac-mapping/cardiac-circ-problem
+Laparoscopy,laparoscopy,GU/ Kidney Disorder,gu-kidney-disorder,9,7,0.7778,2019,2025,7,2,0,6,5,https://apellica.com/appeal-outcomes/california-imr/laparoscopy/gu-kidney-disorder
+Inpt Discharge,inpt-discharge,Trauma/ Injuries,trauma-injuries,9,3,0.3333,2006,2025,9,0,0,6,1,https://apellica.com/appeal-outcomes/california-imr/inpt-discharge/trauma-injuries
+Biologics,biologics,Skin Subcutaneous,skin-subcutaneous,9,9,1.0000,2026,2026,9,0,0,9,9,https://apellica.com/appeal-outcomes/california-imr/biologics/skin-subcutaneous
+Inpt Admission,inpt-admission,Respiratory System,respiratory-system,9,1,0.1111,2005,2024,9,0,0,4,0,https://apellica.com/appeal-outcomes/california-imr/inpt-admission/respiratory-system
+Organ Transplant,organ-transplant,Digestive System/ GI,digestive-system-gi,9,5,0.5556,2003,2024,9,0,0,3,2,https://apellica.com/appeal-outcomes/california-imr/organ-transplant/digestive-system-gi
+OON Referral,oon-referral,Immuno Disorders,immuno-disorders,9,2,0.2222,2006,2020,8,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/oon-referral/immuno-disorders
+Physical Therapy,physical-therapy,Immuno Disorders,immuno-disorders,9,3,0.3333,2006,2024,9,0,0,2,0,https://apellica.com/appeal-outcomes/california-imr/physical-therapy/immuno-disorders
+Circumcision,circumcision,Pediatrics,pediatrics,9,3,0.3333,2007,2024,9,0,0,1,1,https://apellica.com/appeal-outcomes/california-imr/circumcision/pediatrics
+Ambulance/Transport,ambulance-transport,Digestive System/ GI,digestive-system-gi,9,1,0.1111,2008,2016,3,0,6,0,0,https://apellica.com/appeal-outcomes/california-imr/ambulance-transport/digestive-system-gi
+General Anesthesia,general-anesthesia,Dental Problems,dental-problems,9,6,0.6667,2010,2023,9,0,0,3,2,https://apellica.com/appeal-outcomes/california-imr/general-anesthesia/dental-problems
+Botox Injection,botox-injection,Chron Pain Synd,chron-pain-synd,9,4,0.4444,2003,2018,5,4,0,0,0,https://apellica.com/appeal-outcomes/california-imr/botox-injection/chron-pain-synd
+Formulary v Non Form,formulary-v-non-form,Skin Disorders,skin-disorders,9,3,0.3333,2004,2010,9,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/formulary-v-non-form/skin-disorders
+Allergy Rx,allergy-rx,Pediatrics,pediatrics,9,6,0.6667,2019,2025,6,3,0,2,2,https://apellica.com/appeal-outcomes/california-imr/allergy-rx/pediatrics
+Extraction,extraction,Dental Problems,dental-problems,9,6,0.6667,2005,2021,9,0,0,1,1,https://apellica.com/appeal-outcomes/california-imr/extraction/dental-problems
+Physical Therapy,physical-therapy,OB-GYN/ Pregnancy,ob-gyn-pregnancy,9,4,0.4444,2004,2017,9,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/physical-therapy/ob-gyn-pregnancy
+Anti-Acne Treatment,anti-acne-treatment,Skin Disorders,skin-disorders,9,5,0.5556,2002,2018,8,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/anti-acne-treatment/skin-disorders
+Tx for Allergies,tx-for-allergies,Ears/Nose/Throat,ears-nose-throat,8,2,0.2500,2007,2017,8,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/tx-for-allergies/ears-nose-throat
+Walker,walker,Orth/Musculoskeletal,orth-musculoskeletal,8,4,0.5000,2007,2019,6,2,0,0,0,https://apellica.com/appeal-outcomes/california-imr/walker/orth-musculoskeletal
+CT Scan,ct-scan,Mental Disorder,mental-disorder,8,1,0.1250,2005,2021,3,5,0,2,1,https://apellica.com/appeal-outcomes/california-imr/ct-scan/mental-disorder
+Mastectomy,mastectomy,Endocrine/Metabolic,endocrine-metabolic,8,4,0.5000,2019,2025,8,0,0,4,4,https://apellica.com/appeal-outcomes/california-imr/mastectomy/endocrine-metabolic
+Colonoscopy/Sigmoid,colonoscopy-sigmoid,Cancer,cancer,8,2,0.2500,2006,2020,7,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/colonoscopy-sigmoid/cancer
+Proton Beam Therapy,proton-beam-therapy,Cancer,cancer,8,0,0.0000,2001,2004,8,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/proton-beam-therapy/cancer
+Ambulance/Transport,ambulance-transport,Orth/Musculoskeletal,orth-musculoskeletal,8,1,0.1250,2005,2016,2,0,6,0,0,https://apellica.com/appeal-outcomes/california-imr/ambulance-transport/orth-musculoskeletal
+Orthotics,orthotics,Pediatrics,pediatrics,8,8,1.0000,2006,2022,5,3,0,1,1,https://apellica.com/appeal-outcomes/california-imr/orthotics/pediatrics
+Occupational Therapy,occupational-therapy,Cardiac/Circ Problem,cardiac-circ-problem,8,4,0.5000,2002,2024,7,1,0,3,2,https://apellica.com/appeal-outcomes/california-imr/occupational-therapy/cardiac-circ-problem
+Electric Wheelchair,electric-wheelchair,Genetic Diseases,genetic-diseases,8,4,0.5000,2011,2025,8,0,0,3,2,https://apellica.com/appeal-outcomes/california-imr/electric-wheelchair/genetic-diseases
+Shoulder Replacement,shoulder-replacement,Orth/Musculoskeletal,orth-musculoskeletal,8,4,0.5000,2012,2025,6,2,0,4,1,https://apellica.com/appeal-outcomes/california-imr/shoulder-replacement/orth-musculoskeletal
+Craniotomy,craniotomy,CNS/ Neuromusc Dis,cns-neuromusc-dis,8,4,0.5000,2003,2025,5,3,0,2,2,https://apellica.com/appeal-outcomes/california-imr/craniotomy/cns-neuromusc-dis
+PET Scan,pet-scan,Respiratory System,respiratory-system,8,2,0.2500,2003,2023,5,3,0,1,1,https://apellica.com/appeal-outcomes/california-imr/pet-scan/respiratory-system
+Acupuncture,acupuncture,Immuno Disorders,immuno-disorders,8,2,0.2500,2002,2016,6,2,0,0,0,https://apellica.com/appeal-outcomes/california-imr/acupuncture/immuno-disorders
+Eye Test,eye-test,Vision,vision,8,5,0.6250,2012,2019,0,8,0,0,0,https://apellica.com/appeal-outcomes/california-imr/eye-test/vision
+Ambulance/Transport,ambulance-transport,Cardiac/Circ Problem,cardiac-circ-problem,8,3,0.3750,2008,2017,3,0,5,0,0,https://apellica.com/appeal-outcomes/california-imr/ambulance-transport/cardiac-circ-problem
+Genetic/Genomic Test,genetic-genomic-test,Digestive System/ GI,digestive-system-gi,8,3,0.3750,2018,2021,0,8,0,2,1,https://apellica.com/appeal-outcomes/california-imr/genetic-genomic-test/digestive-system-gi
+Septoplasty,septoplasty,Respiratory System,respiratory-system,8,4,0.5000,2002,2017,8,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/septoplasty/respiratory-system
+OON Referral,oon-referral,Ears/Nose/Throat,ears-nose-throat,8,1,0.1250,2002,2014,8,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/oon-referral/ears-nose-throat
+Deep Brain Stimulator,deep-brain-stimulator,CNS/ Neuromusc Dis,cns-neuromusc-dis,8,7,0.8750,2019,2025,1,7,0,4,4,https://apellica.com/appeal-outcomes/california-imr/deep-brain-stimulator/cns-neuromusc-dis
+Excess Skin Removal,excess-skin-removal,Skin Disorders,skin-disorders,8,3,0.3750,2007,2019,8,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/excess-skin-removal/skin-disorders
+MRI,mri,Endocrine/Metabolic,endocrine-metabolic,8,5,0.6250,2007,2026,7,1,0,5,3,https://apellica.com/appeal-outcomes/california-imr/mri/endocrine-metabolic
+SPECT Scan,spect-scan,CNS/ Neuromusc Dis,cns-neuromusc-dis,8,5,0.6250,2019,2020,1,7,0,0,0,https://apellica.com/appeal-outcomes/california-imr/spect-scan/cns-neuromusc-dis
+Psychotherapy,psychotherapy,Autism Spectrum,autism-spectrum,8,5,0.6250,2010,2022,8,0,0,1,1,https://apellica.com/appeal-outcomes/california-imr/psychotherapy/autism-spectrum
+Ambulance/Transport,ambulance-transport,Respiratory System,respiratory-system,8,4,0.5000,2007,2017,2,0,6,0,0,https://apellica.com/appeal-outcomes/california-imr/ambulance-transport/respiratory-system
+Organ Transplant,organ-transplant,Cancer,cancer,8,2,0.2500,2002,2025,6,2,0,3,1,https://apellica.com/appeal-outcomes/california-imr/organ-transplant/cancer
+Inpt Early Discharge,inpt-early-discharge,CNS/ Neuromusc Dis,cns-neuromusc-dis,8,0,0.0000,2012,2018,8,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/inpt-early-discharge/cns-neuromusc-dis
+Cholecystectomy,cholecystectomy,Digestive System/ GI,digestive-system-gi,8,5,0.6250,2002,2022,7,0,1,3,2,https://apellica.com/appeal-outcomes/california-imr/cholecystectomy/digestive-system-gi
+ECT,ect,Mental Disorder,mental-disorder,8,4,0.5000,2006,2024,8,0,0,1,0,https://apellica.com/appeal-outcomes/california-imr/ect/mental-disorder
+Glucagon-Like Peptide-1 (GLP),glucagon-like-peptide-1-glp,Cardiac/Circ Problem,cardiac-circ-problem,8,4,0.5000,2025,2025,8,0,0,8,4,https://apellica.com/appeal-outcomes/california-imr/glucagon-like-peptide-1-glp/cardiac-circ-problem
+MRI,mri,Foot Disorder,foot-disorder,8,2,0.2500,2010,2025,7,1,0,3,1,https://apellica.com/appeal-outcomes/california-imr/mri/foot-disorder
+Prostatectomy,prostatectomy,Cancer,cancer,8,2,0.2500,2003,2018,5,2,1,0,0,https://apellica.com/appeal-outcomes/california-imr/prostatectomy/cancer
+Radiofreq Ablat,radiofreq-ablat,Digestive System/ GI,digestive-system-gi,8,0,0.0000,2003,2022,0,8,0,1,0,https://apellica.com/appeal-outcomes/california-imr/radiofreq-ablat/digestive-system-gi
+Ambulance/Transport,ambulance-transport,Trauma/ Injuries,trauma-injuries,8,6,0.7500,2006,2016,6,0,2,0,0,https://apellica.com/appeal-outcomes/california-imr/ambulance-transport/trauma-injuries
+PTNS,ptns,GU/ Kidney Disorder,gu-kidney-disorder,8,6,0.7500,2020,2024,8,0,0,7,5,https://apellica.com/appeal-outcomes/california-imr/ptns/gu-kidney-disorder
+Viscosupp Injection,viscosupp-injection,Immuno Disorders,immuno-disorders,8,7,0.8750,2019,2025,7,1,0,6,5,https://apellica.com/appeal-outcomes/california-imr/viscosupp-injection/immuno-disorders
+Antibiotics,antibiotics,GU/ Kidney Disorder,gu-kidney-disorder,8,5,0.6250,2006,2025,7,1,0,2,0,https://apellica.com/appeal-outcomes/california-imr/antibiotics/gu-kidney-disorder
+Autism Screening,autism-screening,Autism Spectrum,autism-spectrum,8,6,0.7500,2008,2025,7,1,0,3,3,https://apellica.com/appeal-outcomes/california-imr/autism-screening/autism-spectrum
+SCP Consult Refer,scp-consult-refer,Ears/Nose/Throat,ears-nose-throat,8,4,0.5000,2002,2021,8,0,0,1,1,https://apellica.com/appeal-outcomes/california-imr/scp-consult-refer/ears-nose-throat
+Gastric Bypass,gastric-bypass,Endocrine/Metabolic,endocrine-metabolic,8,1,0.1250,2003,2004,8,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/gastric-bypass/endocrine-metabolic
+Hyperbaric O2 Chamb,hyperbaric-o2-chamb,Cancer,cancer,8,5,0.6250,2005,2024,5,3,0,2,0,https://apellica.com/appeal-outcomes/california-imr/hyperbaric-o2-chamb/cancer
+Ongoing OON Tx,ongoing-oon-tx,CNS/ Neuromusc Dis,cns-neuromusc-dis,8,6,0.7500,2003,2016,8,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/ongoing-oon-tx/cns-neuromusc-dis
+Genetic/Genomic Test,genetic-genomic-test,Skin Disorders,skin-disorders,7,3,0.4286,2019,2025,0,7,0,6,3,https://apellica.com/appeal-outcomes/california-imr/genetic-genomic-test/skin-disorders
+Breast Surgery,breast-surgery,Cancer,cancer,7,5,0.7143,2003,2018,3,4,0,0,0,https://apellica.com/appeal-outcomes/california-imr/breast-surgery/cancer
+Emergency Room,emergency-room,Pediatrics,pediatrics,7,6,0.8571,2008,2013,0,0,7,0,0,https://apellica.com/appeal-outcomes/california-imr/emergency-room/pediatrics
+Fibroid Removal,fibroid-removal,GU/ Kidney Disorder,gu-kidney-disorder,7,5,0.7143,2019,2022,3,4,0,2,2,https://apellica.com/appeal-outcomes/california-imr/fibroid-removal/gu-kidney-disorder
+Pain Mgmt Prog,pain-mgmt-prog,Orth/Musculoskeletal,orth-musculoskeletal,7,3,0.4286,2002,2015,7,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/pain-mgmt-prog/orth-musculoskeletal
+Liposuction,liposuction,Morbid Obesity,morbid-obesity,7,1,0.1429,2007,2018,7,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/liposuction/morbid-obesity
+SCP Consult Refer,scp-consult-refer,Infectious Disease,infectious-disease,7,2,0.2857,2002,2023,7,0,0,2,1,https://apellica.com/appeal-outcomes/california-imr/scp-consult-refer/infectious-disease
+Electric Wheelchair,electric-wheelchair,Immuno Disorders,immuno-disorders,7,2,0.2857,2006,2012,7,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/electric-wheelchair/immuno-disorders
+IVIG Therapy,ivig-therapy,Blood Related Disord,blood-related-disord,7,1,0.1429,2006,2025,6,1,0,2,0,https://apellica.com/appeal-outcomes/california-imr/ivig-therapy/blood-related-disord
+Thigh/Buttock Lift,thigh-buttock-lift,Morbid Obesity,morbid-obesity,7,0,0.0000,2005,2015,7,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/thigh-buttock-lift/morbid-obesity
+Wheelchair,wheelchair,Genetic Diseases,genetic-diseases,7,3,0.4286,2012,2025,7,0,0,3,1,https://apellica.com/appeal-outcomes/california-imr/wheelchair/genetic-diseases
+SCP Consult Refer,scp-consult-refer,Immuno Disorders,immuno-disorders,7,2,0.2857,2006,2024,7,0,0,2,0,https://apellica.com/appeal-outcomes/california-imr/scp-consult-refer/immuno-disorders
+Other,other,Pregnancy/Childbirth,pregnancy-childbirth,7,2,0.2857,2019,2025,7,0,0,5,2,https://apellica.com/appeal-outcomes/california-imr/other/pregnancy-childbirth
+Viscosupp Injection,viscosupp-injection,Musculoskeletal,musculoskeletal,7,7,1.0000,2026,2026,7,0,0,7,7,https://apellica.com/appeal-outcomes/california-imr/viscosupp-injection/musculoskeletal
+Pacemaker Insertion,pacemaker-insertion,Cardiac/Circ Problem,cardiac-circ-problem,7,4,0.5714,2010,2018,1,5,1,0,0,https://apellica.com/appeal-outcomes/california-imr/pacemaker-insertion/cardiac-circ-problem
+Biofeedback,biofeedback,Autism Spectrum,autism-spectrum,7,0,0.0000,2006,2014,2,5,0,0,0,https://apellica.com/appeal-outcomes/california-imr/biofeedback/autism-spectrum
+Skill Nsg Vsts,skill-nsg-vsts,Orth/Musculoskeletal,orth-musculoskeletal,7,1,0.1429,2005,2025,7,0,0,2,0,https://apellica.com/appeal-outcomes/california-imr/skill-nsg-vsts/orth-musculoskeletal
+Injection Admin Drugs,injection-admin-drugs,Digest System,digest-system,7,7,1.0000,2026,2026,7,0,0,7,7,https://apellica.com/appeal-outcomes/california-imr/injection-admin-drugs/digest-system
+Botox Injection,botox-injection,OB-GYN/ Pregnancy,ob-gyn-pregnancy,7,3,0.4286,2007,2018,0,7,0,0,0,https://apellica.com/appeal-outcomes/california-imr/botox-injection/ob-gyn-pregnancy
+Skill Nsg Vsts,skill-nsg-vsts,Pediatrics,pediatrics,7,6,0.8571,2011,2021,7,0,0,1,0,https://apellica.com/appeal-outcomes/california-imr/skill-nsg-vsts/pediatrics
+OON Referral,oon-referral,OB-GYN/ Pregnancy,ob-gyn-pregnancy,7,2,0.2857,2003,2018,7,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/oon-referral/ob-gyn-pregnancy
+Admission,admission,Skin Disorders,skin-disorders,7,4,0.5714,2002,2025,7,0,0,3,3,https://apellica.com/appeal-outcomes/california-imr/admission/skin-disorders
+Non-FDA Approved Use,non-fda-approved-use,OB-GYN/ Pregnancy,ob-gyn-pregnancy,7,1,0.1429,2005,2011,5,2,0,0,0,https://apellica.com/appeal-outcomes/california-imr/non-fda-approved-use/ob-gyn-pregnancy
+Ambulance/Transport,ambulance-transport,CNS/ Neuromusc Dis,cns-neuromusc-dis,7,1,0.1429,2009,2017,2,0,5,0,0,https://apellica.com/appeal-outcomes/california-imr/ambulance-transport/cns-neuromusc-dis
+SCP Consult Refer,scp-consult-refer,Foot Disorder,foot-disorder,7,7,1.0000,2004,2019,7,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/scp-consult-refer/foot-disorder
+Chemo/ Cancer Rx,chemo-cancer-rx,Cancer,cancer,7,2,0.2857,2003,2005,5,2,0,0,0,https://apellica.com/appeal-outcomes/california-imr/chemo-cancer-rx/cancer
+Biologics,biologics,Cardiac/Circ Problem,cardiac-circ-problem,7,1,0.1429,2019,2025,5,2,0,6,1,https://apellica.com/appeal-outcomes/california-imr/biologics/cardiac-circ-problem
+Injection Admin Drugs,injection-admin-drugs,Musculoskeletal,musculoskeletal,7,5,0.7143,2026,2026,5,2,0,7,5,https://apellica.com/appeal-outcomes/california-imr/injection-admin-drugs/musculoskeletal
+Urgent Care,urgent-care,Ears/Nose/Throat,ears-nose-throat,7,1,0.1429,2008,2018,0,0,7,0,0,https://apellica.com/appeal-outcomes/california-imr/urgent-care/ears-nose-throat
+Inpt Admission,inpt-admission,Digestive System/ GI,digestive-system-gi,7,2,0.2857,2008,2025,7,0,0,2,0,https://apellica.com/appeal-outcomes/california-imr/inpt-admission/digestive-system-gi
+Stem Cell Transplant,stem-cell-transplant,Immuno Disorders,immuno-disorders,7,6,0.8571,2002,2016,1,6,0,0,0,https://apellica.com/appeal-outcomes/california-imr/stem-cell-transplant/immuno-disorders
+Brachiaplasty,brachiaplasty,Morbid Obesity,morbid-obesity,7,2,0.2857,2005,2009,7,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/brachiaplasty/morbid-obesity
+Speech Generate Device,speech-generate-device,Pediatrics,pediatrics,7,7,1.0000,2022,2025,7,0,0,7,7,https://apellica.com/appeal-outcomes/california-imr/speech-generate-device/pediatrics
+Pain Medication,pain-medication,Post Surgical Comp,post-surgical-comp,7,2,0.2857,2017,2025,7,0,0,4,1,https://apellica.com/appeal-outcomes/california-imr/pain-medication/post-surgical-comp
+Autonomic Testing,autonomic-testing,Cardiac/Circ Problem,cardiac-circ-problem,7,5,0.7143,2019,2023,0,7,0,5,3,https://apellica.com/appeal-outcomes/california-imr/autonomic-testing/cardiac-circ-problem
+Antibiotics,antibiotics,Respiratory System,respiratory-system,7,3,0.4286,2003,2021,6,1,0,1,1,https://apellica.com/appeal-outcomes/california-imr/antibiotics/respiratory-system
+Pet Scan,pet-scan,Immuno Disorders,immuno-disorders,7,2,0.2857,2002,2024,5,2,0,1,1,https://apellica.com/appeal-outcomes/california-imr/pet-scan/immuno-disorders
+OON Referral,oon-referral,GU/ Kidney Disorder,gu-kidney-disorder,7,2,0.2857,2003,2025,6,1,0,4,1,https://apellica.com/appeal-outcomes/california-imr/oon-referral/gu-kidney-disorder
+SCP Consult Refer,scp-consult-refer,Respiratory System,respiratory-system,7,5,0.7143,2002,2024,7,0,0,1,0,https://apellica.com/appeal-outcomes/california-imr/scp-consult-refer/respiratory-system
+Antibiotics,antibiotics,CNS/ Neuromusc Dis,cns-neuromusc-dis,7,0,0.0000,2003,2020,5,2,0,0,0,https://apellica.com/appeal-outcomes/california-imr/antibiotics/cns-neuromusc-dis
+Electric Scooter,electric-scooter,Respiratory System,respiratory-system,7,1,0.1429,2005,2020,7,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/electric-scooter/respiratory-system
+Non-FDA Approved Use,non-fda-approved-use,Cardiac/Circ Problem,cardiac-circ-problem,7,4,0.5714,2005,2010,6,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/non-fda-approved-use/cardiac-circ-problem
+Mammography,mammography,Not Applicable,not-applicable,7,7,1.0000,2016,2017,1,6,0,0,0,https://apellica.com/appeal-outcomes/california-imr/mammography/not-applicable
+VNUS Closure,vnus-closure,Cardiac/Circ Problem,cardiac-circ-problem,7,5,0.7143,2003,2013,3,4,0,0,0,https://apellica.com/appeal-outcomes/california-imr/vnus-closure/cardiac-circ-problem
+Biologics,biologics,Blood Related Disord,blood-related-disord,7,4,0.5714,2019,2025,5,2,0,5,3,https://apellica.com/appeal-outcomes/california-imr/biologics/blood-related-disord
+Antibiotics,antibiotics,Ears/Nose/Throat,ears-nose-throat,7,3,0.4286,2004,2021,6,1,0,1,0,https://apellica.com/appeal-outcomes/california-imr/antibiotics/ears-nose-throat
+Prosthesis,prosthesis,CNS/ Neuromusc Dis,cns-neuromusc-dis,7,2,0.2857,2018,2024,3,4,0,4,2,https://apellica.com/appeal-outcomes/california-imr/prosthesis/cns-neuromusc-dis
+Autonomic Testing,autonomic-testing,CNS/ Neuromusc Dis,cns-neuromusc-dis,7,6,0.8571,2021,2025,0,7,0,7,6,https://apellica.com/appeal-outcomes/california-imr/autonomic-testing/cns-neuromusc-dis
+IVIG Therapy,ivig-therapy,Digestive System/ GI,digestive-system-gi,7,5,0.7143,2003,2025,7,0,0,3,3,https://apellica.com/appeal-outcomes/california-imr/ivig-therapy/digestive-system-gi
+Inpt Discharge,inpt-discharge,CNS/ Neuromusc Dis,cns-neuromusc-dis,6,1,0.1667,2006,2023,6,0,0,2,1,https://apellica.com/appeal-outcomes/california-imr/inpt-discharge/cns-neuromusc-dis
+Inpt Admission,inpt-admission,Endocrine/Metabolic,endocrine-metabolic,6,2,0.3333,2008,2025,6,0,0,3,1,https://apellica.com/appeal-outcomes/california-imr/inpt-admission/endocrine-metabolic
+Circumcision,circumcision,GU/ Kidney Disorder,gu-kidney-disorder,6,2,0.3333,2008,2019,6,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/circumcision/gu-kidney-disorder
+Req 2nd Opin/OON,req-2nd-opin-oon,Orth/Musculoskeletal,orth-musculoskeletal,6,3,0.5000,2010,2018,6,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/req-2nd-opin-oon/orth-musculoskeletal
+Hyperbaric O2 Chamb,hyperbaric-o2-chamb,CNS/ Neuromusc Dis,cns-neuromusc-dis,6,1,0.1667,2002,2025,2,4,0,1,0,https://apellica.com/appeal-outcomes/california-imr/hyperbaric-o2-chamb/cns-neuromusc-dis
+Allergy Testing,allergy-testing,Skin Disorders,skin-disorders,6,3,0.5000,2016,2023,2,4,0,1,0,https://apellica.com/appeal-outcomes/california-imr/allergy-testing/skin-disorders
+Emergency,emergency,Cardiac/Circ Problem,cardiac-circ-problem,6,5,0.8333,2018,2025,4,0,2,4,3,https://apellica.com/appeal-outcomes/california-imr/emergency/cardiac-circ-problem
+Hormones,hormones,Vision,vision,6,3,0.5000,2019,2025,5,1,0,3,2,https://apellica.com/appeal-outcomes/california-imr/hormones/vision
+Inpt Early Discharge,inpt-early-discharge,Cancer,cancer,6,1,0.1667,2009,2017,6,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/inpt-early-discharge/cancer
+Anti-Fungal,anti-fungal,Ears/Nose/Throat,ears-nose-throat,6,1,0.1667,2003,2020,6,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/anti-fungal/ears-nose-throat
+Breast Surgery,breast-surgery,Orth/Musculoskeletal,orth-musculoskeletal,6,4,0.6667,2002,2018,6,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/breast-surgery/orth-musculoskeletal
+Hyperbaric O2 Chamb,hyperbaric-o2-chamb,Post Surgical Comp,post-surgical-comp,6,0,0.0000,2020,2022,6,0,0,5,0,https://apellica.com/appeal-outcomes/california-imr/hyperbaric-o2-chamb/post-surgical-comp
+Cholesterol Screen,cholesterol-screen,Endocrine/Metabolic,endocrine-metabolic,6,0,0.0000,2011,2024,0,6,0,3,0,https://apellica.com/appeal-outcomes/california-imr/cholesterol-screen/endocrine-metabolic
+Adult Immunization,adult-immunization,Prevention/Good Hlth,prevention-good-hlth,6,2,0.3333,2004,2024,6,0,0,2,1,https://apellica.com/appeal-outcomes/california-imr/adult-immunization/prevention-good-hlth
+Breast Augmentation,breast-augmentation,Post Surgical Comp,post-surgical-comp,6,0,0.0000,2012,2024,6,0,0,2,0,https://apellica.com/appeal-outcomes/california-imr/breast-augmentation/post-surgical-comp
+Social Skills Therapy,social-skills-therapy,Autism Spectrum,autism-spectrum,6,4,0.6667,2019,2025,6,0,0,3,2,https://apellica.com/appeal-outcomes/california-imr/social-skills-therapy/autism-spectrum
+Hormones,hormones,Sym/Sign Ab Find,sym-sign-ab-find,6,5,0.8333,2026,2026,6,0,0,6,5,https://apellica.com/appeal-outcomes/california-imr/hormones/sym-sign-ab-find
+Proton Beam,proton-beam,CNS/ Neuromusc Dis,cns-neuromusc-dis,6,1,0.1667,2011,2022,0,6,0,1,1,https://apellica.com/appeal-outcomes/california-imr/proton-beam/cns-neuromusc-dis
+Cryoablation,cryoablation,Cancer,cancer,6,2,0.3333,2005,2018,0,6,0,0,0,https://apellica.com/appeal-outcomes/california-imr/cryoablation/cancer
+Biologics,biologics,Digest System,digest-system,6,3,0.5000,2026,2026,6,0,0,6,3,https://apellica.com/appeal-outcomes/california-imr/biologics/digest-system
+Laparotomy,laparotomy,Digestive System/ GI,digestive-system-gi,6,3,0.5000,2002,2016,5,0,1,0,0,https://apellica.com/appeal-outcomes/california-imr/laparotomy/digestive-system-gi
+Rhinoplasty,rhinoplasty,Ears/Nose/Throat,ears-nose-throat,6,4,0.6667,2020,2024,6,0,0,5,3,https://apellica.com/appeal-outcomes/california-imr/rhinoplasty/ears-nose-throat
+Urgent Care,urgent-care,Digestive System/ GI,digestive-system-gi,6,0,0.0000,2011,2018,1,0,5,0,0,https://apellica.com/appeal-outcomes/california-imr/urgent-care/digestive-system-gi
+Pain Medication,pain-medication,Endocrine/Metabolic,endocrine-metabolic,6,0,0.0000,2018,2024,6,0,0,2,0,https://apellica.com/appeal-outcomes/california-imr/pain-medication/endocrine-metabolic
+Interferon,interferon,CNS/ Neuromusc Dis,cns-neuromusc-dis,6,3,0.5000,2008,2018,6,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/interferon/cns-neuromusc-dis
+Weight Control,weight-control,Immuno Disorders,immuno-disorders,6,5,0.8333,2007,2025,6,0,0,5,4,https://apellica.com/appeal-outcomes/california-imr/weight-control/immuno-disorders
+Inpt Admission,inpt-admission,Skin Disorders,skin-disorders,6,2,0.3333,2006,2022,6,0,0,1,1,https://apellica.com/appeal-outcomes/california-imr/inpt-admission/skin-disorders
+Anti-virals,anti-virals,Immuno Disorders,immuno-disorders,6,1,0.1667,2004,2020,5,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/anti-virals/immuno-disorders
+Acupuncture,acupuncture,Mental Disorder,mental-disorder,6,3,0.5000,2004,2020,6,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/acupuncture/mental-disorder
+Compression Garments,compression-garments,Orth/Musculoskeletal,orth-musculoskeletal,6,1,0.1667,2016,2024,4,2,0,3,0,https://apellica.com/appeal-outcomes/california-imr/compression-garments/orth-musculoskeletal
+Breast Augmentation,breast-augmentation,GU/ Kidney Disorder,gu-kidney-disorder,6,3,0.5000,2020,2024,6,0,0,4,1,https://apellica.com/appeal-outcomes/california-imr/breast-augmentation/gu-kidney-disorder
+MRI,mri,Post Surgical Comp,post-surgical-comp,6,4,0.6667,2013,2025,4,2,0,3,1,https://apellica.com/appeal-outcomes/california-imr/mri/post-surgical-comp
+Liposuction,liposuction,Infectious Disease,infectious-disease,6,2,0.3333,2004,2018,6,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/liposuction/infectious-disease
+Ongoing OON Tx,ongoing-oon-tx,Cancer,cancer,6,3,0.5000,2002,2024,5,1,0,1,1,https://apellica.com/appeal-outcomes/california-imr/ongoing-oon-tx/cancer
+Electric Scooter,electric-scooter,Endocrine/Metabolic,endocrine-metabolic,6,0,0.0000,2003,2024,6,0,0,2,0,https://apellica.com/appeal-outcomes/california-imr/electric-scooter/endocrine-metabolic
+Early Discharge,early-discharge,Cancer,cancer,6,2,0.3333,2009,2023,6,0,0,2,1,https://apellica.com/appeal-outcomes/california-imr/early-discharge/cancer
+Physical Therapy,physical-therapy,Foot Disorder,foot-disorder,6,1,0.1667,2003,2020,6,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/physical-therapy/foot-disorder
+Physical Therapy,physical-therapy,GU/ Kidney Disorder,gu-kidney-disorder,6,3,0.5000,2003,2021,5,1,0,1,0,https://apellica.com/appeal-outcomes/california-imr/physical-therapy/gu-kidney-disorder
+Anti-inflammatories,anti-inflammatories,Respiratory System,respiratory-system,6,3,0.5000,2004,2025,4,2,0,2,1,https://apellica.com/appeal-outcomes/california-imr/anti-inflammatories/respiratory-system
+Colonoscopy,colonoscopy,Digestive System/ GI,digestive-system-gi,6,2,0.3333,2003,2004,6,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/colonoscopy/digestive-system-gi
+Urgent Care,urgent-care,GU/ Kidney Disorder,gu-kidney-disorder,6,4,0.6667,2009,2024,0,0,6,1,1,https://apellica.com/appeal-outcomes/california-imr/urgent-care/gu-kidney-disorder
+Formulary v Non Form,formulary-v-non-form,Immuno Disorders,immuno-disorders,6,1,0.1667,2006,2009,6,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/formulary-v-non-form/immuno-disorders
+Not Applicable,not-applicable,Not Applicable,not-applicable,6,0,0.0000,2013,2017,4,2,0,0,0,https://apellica.com/appeal-outcomes/california-imr/not-applicable/not-applicable
+ABI Vest,abi-vest,Cardiac/Circ Problem,cardiac-circ-problem,6,2,0.3333,2018,2025,0,6,0,1,1,https://apellica.com/appeal-outcomes/california-imr/abi-vest/cardiac-circ-problem
+Imaging Lower Extremities,imaging-lower-extremities,Musculoskeletal,musculoskeletal,6,5,0.8333,2026,2026,6,0,0,6,5,https://apellica.com/appeal-outcomes/california-imr/imaging-lower-extremities/musculoskeletal
+Physical Therapy,physical-therapy,Autism Spectrum,autism-spectrum,6,4,0.6667,2008,2024,5,1,0,2,0,https://apellica.com/appeal-outcomes/california-imr/physical-therapy/autism-spectrum
+Panniculectomy,panniculectomy,Digestive System/ GI,digestive-system-gi,6,5,0.8333,2011,2020,6,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/panniculectomy/digestive-system-gi
+Genetic/Genomic Test,genetic-genomic-test,Immuno Disorders,immuno-disorders,6,2,0.3333,2018,2023,0,6,0,3,1,https://apellica.com/appeal-outcomes/california-imr/genetic-genomic-test/immuno-disorders
+Ambulance/Transport,ambulance-transport,Mental Disorder,mental-disorder,6,2,0.3333,2014,2016,1,0,5,0,0,https://apellica.com/appeal-outcomes/california-imr/ambulance-transport/mental-disorder
+Pain Medication,pain-medication,Mental Disorder,mental-disorder,6,1,0.1667,2017,2024,6,0,0,4,1,https://apellica.com/appeal-outcomes/california-imr/pain-medication/mental-disorder
+MRI,mri,Not Applicable,not-applicable,6,3,0.5000,2003,2017,6,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/mri/not-applicable
+Req 2nd Opin/OON,req-2nd-opin-oon,Cancer,cancer,6,4,0.6667,2006,2019,6,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/req-2nd-opin-oon/cancer
+Skin Treatment,skin-treatment,Skin Subcutaneous,skin-subcutaneous,6,5,0.8333,2026,2026,5,1,0,6,5,https://apellica.com/appeal-outcomes/california-imr/skin-treatment/skin-subcutaneous
+Prosthesis,prosthesis,Cardiac/Circ Problem,cardiac-circ-problem,6,3,0.5000,2018,2024,1,5,0,3,1,https://apellica.com/appeal-outcomes/california-imr/prosthesis/cardiac-circ-problem
+PET Scan,pet-scan,Orth/Musculoskeletal,orth-musculoskeletal,6,1,0.1667,2008,2025,3,3,0,1,1,https://apellica.com/appeal-outcomes/california-imr/pet-scan/orth-musculoskeletal
+Crowns,crowns,Dental Problems,dental-problems,6,2,0.3333,2008,2019,5,0,1,0,0,https://apellica.com/appeal-outcomes/california-imr/crowns/dental-problems
+CT Scan,ct-scan,Ears/Nose/Throat,ears-nose-throat,6,2,0.3333,2002,2025,6,0,0,1,0,https://apellica.com/appeal-outcomes/california-imr/ct-scan/ears-nose-throat
+Dental Implants,dental-implants,Dental Problems,dental-problems,6,3,0.5000,2010,2025,5,0,1,4,3,https://apellica.com/appeal-outcomes/california-imr/dental-implants/dental-problems
+MRI,mri,Chron Pain Synd,chron-pain-synd,6,3,0.5000,2015,2017,6,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/mri/chron-pain-synd
+Hormones,hormones,Infectious Disease,infectious-disease,6,3,0.5000,2005,2015,4,2,0,0,0,https://apellica.com/appeal-outcomes/california-imr/hormones/infectious-disease
+Speech Therapy,speech-therapy,Trauma/ Injuries,trauma-injuries,6,3,0.5000,2003,2021,4,2,0,1,0,https://apellica.com/appeal-outcomes/california-imr/speech-therapy/trauma-injuries
+Allergy Testing,allergy-testing,Respiratory System,respiratory-system,6,1,0.1667,2011,2024,2,4,0,2,0,https://apellica.com/appeal-outcomes/california-imr/allergy-testing/respiratory-system
+Bariatric Other,bariatric-other,Endocrine/Metabolic,endocrine-metabolic,6,5,0.8333,2002,2018,5,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/bariatric-other/endocrine-metabolic
+Dental Anesthesia,dental-anesthesia,Autism Spectrum,autism-spectrum,6,5,0.8333,2016,2019,6,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/dental-anesthesia/autism-spectrum
+Digestion/GI Rx,digestion-gi-rx,Infectious Disease,infectious-disease,6,3,0.5000,2019,2025,6,0,0,5,2,https://apellica.com/appeal-outcomes/california-imr/digestion-gi-rx/infectious-disease
+Emergency Room,emergency-room,Cancer,cancer,6,4,0.6667,2007,2018,1,0,5,0,0,https://apellica.com/appeal-outcomes/california-imr/emergency-room/cancer
+Emergency Room,emergency-room,Immuno Disorders,immuno-disorders,6,2,0.3333,2008,2019,0,0,6,0,0,https://apellica.com/appeal-outcomes/california-imr/emergency-room/immuno-disorders
+Pet Scan,pet-scan,Digestive System/ GI,digestive-system-gi,6,1,0.1667,2002,2023,3,3,0,1,0,https://apellica.com/appeal-outcomes/california-imr/pet-scan/digestive-system-gi
+Diabetic Medication,diabetic-medication,Cardiac/Circ Problem,cardiac-circ-problem,5,3,0.6000,2022,2025,4,1,0,5,3,https://apellica.com/appeal-outcomes/california-imr/diabetic-medication/cardiac-circ-problem
+Pain Medication,pain-medication,Infectious Disease,infectious-disease,5,0,0.0000,2018,2024,5,0,0,3,0,https://apellica.com/appeal-outcomes/california-imr/pain-medication/infectious-disease
+Hyperbaric O2 Chamb,hyperbaric-o2-chamb,Endocrine/Metabolic,endocrine-metabolic,5,3,0.6000,2009,2022,4,1,0,3,2,https://apellica.com/appeal-outcomes/california-imr/hyperbaric-o2-chamb/endocrine-metabolic
+Bariatric Lap Band,bariatric-lap-band,Digestive System/ GI,digestive-system-gi,5,2,0.4000,2006,2018,5,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/bariatric-lap-band/digestive-system-gi
+Electric Scooter,electric-scooter,Cardiac/Circ Problem,cardiac-circ-problem,5,0,0.0000,2004,2014,5,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/electric-scooter/cardiac-circ-problem
+Liposuction,liposuction,Orth/Musculoskeletal,orth-musculoskeletal,5,1,0.2000,2006,2024,5,0,0,2,1,https://apellica.com/appeal-outcomes/california-imr/liposuction/orth-musculoskeletal
+Revision Procedures,revision-procedures,Post Surgical Comp,post-surgical-comp,5,2,0.4000,2007,2020,5,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/revision-procedures/post-surgical-comp
+X-Ray,x-ray,Orth/Musculoskeletal,orth-musculoskeletal,5,2,0.4000,2010,2024,3,2,0,2,1,https://apellica.com/appeal-outcomes/california-imr/x-ray/orth-musculoskeletal
+Anti-Fungal,anti-fungal,Skin Disorders,skin-disorders,5,2,0.4000,2002,2021,5,0,0,1,1,https://apellica.com/appeal-outcomes/california-imr/anti-fungal/skin-disorders
+MRI,mri,Genetic Diseases,genetic-diseases,5,4,0.8000,2018,2020,3,2,0,0,0,https://apellica.com/appeal-outcomes/california-imr/mri/genetic-diseases
+Weight Control,weight-control,Mental Disorder,mental-disorder,5,3,0.6000,2006,2025,4,1,0,3,3,https://apellica.com/appeal-outcomes/california-imr/weight-control/mental-disorder
+Implant Removal,implant-removal,Trauma/ Injuries,trauma-injuries,5,0,0.0000,2015,2024,4,0,1,4,0,https://apellica.com/appeal-outcomes/california-imr/implant-removal/trauma-injuries
+Elect Bone Stim,elect-bone-stim,Cardiac/Circ Problem,cardiac-circ-problem,5,2,0.4000,2011,2022,0,5,0,1,1,https://apellica.com/appeal-outcomes/california-imr/elect-bone-stim/cardiac-circ-problem
+General Anesthesia,general-anesthesia,Cancer,cancer,5,1,0.2000,2015,2022,5,0,0,1,0,https://apellica.com/appeal-outcomes/california-imr/general-anesthesia/cancer
+IVIG Therapy,ivig-therapy,Genetic Diseases,genetic-diseases,5,2,0.4000,2019,2025,5,0,0,3,1,https://apellica.com/appeal-outcomes/california-imr/ivig-therapy/genetic-diseases
+Epidural Injection,epidural-injection,CNS/ Neuromusc Dis,cns-neuromusc-dis,5,4,0.8000,2015,2025,4,1,0,3,3,https://apellica.com/appeal-outcomes/california-imr/epidural-injection/cns-neuromusc-dis
+Laser Surgery,laser-surgery,Skin Disorders,skin-disorders,5,2,0.4000,2002,2004,5,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/laser-surgery/skin-disorders
+Hearing Test,hearing-test,Ears/Nose/Throat,ears-nose-throat,5,4,0.8000,2005,2022,4,1,0,1,1,https://apellica.com/appeal-outcomes/california-imr/hearing-test/ears-nose-throat
+Hyperbaric O2 Chamb,hyperbaric-o2-chamb,Orth/Musculoskeletal,orth-musculoskeletal,5,1,0.2000,2003,2022,4,1,0,2,0,https://apellica.com/appeal-outcomes/california-imr/hyperbaric-o2-chamb/orth-musculoskeletal
+Psychological Evaluation,psychological-evaluation,Autism Spectrum,autism-spectrum,5,0,0.0000,2020,2024,5,0,0,4,0,https://apellica.com/appeal-outcomes/california-imr/psychological-evaluation/autism-spectrum
+Inpt Admission,inpt-admission,Immuno Disorders,immuno-disorders,5,2,0.4000,2009,2021,5,0,0,1,1,https://apellica.com/appeal-outcomes/california-imr/inpt-admission/immuno-disorders
+Wheelchair,wheelchair,Pediatrics,pediatrics,5,3,0.6000,2014,2020,5,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/wheelchair/pediatrics
+Stem Cell Transplant,stem-cell-transplant,Orth/Musculoskeletal,orth-musculoskeletal,5,0,0.0000,2019,2023,2,3,0,3,0,https://apellica.com/appeal-outcomes/california-imr/stem-cell-transplant/orth-musculoskeletal
+Acupuncture,acupuncture,Foot Disorder,foot-disorder,5,1,0.2000,2019,2024,5,0,0,2,0,https://apellica.com/appeal-outcomes/california-imr/acupuncture/foot-disorder
+Genetic/Genomic Test,genetic-genomic-test,Ears/Nose/Throat,ears-nose-throat,5,4,0.8000,2020,2025,1,4,0,2,2,https://apellica.com/appeal-outcomes/california-imr/genetic-genomic-test/ears-nose-throat
+Biopsy,biopsy,Skin Disorders,skin-disorders,5,2,0.4000,2010,2022,5,0,0,2,1,https://apellica.com/appeal-outcomes/california-imr/biopsy/skin-disorders
+Clinical Trial,clinical-trial,Cancer,cancer,5,3,0.6000,2005,2023,0,5,0,1,1,https://apellica.com/appeal-outcomes/california-imr/clinical-trial/cancer
+Revision Procedures,revision-procedures,Endocrine/Metabolic,endocrine-metabolic,5,2,0.4000,2020,2023,5,0,0,3,0,https://apellica.com/appeal-outcomes/california-imr/revision-procedures/endocrine-metabolic
+Imaging Spine Pelvis,imaging-spine-pelvis,Musculoskeletal,musculoskeletal,5,1,0.2000,2026,2026,5,0,0,5,1,https://apellica.com/appeal-outcomes/california-imr/imaging-spine-pelvis/musculoskeletal
+Ultrasound,ultrasound,Orth/Musculoskeletal,orth-musculoskeletal,5,1,0.2000,2018,2025,3,2,0,3,0,https://apellica.com/appeal-outcomes/california-imr/ultrasound/orth-musculoskeletal
+Invest Tx Protocol,invest-tx-protocol,Immuno Disorders,immuno-disorders,5,3,0.6000,2004,2007,1,4,0,0,0,https://apellica.com/appeal-outcomes/california-imr/invest-tx-protocol/immuno-disorders
+SCP Consult Refer,scp-consult-refer,Pediatrics,pediatrics,5,0,0.0000,2002,2014,4,0,1,0,0,https://apellica.com/appeal-outcomes/california-imr/scp-consult-refer/pediatrics
+Incontinence Supplies,incontinence-supplies,Autism Spectrum,autism-spectrum,5,4,0.8000,2021,2025,5,0,0,5,4,https://apellica.com/appeal-outcomes/california-imr/incontinence-supplies/autism-spectrum
+Anti-inflammatories,anti-inflammatories,Genetic Diseases,genetic-diseases,5,4,0.8000,2007,2025,4,1,0,4,4,https://apellica.com/appeal-outcomes/california-imr/anti-inflammatories/genetic-diseases
+Acupuncture,acupuncture,Cardiac/Circ Problem,cardiac-circ-problem,5,0,0.0000,2010,2022,5,0,0,2,0,https://apellica.com/appeal-outcomes/california-imr/acupuncture/cardiac-circ-problem
+Hi-Int Focused Ultrasnd (HIFU),hi-int-focused-ultrasnd-hifu,Cancer,cancer,5,1,0.2000,2025,2025,3,2,0,5,1,https://apellica.com/appeal-outcomes/california-imr/hi-int-focused-ultrasnd-hifu/cancer
+Pain Mgmt Prog,pain-mgmt-prog,Chron Pain Synd,chron-pain-synd,5,1,0.2000,2008,2018,4,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/pain-mgmt-prog/chron-pain-synd
+Inpt Discharge,inpt-discharge,Cancer,cancer,5,2,0.4000,2006,2023,5,0,0,1,1,https://apellica.com/appeal-outcomes/california-imr/inpt-discharge/cancer
+Incontinence Supplies,incontinence-supplies,GU/ Kidney Disorder,gu-kidney-disorder,5,2,0.4000,2020,2025,5,0,0,4,2,https://apellica.com/appeal-outcomes/california-imr/incontinence-supplies/gu-kidney-disorder
+Inpt Trnsf to LLC,inpt-trnsf-to-llc,Cardiac/Circ Problem,cardiac-circ-problem,5,2,0.4000,2007,2024,5,0,0,2,1,https://apellica.com/appeal-outcomes/california-imr/inpt-trnsf-to-llc/cardiac-circ-problem
+Hormones,hormones,Cancer,cancer,5,3,0.6000,2003,2019,3,2,0,0,0,https://apellica.com/appeal-outcomes/california-imr/hormones/cancer
+Skill Nsg Vsts,skill-nsg-vsts,Digestive System/ GI,digestive-system-gi,5,2,0.4000,2002,2016,5,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/skill-nsg-vsts/digestive-system-gi
+Inpt Discharge,inpt-discharge,Endocrine/Metabolic,endocrine-metabolic,5,0,0.0000,2013,2025,5,0,0,3,0,https://apellica.com/appeal-outcomes/california-imr/inpt-discharge/endocrine-metabolic
+Implant Removal,implant-removal,Post Surgical Comp,post-surgical-comp,5,1,0.2000,2019,2022,5,0,0,1,0,https://apellica.com/appeal-outcomes/california-imr/implant-removal/post-surgical-comp
+Anti-inflammatories,anti-inflammatories,Foot Disorder,foot-disorder,5,2,0.4000,2008,2018,5,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/anti-inflammatories/foot-disorder
+Ongoing OON Tx,ongoing-oon-tx,Digestive System/ GI,digestive-system-gi,5,1,0.2000,2005,2022,4,1,0,1,0,https://apellica.com/appeal-outcomes/california-imr/ongoing-oon-tx/digestive-system-gi
+Bariatric Other,bariatric-other,Digestive System/ GI,digestive-system-gi,5,0,0.0000,2017,2018,1,4,0,0,0,https://apellica.com/appeal-outcomes/california-imr/bariatric-other/digestive-system-gi
+Non-FDA Approved Use,non-fda-approved-use,GU/ Kidney Disorder,gu-kidney-disorder,5,3,0.6000,2006,2009,4,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/non-fda-approved-use/gu-kidney-disorder
+Electric Scooter,electric-scooter,Morbid Obesity,morbid-obesity,5,0,0.0000,2003,2012,5,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/electric-scooter/morbid-obesity
+Cholesterol Screen,cholesterol-screen,Cardiac/Circ Problem,cardiac-circ-problem,5,0,0.0000,2016,2020,0,5,0,0,0,https://apellica.com/appeal-outcomes/california-imr/cholesterol-screen/cardiac-circ-problem
+Urgent Care,urgent-care,Skin Disorders,skin-disorders,5,1,0.2000,2014,2018,0,0,5,0,0,https://apellica.com/appeal-outcomes/california-imr/urgent-care/skin-disorders
+Prosthesis,prosthesis,Cancer,cancer,5,3,0.6000,2011,2024,4,1,0,2,1,https://apellica.com/appeal-outcomes/california-imr/prosthesis/cancer
+Analgesics,analgesics,Digestive System/ GI,digestive-system-gi,5,1,0.2000,2015,2017,5,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/analgesics/digestive-system-gi
+Pain Medication,pain-medication,Trauma/ Injuries,trauma-injuries,5,0,0.0000,2017,2020,5,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/pain-medication/trauma-injuries
+Early Discharge,early-discharge,Cardiac/Circ Problem,cardiac-circ-problem,5,0,0.0000,2012,2023,5,0,0,2,0,https://apellica.com/appeal-outcomes/california-imr/early-discharge/cardiac-circ-problem
+Special Bed,special-bed,Cardiac/Circ Problem,cardiac-circ-problem,5,1,0.2000,2006,2025,5,0,0,2,1,https://apellica.com/appeal-outcomes/california-imr/special-bed/cardiac-circ-problem
+IVIG Therapy,ivig-therapy,Skin Disorders,skin-disorders,5,4,0.8000,2011,2025,4,1,0,3,3,https://apellica.com/appeal-outcomes/california-imr/ivig-therapy/skin-disorders
+Colonoscopy,colonoscopy,Prevention/Good Hlth,prevention-good-hlth,5,2,0.4000,2002,2005,5,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/colonoscopy/prevention-good-hlth
+Weight Control,weight-control,Digestive System/ GI,digestive-system-gi,5,1,0.2000,2024,2025,2,3,0,5,1,https://apellica.com/appeal-outcomes/california-imr/weight-control/digestive-system-gi
+Pain Medication,pain-medication,Cancer,cancer,5,3,0.6000,2019,2022,5,0,0,3,2,https://apellica.com/appeal-outcomes/california-imr/pain-medication/cancer
+Appld Behav Analysis,appld-behav-analysis,Pediatrics,pediatrics,5,2,0.4000,2012,2023,5,0,0,3,1,https://apellica.com/appeal-outcomes/california-imr/appld-behav-analysis/pediatrics
+Oxygen,oxygen,Cardiac/Circ Problem,cardiac-circ-problem,5,0,0.0000,2002,2021,5,0,0,1,0,https://apellica.com/appeal-outcomes/california-imr/oxygen/cardiac-circ-problem
+Implant Removal,implant-removal,Orth/Musculoskeletal,orth-musculoskeletal,5,1,0.2000,2013,2025,5,0,0,2,0,https://apellica.com/appeal-outcomes/california-imr/implant-removal/orth-musculoskeletal
+Invest Tx Protocol,invest-tx-protocol,Cancer,cancer,5,3,0.6000,2003,2008,0,5,0,0,0,https://apellica.com/appeal-outcomes/california-imr/invest-tx-protocol/cancer
+General Anesthesia,general-anesthesia,Orth/Musculoskeletal,orth-musculoskeletal,5,0,0.0000,2015,2019,3,2,0,0,0,https://apellica.com/appeal-outcomes/california-imr/general-anesthesia/orth-musculoskeletal
+Evaluation,evaluation,Orth/Musculoskeletal,orth-musculoskeletal,5,2,0.4000,2010,2024,5,0,0,2,1,https://apellica.com/appeal-outcomes/california-imr/evaluation/orth-musculoskeletal
+Hormones,hormones,Not Applicable,not-applicable,5,1,0.2000,2013,2018,4,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/hormones/not-applicable
+Acupuncture,acupuncture,OB-GYN/ Pregnancy,ob-gyn-pregnancy,5,1,0.2000,2008,2017,5,0,0,0,0,https://apellica.com/appeal-outcomes/california-imr/acupuncture/ob-gyn-pregnancy
+Cardiac Rehab,cardiac-rehab,Cardiac/Circ Problem,cardiac-circ-problem,5,3,0.6000,2016,2022,5,0,0,2,1,https://apellica.com/appeal-outcomes/california-imr/cardiac-rehab/cardiac-circ-problem
+TENS Unit,tens-unit,CNS/ Neuromusc Dis,cns-neuromusc-dis,5,1,0.2000,2006,2016,2,3,0,0,0,https://apellica.com/appeal-outcomes/california-imr/tens-unit/cns-neuromusc-dis
+Orthotics,orthotics,CNS/ Neuromusc Dis,cns-neuromusc-dis,5,2,0.4000,2014,2024,3,2,0,2,0,https://apellica.com/appeal-outcomes/california-imr/orthotics/cns-neuromusc-dis
+Acupuncture,acupuncture,Digestive System/ GI,digestive-system-gi,5,2,0.4000,2007,2022,4,1,0,1,1,https://apellica.com/appeal-outcomes/california-imr/acupuncture/digestive-system-gi
+Nerve Block,nerve-block,Foot Disorder,foot-disorder,5,3,0.6000,2016,2021,0,5,0,1,1,https://apellica.com/appeal-outcomes/california-imr/nerve-block/foot-disorder
+Acupuncture,acupuncture,Chron Pain Synd,chron-pain-synd,5,1,0.2000,2007,2018,4,1,0,0,0,https://apellica.com/appeal-outcomes/california-imr/acupuncture/chron-pain-synd
